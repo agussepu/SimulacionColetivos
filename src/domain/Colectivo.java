@@ -20,6 +20,16 @@ public class Colectivo {
         pasajeros.add(pasajero);
     }
 
+    public void bajarPasajeros(Parada paradaActual) {
+        pasajeros.removeIf(p -> {
+            if (p.getDestino().equals(paradaActual)) {
+                System.out.println("🔻 Pasajero " + p.getId() + " bajó");
+                return true;
+            }
+            return false;
+        });
+    }
+
     public int getId() {
         return id;
     }
