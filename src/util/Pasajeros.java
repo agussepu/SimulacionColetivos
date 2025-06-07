@@ -1,12 +1,13 @@
 package util;
 
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
 
-import domain.*;
+import domain.Linea;
+import domain.Parada;
+import domain.Pasajero;
 
-public class CargaDePasajeros {
+public class Pasajeros {
     private static final Random random = new Random();
     
     public static void generarPasajeros(List<Linea> lineas){        

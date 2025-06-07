@@ -3,8 +3,6 @@ package domain;
 import java.util.List;
 import java.util.ArrayList;
 
-
-// Clase Parada
 public class Parada {
     private int id;
     private String direccion;

@@ -3,7 +3,6 @@ package domain;
 import java.util.List;
 import java.util.ArrayList;
 
-// Clase Línea
 public class Linea {
     private String codigo;
     private List<Parada> paradas;

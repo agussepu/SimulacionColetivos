@@ -1,4 +1,4 @@
-package util;
+package config;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -8,7 +8,6 @@ public class Configuracion {
     private static final String ARCHIVO_CONFIG = "data/config.properties";
     private static Properties properties = new Properties();
 
-    // Carga única al iniciar
     static {
         try (FileInputStream fis = new FileInputStream(ARCHIVO_CONFIG)) {
             properties.load(fis);
@@ -29,8 +28,6 @@ public class Configuracion {
 
     public static int getCantidadPasajeros() {
         return Integer.parseInt(properties.getProperty("cantidadPasajeros"));
-        // Esto se hace ya que en caso que no tenga valor la cantidad de pasajeros le asigna uno por defecto
-        //return Integer.parseInt(properties.getProperty("cantidadPasajeros", "0"));
     }
 }
 

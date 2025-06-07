@@ -5,7 +5,7 @@ import domain.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CargaDeColectivos {
+public class Colectivos {
     public static List<Colectivo> generarColectivos(List<Linea> lineas){
         List<Colectivo> colectivos = new ArrayList<>();
         int id = 0;

@@ -3,8 +3,6 @@ package domain;
 import java.util.List;
 import java.util.ArrayList;
 
-
-// Clase Colectivo
 public class Colectivo {
     private int id;
     private Linea linea;

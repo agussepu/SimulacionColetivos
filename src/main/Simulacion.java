@@ -1,27 +1,26 @@
 package main;
 
-import java.util.Map;
-import java.util.List;
-
-import util.CargaDeColectivos;
-import util.CargaDeDatos;
-import util.CargaDePasajeros;
-import util.Configuracion;
-import util.Simulador;
 import domain.*;
+import util.*;
+
+import java.util.Map;
+import config.Configuracion;
+import java.util.List;
 
 public class Simulacion {
     public static void main(String[] args) {
-        // 1) Cargo las lineas y las paradas
-        Map<Integer,Parada> paradas = CargaDeDatos.cargarParadas(Configuracion.getArchivoParadas());
-        List<Linea> lineas = CargaDeDatos.cargarLineas(Configuracion.getArchivoLineas(), paradas);
-    
-        // 2) Genero colectivos y pasajeros
-        List<Colectivo> colectivos = CargaDeColectivos.generarColectivos(lineas);
-        CargaDePasajeros.generarPasajeros(lineas);
+        // 1) Lineas y Paradas
+        Datos datos = new Datos(Configuracion.getArchivoParadas(), Configuracion.getArchivoLineas());
         
-        // 3) Corro la simulacion
-        Simulador.ejecutar(colectivos);
-
+        Map<Integer,Parada> paradas = datos.cargarParadas();
+        List<Linea> lineas = datos.cargarLineas(paradas);
+    
+        // 2) Colectivos y Pasajeros
+        List<Colectivo> colectivos = Colectivos.generarColectivos(lineas);
+        Pasajeros.generarPasajeros(lineas);
+        
+        // 3) Simulacion
+        Simulador simulador = new Simulador(colectivos, Configuracion.getCantidadPasajeros());
+        simulador.ejecutar();
     }
 }

@@ -1,60 +1,45 @@
 package util;
 
+import domain.*;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-
-import domain.*;
+import java.util.Set;
 
 public class Simulador {
+    private final List<Colectivo> colectivos;
+    private final Map<Colectivo, Integer> posiciones = new HashMap<>();
+    private final int capacidadMaxima;
 
-    public static void ejecutar(List<Colectivo> colectivos) {
-        Map<Colectivo, Integer> posiciones = new HashMap<>();
+    public Simulador(List<Colectivo> colectivos, int capacidadMaxima) {
+        this.colectivos = colectivos;
+        this.capacidadMaxima = capacidadMaxima;
 
         for (Colectivo c : colectivos) {
             posiciones.put(c, 0);
         }
+    }
 
+    public void ejecutar() {
         boolean sigue = true;
         int parada = 1;
 
         while (sigue) {
             System.out.println("\n=== PARADA " + parada + " ===");
             sigue = false;
-            
+
             for (Colectivo c : colectivos) {
                 int pos = posiciones.get(c);
                 List<Parada> paradas = c.getLinea().getParadas();
-                
+
                 if (pos < paradas.size()) {
                     Parada actual = paradas.get(pos);
                     System.out.println("🚌 Línea " + c.getLinea().getCodigo() + " llegó a " + actual.getDireccion());
 
-                    // --- Bajada de pasajeros ---
-                    int antesBajar = c.getPasajeros().size();
-                    c.bajarPasajeros(actual);
-                    int despuesBajar = c.getPasajeros().size();
-                    int bajaron = antesBajar - despuesBajar;
-
-                    // --- Subida de pasajeros ---
-                    int capacidadMaxima = Configuracion.getCantidadPasajeros();
-                    int disponibles = capacidadMaxima - despuesBajar;
-                    int subieron = 0;
-
-                    List<Pasajero> esperando = new ArrayList<>(actual.getPasajeros());
-                    for (Pasajero p : esperando) {
-                        if (disponibles == 0) break;
-
-                        // Solo sube si su destino está en el trayecto restante
-                        if (paradas.subList(pos + 1, paradas.size()).contains(p.getDestino())) {
-                            c.subirPasajero(p);
-                            actual.getPasajeros().remove(p);
-                            subieron++;
-                            disponibles--;
-                            System.out.println("🔺 Pasajero " + p.getId() + " subió");
-                        }
-                    }
+                    int bajaron = bajarPasajeros(c, actual);
+                    int subieron = subirPasajeros(c, actual, paradas, pos);
 
                     System.out.println("👥 Bajaron: " + bajaron + " | Subieron: " + subieron +
                             " | A bordo: " + c.getPasajeros().size());
@@ -65,11 +50,38 @@ public class Simulador {
                     System.out.println("✅ Colectivo de línea " + c.getLinea().getCodigo() + " finalizó su recorrido.");
                 }
             }
-            
 
             parada++;
         }
 
         System.out.println("\n🛑 Simulación finalizada.");
     }
+
+    private int bajarPasajeros(Colectivo colectivo, Parada paradaActual) {
+        int antes = colectivo.getPasajeros().size();
+        colectivo.bajarPasajeros(paradaActual);
+        return antes - colectivo.getPasajeros().size();
+    }
+
+    private int subirPasajeros(Colectivo colectivo, Parada paradaActual, List<Parada> paradas, int pos) {
+        int disponibles = capacidadMaxima - colectivo.getPasajeros().size();
+        int subieron = 0;
+
+        List<Pasajero> esperando = new ArrayList<>(paradaActual.getPasajeros());
+        Set<Parada> destinosRestantes = new HashSet<>(paradas.subList(pos + 1, paradas.size()));
+
+        for (Pasajero p : esperando) {
+            if (disponibles == 0) break;
+            if (destinosRestantes.contains(p.getDestino())) {
+                colectivo.subirPasajero(p);
+                paradaActual.getPasajeros().remove(p);
+                System.out.println("🔺 Pasajero " + p.getId() + " subió");
+                subieron++;
+                disponibles--;
+            }
+        }
+
+        return subieron;
+    }
 }
+

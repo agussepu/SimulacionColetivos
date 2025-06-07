@@ -1,6 +1,5 @@
 package domain;
 
-// Clase Pasajero
 public class Pasajero {
     private int id;
     private Parada destino;

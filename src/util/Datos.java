@@ -11,35 +11,48 @@ import java.util.Map;
 import domain.Linea;
 import domain.Parada;
 
-public class CargaDeDatos { 
+public class Datos { 
+    private final String archivoParadas;
+    private final String archivoLineas;
+
+    public Datos(String archivoParadas, String archivoLineas) {
+        this.archivoParadas = archivoParadas;
+        this.archivoLineas = archivoLineas;
+    }
     
-    public static Map<Integer, Parada> cargarParadas(String archivo) {
+    public Map<Integer, Parada> cargarParadas() {
         Map<Integer, Parada> paradasMap = new HashMap<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(archivoParadas))) {
             String lineaTexto;
             while ((lineaTexto = br.readLine()) != null) {
-                if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith("#")) continue;
-
-                String[] partes = lineaTexto.split(";");
-                if (partes.length >= 2) {
-                    int id = Integer.parseInt(partes[0].trim());
-                    String direccion = partes[1].trim();
-                    Parada parada = new Parada(id, direccion);
-                    paradasMap.put(id, parada);
+                Parada parada = parsearParada(lineaTexto);
+                if (parada != null) {
+                    paradasMap.put(parada.getId(), parada);
                 }
             }
         } catch (IOException e) {
-            throw new RuntimeException("Error al cargar paradas desde archivo: " + archivo, e);
+            throw new RuntimeException("Error al cargar paradas desde archivo: " + archivoParadas, e);
         }
-
         return paradasMap;
     }
 
-    public static List<Linea> cargarLineas(String archivo, Map<Integer, Parada> paradas) {
+    private Parada parsearParada(String lineaTexto) {
+        if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith("#")) return null;
+
+        String[] partes = lineaTexto.split(";");
+        if (partes.length >= 2) {
+            int id = Integer.parseInt(partes[0].trim());
+            String direccion = partes[1].trim();
+            return new Parada(id, direccion);
+        }
+        return null;
+    }
+
+    public List<Linea> cargarLineas(Map<Integer, Parada> paradas) {
         List<Linea> lineas = new ArrayList<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(archivoLineas))) {
             String lineaTexto;
             while ((lineaTexto = br.readLine()) != null) {
                 if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith("#")) continue;
@@ -64,7 +77,7 @@ public class CargaDeDatos {
                 lineas.add(linea);
             }
         } catch (IOException e) {
-            throw new RuntimeException("Error al cargar líneas desde archivo: " + archivo, e);
+            throw new RuntimeException("Error al cargar líneas desde archivo: " + archivoLineas, e);
         }
         return lineas;
     }
