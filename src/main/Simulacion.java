@@ -20,7 +20,7 @@ public class Simulacion {
         Pasajeros.generarPasajeros(lineas);
         
         // 3) Simulacion
-        Simulador simulador = new Simulador(colectivos, Configuracion.getCantidadPasajeros());
+        Simulador simulador = new Simulador(colectivos);
         simulador.ejecutar();
     }
 }

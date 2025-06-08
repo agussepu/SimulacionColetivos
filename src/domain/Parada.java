@@ -1,33 +1,45 @@
 package domain;
 
-import java.util.List;
-import java.util.ArrayList;
+import java.util.*;
 
 public class Parada {
-    private int id;
-    private String direccion;
-    private List<Pasajero> pasajeros;
+    private final String direccion;
+    private final int id;
+    private final List<Pasajero> pasajerosEsperando = new ArrayList<>();
 
     public Parada(int id, String direccion) {
         this.id = id;
         this.direccion = direccion;
-        this.pasajeros = new ArrayList<>();
     }
 
-    public void agregarPasajero(Pasajero pasajero) {
-        pasajeros.add(pasajero);
-    }
+    public List<Pasajero> seleccionarPasajerosParaSubir(Set<Parada> destinosValidos, int espacioDisponible) {
+        List<Pasajero> seleccionados = new ArrayList<>();
+        Iterator<Pasajero> it = pasajerosEsperando.iterator();
 
-    public List<Pasajero> getPasajeros() {
-        return pasajeros;
-    }
+        while (it.hasNext() && seleccionados.size() < espacioDisponible) {
+            Pasajero p = it.next();
+            if (destinosValidos.contains(p.getDestino())) {
+                seleccionados.add(p);
+                it.remove();
+            }
+        }
 
-    public int getId() {
-        return id;
+        return seleccionados;
     }
 
     public String getDireccion() {
         return direccion;
     }
-}
 
+    public List<Pasajero> getPasajerosEsperando() {
+        return pasajerosEsperando;
+    }
+
+    public void agregarPasajero(Pasajero p) {
+        pasajerosEsperando.add(p);
+    }
+
+    public int getId(){
+        return id;
+    }
+}
