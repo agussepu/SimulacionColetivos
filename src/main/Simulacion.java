@@ -16,8 +16,8 @@ public class Simulacion {
         List<Linea> lineas = datos.cargarLineas(paradas);
     
         // 2) Colectivos y Pasajeros
-        List<Colectivo> colectivos = Colectivos.generarColectivos(lineas);
-        Pasajeros.generarPasajeros(lineas);
+        List<Colectivo> colectivos = AdministracionColectivos.generarColectivos(lineas);
+        AdministracionPasajeros.generarPasajeros(lineas);
         
         // 3) Simulacion
         Simulador simulador = new Simulador(colectivos);
