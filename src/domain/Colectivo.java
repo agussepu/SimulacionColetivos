@@ -4,18 +4,15 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Set;
-import java.util.Collections;
-
 
 public class Colectivo {
     private final int id;
     private final Linea linea;
-    private final List<Pasajero> pasajeros;
+    private final List<Pasajero> pasajeros = new ArrayList<>();
 
     public Colectivo(int id, Linea linea) {
         this.id = id;
         this.linea = linea;
-        this.pasajeros = new ArrayList<>();
     }
 
     public List<Pasajero> subirPasajerosDesdeParada(Parada parada, Set<Parada> destinosDisponibles, int maxCapacidad) {
@@ -51,7 +48,7 @@ public class Colectivo {
     }
 
     public List<Pasajero> getPasajeros() {
-        return Collections.unmodifiableList(pasajeros);
+        return pasajeros;
     }
 }
 

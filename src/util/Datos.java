@@ -14,6 +14,9 @@ import domain.Parada;
 public class Datos { 
     private final String archivoParadas;
     private final String archivoLineas;
+    private static final String SEPARADOR = ";";
+    private static final String COMENTARIO = "#";
+
 
     public Datos(String archivoParadas, String archivoLineas) {
         this.archivoParadas = archivoParadas;
@@ -38,9 +41,9 @@ public class Datos {
     }
 
     private Parada parsearParada(String lineaTexto) {
-        if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith("#")) return null;
+        if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith(COMENTARIO)) return null;
 
-        String[] partes = lineaTexto.split(";");
+        String[] partes = lineaTexto.split(SEPARADOR);
         if (partes.length >= 2) {
             int id = Integer.parseInt(partes[0].trim());
             String direccion = partes[1].trim();
@@ -55,9 +58,9 @@ public class Datos {
         try (BufferedReader br = new BufferedReader(new FileReader(archivoLineas))) {
             String lineaTexto;
             while ((lineaTexto = br.readLine()) != null) {
-                if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith("#")) continue;
+                if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith(COMENTARIO)) continue;
 
-                String[] partes = lineaTexto.split(";");
+                String[] partes = lineaTexto.split(SEPARADOR);
                 String codigo = partes[0].trim();
                 Linea linea = new Linea(codigo);
 

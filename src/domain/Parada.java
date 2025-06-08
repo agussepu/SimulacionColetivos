@@ -1,6 +1,9 @@
 package domain;
 
-import java.util.*;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Set;
+import java.util.Iterator;
 
 public class Parada {
     private final String direccion;

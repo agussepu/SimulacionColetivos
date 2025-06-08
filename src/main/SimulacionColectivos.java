@@ -7,7 +7,7 @@ import java.util.Map;
 import config.Configuracion;
 import java.util.List;
 
-public class Simulacion {
+public class SimulacionColectivos {
     public static void main(String[] args) {
         // 1) Lineas y Paradas
         Datos datos = new Datos(Configuracion.getArchivoParadas(), Configuracion.getArchivoLineas());
