@@ -1,11 +1,11 @@
 package domain;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Linea {
-    private String codigo;
-    private List<Parada> paradas;
+    private final String codigo;
+    private final List<Parada> paradas;
 
     public Linea(String codigo) {
         this.codigo = codigo;
