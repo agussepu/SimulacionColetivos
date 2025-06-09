@@ -12,7 +12,6 @@ Inicialmente, se debe cargar la información correspondiente a las líneas y par
 ### Taks
 - [ ] Ver el tema de que tuve que modificar las rutas del config para que lo lea (preguntar si puedo modificar el properties)
 - [ ] Ver si importan clases o usan las del libro directamente
-- [ ] Preguntar si se le podian agregar metodos a las clases del UML
 
 ---
 

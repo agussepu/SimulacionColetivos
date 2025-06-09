@@ -1,8 +1,8 @@
 package domain;
 
 public class Pasajero {
-    private int id;
-    private Parada destino;
+    private final int id;
+    private final Parada destino;
 
     public Pasajero(int id, Parada destino) {
         this.id = id;
