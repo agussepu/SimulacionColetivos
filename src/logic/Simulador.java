@@ -1,4 +1,4 @@
-package util;
+package logic;
 
 import domain.*;
 import config.Configuracion;
