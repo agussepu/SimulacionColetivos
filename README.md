@@ -10,6 +10,7 @@ Inicialmente, se debe cargar la información correspondiente a las líneas y par
    6. Corro la simulacion
 
 ### Taks
+-[ ]
 
 ---
 
