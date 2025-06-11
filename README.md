@@ -28,6 +28,9 @@
 7. **Finalización:**  
    La simulación termina cuando todos los colectivos han completado su recorrido por sus respectivas líneas.
 
+## Nota a tener en cuenta
+Cada colectivo genera como maximo 3 pasajeros por cada parada, esto puede modificarse desde el properties
+
 ## Incremento 1
 **Consigna:** Inicialmente, se debe cargar la información correspondiente a las líneas y paradas que modelan la red de colectivos. Los mismos son cargados desde archivos de texto. Para correr la simulación se deben generar los pasajeros distribuidos en las distintas paradas y un colectivo por línea que realiza un solo recorrido por la misma. Para cada colectivo mostrar las paradas por la que va pasando y los pasajeros que suben y bajan en cada parada.
 
