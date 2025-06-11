@@ -4,6 +4,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
+/**
+ * Clase utilitaria para la gestión de la configuración del sistema.
+ * Carga los parámetros desde un archivo properties externo y provee métodos
+ * estáticos para acceder a los valores de configuración necesarios en la simulación.
+ */
 public class Configuracion {
     private static final String ARCHIVO_CONFIG = "data/config.properties";
     private static final Properties properties = new Properties();
@@ -12,7 +17,7 @@ public class Configuracion {
     private static final String CANTIDAD_PASAJEROS_KEY = "cantidadPasajeros";
     private static final String MAX_PASAJEROS_POR_PARADA_KEY = "maxPasajerosPorParada";
 
-
+    // Bloque estático para cargar la configuración al iniciar la clase
     static {
         try (FileInputStream fis = new FileInputStream(ARCHIVO_CONFIG)) {
             properties.load(fis);
@@ -21,6 +26,11 @@ public class Configuracion {
         }
     }
 
+    /**
+     * Obtiene la ruta del archivo de líneas desde la configuración.
+     * @return Ruta del archivo de líneas.
+     * @throws IllegalStateException si la propiedad no está definida.
+     */
     public static String getArchivoLineas() {
         String value = properties.getProperty(LINEA_KEY);
         if (value == null) {
@@ -29,6 +39,11 @@ public class Configuracion {
         return value;
     }
 
+    /**
+     * Obtiene la ruta del archivo de paradas desde la configuración.
+     * @return Ruta del archivo de paradas.
+     * @throws IllegalStateException si la propiedad no está definida.
+     */
     public static String getArchivoParadas() {
         String value = properties.getProperty(PARADA_KEY);
         if (value == null) {
@@ -37,6 +52,11 @@ public class Configuracion {
         return value;
     }
 
+    /**
+     * Obtiene la cantidad total de pasajeros a generar en la simulación.
+     * @return Cantidad de pasajeros.
+     * @throws IllegalStateException si la propiedad no está definida o es inválida.
+     */
     public static int getCantidadPasajeros() {
         String value = properties.getProperty(CANTIDAD_PASAJEROS_KEY);
         if (value == null) {
@@ -49,6 +69,11 @@ public class Configuracion {
         }
     }
 
+    /**
+     * Obtiene la cantidad máxima de pasajeros que puede generar cada línea por parada.
+     * @return Máximo de pasajeros por parada.
+     * @throws IllegalStateException si la propiedad no está definida o es inválida.
+     */
     public static int getMaxPasajerosPorParada() {
         String value = properties.getProperty(MAX_PASAJEROS_POR_PARADA_KEY);
         if (value == null) {

@@ -11,6 +11,10 @@ import java.util.List;
 import java.util.Map;
 import presentacion.VistaPorConsola;
 
+/**
+ * Clase encargada de la carga de datos desde archivos de texto para la simulación.
+ * Permite cargar las paradas y líneas de colectivos a partir de archivos configurados.
+ */
 public class Datos { 
     private final String archivoParadas;
     private final String archivoLineas;
@@ -18,12 +22,23 @@ public class Datos {
     private static final String COMENTARIO = "#";
     private final VistaPorConsola vista;
 
+    /**
+     * Crea una instancia de Datos con los archivos de paradas y líneas especificados.
+     * @param archivoParadas Ruta del archivo de paradas.
+     * @param archivoLineas Ruta del archivo de líneas.
+     * @param vista Instancia de la vista para mostrar advertencias o mensajes.
+     */
     public Datos(String archivoParadas, String archivoLineas, VistaPorConsola vista) {
         this.archivoParadas = archivoParadas;
         this.archivoLineas = archivoLineas;
         this.vista = vista;
     }
     
+    /**
+     * Carga las paradas desde el archivo configurado.
+     * @return Mapa de paradas, donde la clave es el ID de la parada y el valor es el objeto Parada.
+     * @throws RuntimeException si ocurre un error de lectura del archivo.
+     */
     public Map<Integer, Parada> cargarParadas() {
         Map<Integer, Parada> paradasMap = new HashMap<>();
 
@@ -41,6 +56,11 @@ public class Datos {
         return paradasMap;
     }
 
+    /**
+     * Parsea una línea de texto del archivo de paradas y crea un objeto Parada.
+     * @param lineaTexto Línea de texto a parsear.
+     * @return Objeto Parada si la línea es válida, o null si es inválida o un comentario.
+     */
     private Parada parsearParada(String lineaTexto) {
         if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith(COMENTARIO)) return null;
 
@@ -53,6 +73,13 @@ public class Datos {
         return null;
     }
 
+    /**
+     * Carga las líneas de colectivos desde el archivo configurado, asociando las paradas previamente cargadas.
+     * Si una parada referenciada en el archivo de líneas no existe, se muestra una advertencia por consola.
+     * @param paradas Mapa de paradas disponibles, indexadas por su ID.
+     * @return Lista de objetos Linea cargados desde el archivo.
+     * @throws RuntimeException si ocurre un error de lectura del archivo.
+     */
     public List<Linea> cargarLineas(Map<Integer, Parada> paradas) {
         List<Linea> lineas = new ArrayList<>();
 

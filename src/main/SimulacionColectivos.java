@@ -11,15 +11,25 @@ import util.*;
 
 public class SimulacionColectivos {
     public static void main(String[] args) {
+        // Crear la vista para mostrar información por consola
         VistaPorConsola vista = new VistaPorConsola();
         
+        // Cargar archivos de paradas y líneas usando la configuración
         Datos datos = new Datos(Configuracion.getArchivoParadas(), Configuracion.getArchivoLineas(), vista);
+        
+        // Cargar las paradas desde el archivo y almacenarlas en un mapa (id -> Parada)
         Map<Integer,Parada> paradas = datos.cargarParadas();
+        
+        // Cargar las líneas desde el archivo y asociarles las paradas correspondientes
         List<Linea> lineas = datos.cargarLineas(paradas);
     
+        // Generar los colectivos para cada línea
         List<Colectivo> colectivos = AdministracionColectivos.generarColectivos(lineas);
+        
+        // Generar los pasajeros y asignarlos a las paradas
         AdministracionPasajeros.generarPasajeros(lineas);
         
+        // Crear el simulador y ejecutar la simulación
         Simulador simulador = new Simulador(colectivos, vista);
         simulador.ejecutar();
     }
