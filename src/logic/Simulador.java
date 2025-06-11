@@ -1,19 +1,22 @@
 package logic;
 
-import domain.*;
 import config.Configuracion;
-import java.util.List;
-import java.util.Map;
+import domain.*;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import presentacion.VistaPorConsola;
 
 public class Simulador {
     private final int MAX_CAPACIDAD = Configuracion.getCantidadPasajeros();
     private final List<Colectivo> colectivos;
     private final Map<Colectivo, Integer> posiciones = new HashMap<>();
+    private final VistaPorConsola vista;
 
-    public Simulador(List<Colectivo> colectivos) {
+    public Simulador(List<Colectivo> colectivos, VistaPorConsola vista) {
         this.colectivos = colectivos;
+        this.vista = vista;
         colectivos.forEach(c -> posiciones.put(c, 0));
     }
 
@@ -22,7 +25,7 @@ public class Simulador {
         int numeroParada = 1;
 
         while (enCurso) {
-            System.out.println("\n=== PARADA " + numeroParada + " ===");
+            vista.mostrarInicioParada(numeroParada);
             enCurso = false;
 
             for (Colectivo colectivo : colectivos) {
@@ -31,26 +34,26 @@ public class Simulador {
 
                 if (pos < paradas.size()) {
                     Parada actual = paradas.get(pos);
-                    System.out.println("🚌 Línea " + colectivo.getLinea().getCodigo() + " llegó a " + actual.getDireccion());
+                    vista.mostrarLlegadaColectivo(colectivo, actual);
 
                     List<Pasajero> bajaron = colectivo.bajarPasajerosEn(actual);
                     List<Pasajero> subieron = colectivo.subirPasajerosDesdeParada(actual, new HashSet<>(paradas.subList(pos + 1, paradas.size())), MAX_CAPACIDAD);
 
-                    bajaron.forEach(p -> System.out.println("🔻 Pasajero " + p.getId() + " bajó"));
-                    subieron.forEach(p -> System.out.println("🔺 Pasajero " + p.getId() + " subió"));
+                    bajaron.forEach(p -> vista.mostrarPasajeroBajo(p));
+                    subieron.forEach(p -> vista.mostrarPasajeroSubio(p));
 
-                    System.out.println("👥 Bajaron: " + bajaron.size() + " | Subieron: " + subieron.size() + " | A bordo: " + colectivo.getCantidadPasajeros());
+                    vista.mostrarEstadoColectivo(colectivo, bajaron.size(), subieron.size());
 
                     posiciones.put(colectivo, pos + 1);
                     enCurso = true;
                 } else {
-                    System.out.println("✅ Colectivo de línea " + colectivo.getLinea().getCodigo() + " finalizó su recorrido.");
+                    vista.mostrarFinRecorrido(colectivo);
                 }
             }
 
             numeroParada++;
         }
 
-        System.out.println("\n🛑 Simulación finalizada.");
+        vista.mostrarFinSimulacion();
     }
 }

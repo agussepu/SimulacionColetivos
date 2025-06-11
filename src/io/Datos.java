@@ -1,5 +1,7 @@
 package io;
 
+import domain.Linea;
+import domain.Parada;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -7,20 +9,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import domain.Linea;
-import domain.Parada;
+import presentacion.VistaPorConsola;
 
 public class Datos { 
     private final String archivoParadas;
     private final String archivoLineas;
     private static final String SEPARADOR = ";";
     private static final String COMENTARIO = "#";
+    private final VistaPorConsola vista;
 
-
-    public Datos(String archivoParadas, String archivoLineas) {
+    public Datos(String archivoParadas, String archivoLineas, VistaPorConsola vista) {
         this.archivoParadas = archivoParadas;
         this.archivoLineas = archivoLineas;
+        this.vista = vista;
     }
     
     public Map<Integer, Parada> cargarParadas() {
@@ -72,7 +73,7 @@ public class Datos {
                         if (parada != null) {
                             linea.agregarParada(parada);
                         } else {
-                            System.err.println("⚠️ Parada no encontrada para ID: " + idParada);
+                            vista.mostrarAdvertenciaParadaNoEncontrada(idParada);
                         }
                     }
                 }

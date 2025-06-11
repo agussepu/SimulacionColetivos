@@ -1,15 +1,14 @@
 package util;
 
-import java.util.List;
-import java.util.Random;
-
+import config.Configuracion;
 import domain.Linea;
 import domain.Parada;
 import domain.Pasajero;
+import java.util.List;
+import java.util.Random;
 
 public class AdministracionPasajeros {
     private static final Random random = new Random();
-    private static final int MAX_PASAJEROS_POR_PARADA = 3;
 
     public static void generarPasajeros(List<Linea> lineas) {
         int idPasajero = 0;
@@ -38,7 +37,7 @@ public class AdministracionPasajeros {
     }
 
     private static int pasajerosAleatorios() {
-        return random.nextInt(MAX_PASAJEROS_POR_PARADA) + 1;
+        return random.nextInt(Configuracion.getMaxPasajerosPorParada()) + 1;
     }
 
     private static Parada elegirDestinoAleatorio(List<Parada> paradas, int origenIndex) {
