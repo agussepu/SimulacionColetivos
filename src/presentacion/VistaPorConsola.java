@@ -75,4 +75,25 @@ public class VistaPorConsola {
     public void mostrarAdvertenciaParadaNoEncontrada(int idParada) {
         System.err.println("⚠️ Parada no encontrada para ID: " + idParada);
     }
+
+    /**
+     * Muestra un mensaje cuando el colectivo está lleno y quedan pasajeros esperando.
+     * @param c Colectivo.
+     * @param p Parada.
+     * @param cantidad Cantidad de pasajeros que quedaron esperando.
+     */
+    public void mostrarColectivoLlenoYPasajerosEsperando(Colectivo c, Parada p, int cantidad) {
+        System.out.println("⚠️ Colectivo de línea " + c.getLinea().getCodigo() +
+            " está lleno en " + p.getDireccion() +
+            ". Quedaron " + cantidad + " pasajeros esperando.");
+    }
+
+    public void mostrarIndiceSatisfaccion(double indice) {
+        System.out.printf("⭐ Índice de satisfacción: %.2f%n", indice);
+    }
+
+    public void mostrarOcupacionPromedio(Colectivo colectivo, double promedio) {
+        System.out.printf("Colectivo %d (Línea %s) - Ocupación promedio: %.2f%n",
+            colectivo.getId(), colectivo.getLinea().getCodigo(), promedio);
+    }
 }

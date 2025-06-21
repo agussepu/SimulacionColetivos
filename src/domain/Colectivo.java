@@ -13,6 +13,7 @@ public class Colectivo {
     private final int id;
     private final Linea linea;
     private final List<Pasajero> pasajeros = new ArrayList<>();
+    private final List<Integer> ocupacionPorTramo = new ArrayList<>();
 
     /**
      * Crea un nuevo colectivo asociado a una línea.
@@ -34,6 +35,22 @@ public class Colectivo {
     public List<Pasajero> subirPasajerosDesdeParada(Parada parada, Set<Parada> destinosDisponibles, int maxCapacidad) {
         int espacioDisponible = maxCapacidad - pasajeros.size();
         List<Pasajero> subieron = parada.seleccionarPasajerosParaSubir(destinosDisponibles, espacioDisponible);
+
+        for (int i = 0; i < subieron.size(); i++) {
+            Pasajero p = subieron.get(i);
+            switch (p.getColectivosEsperados()) {
+                case 0 -> {
+                    if (pasajeros.size() + i < maxCapacidad / 2) {
+                        p.setCalificacion(5); // Consiguió asiento
+                    } else {
+                        p.setCalificacion(4); // Viajó parado
+                    }
+                }
+                case 1 -> p.setCalificacion(3);
+                default -> p.setCalificacion(2); // Esperó más de dos colectivos para subir
+            }
+        }
+
         pasajeros.addAll(subieron);
         return subieron;
     }
@@ -88,5 +105,13 @@ public class Colectivo {
      */
     public List<Pasajero> getPasajeros() {
         return pasajeros;
+    }
+
+    public void registrarOcupacionTramo() {
+        ocupacionPorTramo.add(pasajeros.size());
+    }
+
+    public List<Integer> getOcupacionPorTramo() {
+        return ocupacionPorTramo;
     }
 }

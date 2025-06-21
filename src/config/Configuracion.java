@@ -16,6 +16,7 @@ public class Configuracion {
     private static final String PARADA_KEY = "parada";
     private static final String CANTIDAD_PASAJEROS_KEY = "cantidadPasajeros";
     private static final String MAX_PASAJEROS_POR_PARADA_KEY = "maxPasajerosPorParada";
+    private static final String MAX_VUELTAS_KEY = "maxVueltas"; 
 
     // Bloque estático para cargar la configuración al iniciar la clase
     static {
@@ -84,5 +85,9 @@ public class Configuracion {
         } catch (NumberFormatException e) {
             throw new IllegalStateException("Valor inválido para 'maxPasajerosPorParada': " + value);
         }
+    }
+
+    public static int getMaxVueltas() {
+        return Integer.parseInt(properties.getProperty(MAX_VUELTAS_KEY));
     }
 }

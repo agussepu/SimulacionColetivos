@@ -4,6 +4,7 @@ import config.Configuracion;
 import domain.Linea;
 import domain.Parada;
 import domain.Pasajero;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
@@ -13,6 +14,8 @@ import java.util.Random;
  */
 public class AdministracionPasajeros {
     private static final Random random = new Random();
+    private static final List<Pasajero> todosLosPasajeros = new ArrayList<>();
+
 
     /**
      * Genera pasajeros para cada línea proporcionada, asignando IDs únicos y
@@ -48,6 +51,7 @@ public class AdministracionPasajeros {
                 Parada destino = elegirDestinoAleatorio(paradas, i);
                 Pasajero pasajero = new Pasajero(idPasajero++, destino);
                 origen.agregarPasajero(pasajero);
+                todosLosPasajeros.add(pasajero);
             }
         }
 
@@ -75,6 +79,10 @@ public class AdministracionPasajeros {
     private static Parada elegirDestinoAleatorio(List<Parada> paradas, int origenIndex) {
         int destinoIndex = origenIndex + 1 + random.nextInt(paradas.size() - origenIndex - 1);
         return paradas.get(destinoIndex);
+    }
+
+    public static List<Pasajero> getTodosLosPasajeros() {
+        return todosLosPasajeros;
     }
 }
 

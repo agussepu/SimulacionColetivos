@@ -7,6 +7,9 @@ package domain;
 public class Pasajero {
     private final int id;
     private final Parada destino;
+    // Para indice de satisfaccion:
+    private int colectivosEsperados = 0;
+    private int calificacion = 1; // Por defecto, 1 (muy malo)
 
     /**
      * Crea un nuevo pasajero con el id y destino especificados.
@@ -33,4 +36,10 @@ public class Pasajero {
     public Parada getDestino() {
         return destino;
     }
+
+    // Satisfaccion 
+    public void incrementarEspera() { colectivosEsperados++; }
+    public int getColectivosEsperados() { return colectivosEsperados; }
+    public void setCalificacion(int calificacion) { this.calificacion = calificacion; }
+    public int getCalificacion() { return calificacion; }
 }
