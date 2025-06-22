@@ -86,31 +86,50 @@ public class Datos {
         try (BufferedReader br = new BufferedReader(new FileReader(archivoLineas))) {
             String lineaTexto;
             while ((lineaTexto = br.readLine()) != null) {
-                if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith(COMENTARIO)) continue;
-
-                String[] partes = lineaTexto.split(SEPARADOR);
-                String codigo = partes[0].trim();
-                Linea linea = new Linea(codigo);
-
-                for (int i = 1; i < partes.length; i++) {
-                    String idStr = partes[i].trim();
-                    if (!idStr.isEmpty()) {
-                        int idParada = Integer.parseInt(idStr);
-                        Parada parada = paradas.get(idParada);
-                        if (parada != null) {
-                            linea.agregarParada(parada);
-                        } else {
-                            vista.mostrarAdvertenciaParadaNoEncontrada(idParada);
-                        }
-                    }
+                Linea linea = parsearLinea(lineaTexto, paradas);
+                if (linea != null) {
+                    lineas.add(linea);
                 }
-
-                lineas.add(linea);
             }
         } catch (IOException e) {
             throw new RuntimeException("Error al cargar líneas desde archivo: " + archivoLineas, e);
         }
         return lineas;
+    }
+
+    /**
+     * Parsea una línea de texto del archivo de líneas y crea un objeto Linea.
+     * Si alguna parada referenciada no existe, muestra una advertencia y la omite.
+     * @param lineaTexto Línea de texto a parsear.
+     * @param paradas Mapa de paradas disponibles.
+     * @return Objeto Linea si la línea es válida, o null si es inválida o un comentario.
+     */
+    private Linea parsearLinea(String lineaTexto, Map<Integer, Parada> paradas) {
+        if (lineaTexto.trim().isEmpty() || lineaTexto.startsWith(COMENTARIO)) return null;
+
+        String[] partes = lineaTexto.split(SEPARADOR);
+        if (partes.length < 2) return null;
+
+        String codigo = partes[0].trim();
+        Linea linea = new Linea(codigo);
+
+        for (int i = 1; i < partes.length; i++) {
+            String idStr = partes[i].trim();
+            if (!idStr.isEmpty()) {
+                try {
+                    int idParada = Integer.parseInt(idStr);
+                    Parada parada = paradas.get(idParada);
+                    if (parada != null) {
+                        linea.agregarParada(parada);
+                    } else {
+                        vista.mostrarAdvertenciaParadaNoEncontrada(idParada);
+                    }
+                } catch (NumberFormatException ex) {
+                    vista.mostrarAdvertenciaParadaNoValida(idStr);
+                }
+            }
+        }
+        return linea;
     }
 
 }

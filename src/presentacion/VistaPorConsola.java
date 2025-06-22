@@ -14,7 +14,7 @@ public class VistaPorConsola {
      * Muestra el inicio de una nueva parada.
      * @param numeroParada Número de la parada actual.
      */
-    public void mostrarInicioParada(int numeroParada) {
+    public void mostrarInicioParada(final int numeroParada) {
         System.out.println("\n=== PARADA " + numeroParada + " ===");
     }
 
@@ -22,7 +22,7 @@ public class VistaPorConsola {
      * Muestra el mensaje cuando un pasajero sube al colectivo.
      * @param p Pasajero que sube.
      */
-    public void mostrarPasajeroSubio(Pasajero p) {
+    public void mostrarPasajeroSubio(final Pasajero p) {
         System.out.println("🔺 Pasajero " + p.getId() + " subió");
     }
 
@@ -30,7 +30,7 @@ public class VistaPorConsola {
      * Muestra el mensaje cuando un pasajero baja del colectivo.
      * @param p Pasajero que baja.
      */
-    public void mostrarPasajeroBajo(Pasajero p) {
+    public void mostrarPasajeroBajo(final Pasajero p) {
         System.out.println("🔻 Pasajero " + p.getId() + " bajó");
     }
 
@@ -40,7 +40,7 @@ public class VistaPorConsola {
      * @param bajaron Cantidad de pasajeros que bajaron.
      * @param subieron Cantidad de pasajeros que subieron.
      */
-    public void mostrarEstadoColectivo(Colectivo c, int bajaron, int subieron) {
+    public void mostrarEstadoColectivo(final Colectivo c, final int bajaron, final int subieron) {
         System.out.println("👥 Bajaron: " + bajaron + " | Subieron: " + subieron + " | A bordo: " + c.getCantidadPasajeros());
     }
 
@@ -49,7 +49,7 @@ public class VistaPorConsola {
      * @param c Colectivo.
      * @param p Parada a la que llegó el colectivo.
      */
-    public void mostrarLlegadaColectivo(Colectivo c, Parada p) {
+    public void mostrarLlegadaColectivo(final Colectivo c, final Parada p) {
         System.out.println("🚌 Línea " + c.getLinea().getCodigo() + " llegó a " + p.getDireccion());
     }
 
@@ -57,7 +57,7 @@ public class VistaPorConsola {
      * Muestra el mensaje de finalización de recorrido de un colectivo.
      * @param c Colectivo que finalizó su recorrido.
      */
-    public void mostrarFinRecorrido(Colectivo c) {
+    public void mostrarFinRecorrido(final Colectivo c) {
         System.out.println("✅ Colectivo de línea " + c.getLinea().getCodigo() + " finalizó su recorrido.");
     }
 
@@ -72,7 +72,7 @@ public class VistaPorConsola {
      * Muestra una advertencia cuando una parada referenciada no se encuentra.
      * @param idParada ID de la parada no encontrada.
      */
-    public void mostrarAdvertenciaParadaNoEncontrada(int idParada) {
+    public void mostrarAdvertenciaParadaNoEncontrada(final int idParada) {
         System.err.println("⚠️ Parada no encontrada para ID: " + idParada);
     }
 
@@ -82,18 +82,35 @@ public class VistaPorConsola {
      * @param p Parada.
      * @param cantidad Cantidad de pasajeros que quedaron esperando.
      */
-    public void mostrarColectivoLlenoYPasajerosEsperando(Colectivo c, Parada p, int cantidad) {
+    public void mostrarColectivoLlenoYPasajerosEsperando(final Colectivo c, final Parada p, final int cantidad) {
         System.out.println("⚠️ Colectivo de línea " + c.getLinea().getCodigo() +
             " está lleno en " + p.getDireccion() +
             ". Quedaron " + cantidad + " pasajeros esperando.");
     }
 
-    public void mostrarIndiceSatisfaccion(double indice) {
+    /**
+     * Muestra el índice de satisfacción calculado al finalizar la simulación.
+     * @param indice Valor del índice de satisfacción (entre 0 y 1).
+     */
+    public void mostrarIndiceSatisfaccion(final double indice) {
         System.out.printf("⭐ Índice de satisfacción: %.2f%n", indice);
     }
 
-    public void mostrarOcupacionPromedio(Colectivo colectivo, double promedio) {
-        System.out.printf("Colectivo %d (Línea %s) - Ocupación promedio: %.2f%n",
+    /**
+     * Muestra el promedio de ocupación de un colectivo durante la simulación.
+     * @param colectivo Colectivo del que se muestra la ocupación.
+     * @param promedio Valor promedio de ocupación (entre 0 y 1).
+     */
+    public void mostrarOcupacionPromedio(final Colectivo colectivo, final double promedio) {
+        System.out.printf("🚏 Colectivo %d (Línea %s) - Ocupación promedio: %.2f%n",
             colectivo.getId(), colectivo.getLinea().getCodigo(), promedio);
+    }
+
+    /**
+     * Muestra una advertencia cuando el ID de una parada en el archivo de líneas no es válido.
+     * @param idStr ID de parada no válido como string.
+     */
+    public void mostrarAdvertenciaParadaNoValida(String idStr) {
+        System.err.println("[!] ID de parada no válido en archivo de líneas: " + idStr);
     }
 }

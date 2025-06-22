@@ -87,7 +87,23 @@ public class Configuracion {
         }
     }
 
+    /**
+     * Obtiene la cantidad máxima de vueltas que puede realizar un colectivo en la simulación.
+     * El valor se obtiene desde el archivo de configuración utilizando la clave correspondiente.
+     * 
+     * @return Cantidad máxima de vueltas por colectivo.
+     * @throws NumberFormatException si el valor no es un número entero válido.
+     * @throws NullPointerException si la propiedad no está definida en el archivo de configuración.
+     */
     public static int getMaxVueltas() {
-        return Integer.parseInt(properties.getProperty(MAX_VUELTAS_KEY));
+        String value = properties.getProperty(MAX_VUELTAS_KEY);
+        if (value == null) {
+            throw new IllegalStateException("Propiedad 'maxVueltas' no encontrada en el archivo de configuración.");
+        }
+        try {
+            return Integer.parseInt(value);
+        } catch (NumberFormatException e) {
+            throw new IllegalStateException("Valor inválido para 'maxVueltas': " + value);
+        }
     }
 }

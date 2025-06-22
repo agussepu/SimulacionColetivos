@@ -39,15 +39,16 @@ public class Colectivo {
         for (int i = 0; i < subieron.size(); i++) {
             Pasajero p = subieron.get(i);
             switch (p.getColectivosEsperados()) {
-                case 0 -> {
+                case 0 -> { // Subio en el primer coletivo que paso
                     if (pasajeros.size() + i < maxCapacidad / 2) {
                         p.setCalificacion(5); // Consiguió asiento
                     } else {
                         p.setCalificacion(4); // Viajó parado
                     }
                 }
-                case 1 -> p.setCalificacion(3);
+                case 1 -> p.setCalificacion(3); // Espero un colectivo para subir 
                 default -> p.setCalificacion(2); // Esperó más de dos colectivos para subir
+                // en caso de no subir a ningun colectivo ya tienen asignado por defecto 1
             }
         }
 
@@ -73,7 +74,26 @@ public class Colectivo {
         return bajan;
     }
 
+    /**
+     * Registra la cantidad de pasajeros a bordo en el tramo actual del recorrido.
+     * Este método debe llamarse después de cada parada para llevar un historial de la ocupación del colectivo.
+     */
+    public void registrarOcupacionTramo() {
+        ocupacionPorTramo.add(pasajeros.size());
+    }
+
+    
     // Getters
+
+    /**
+     * Devuelve la lista de ocupación registrada por tramo durante el recorrido del colectivo.
+     * Cada elemento de la lista representa la cantidad de pasajeros a bordo después de cada parada.
+     *
+     * @return Lista de ocupación por tramo.
+     */
+    public List<Integer> getOcupacionPorTramo() {
+        return ocupacionPorTramo;
+    }
     
     /**
      * Obtiene la cantidad de pasajeros actualmente a bordo del colectivo.
@@ -105,13 +125,5 @@ public class Colectivo {
      */
     public List<Pasajero> getPasajeros() {
         return pasajeros;
-    }
-
-    public void registrarOcupacionTramo() {
-        ocupacionPorTramo.add(pasajeros.size());
-    }
-
-    public List<Integer> getOcupacionPorTramo() {
-        return ocupacionPorTramo;
     }
 }

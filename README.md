@@ -4,17 +4,12 @@
 ---
 ## Tareas
 
-- [x] Capacidad maxima de pasajeros que puede subir un colectivo (creo que esto ya esta)
+- [ ] Ver si es correcta la logica de los sets con las paradas
+- [ ] Modularizar y mejorar Simulador.java
 
-- [x] Los colectivos deben hacer mas de un recorrido dentro de su linea
-  - [x] Puede darse el caso que queden pasajeros esperando en la parada al próximo colectivo, si el que llega a la parada completa antes su capacidad.
-
-- [x]  Agregar a la simulación el cálculo del índice de satisfacción del cliente y de ocupación promedio de los colectivos (ver anexos)
-
+- [ ] **Extra**: Java Swing para IU (rama aparte)
+  
 - [ ] Crear la documentacion solicitada
-
-- [ ] **Extra**: Java Swing para IU
-
 ---
 # Flujo General
 
@@ -45,20 +40,17 @@
 ## Nota a tener en cuenta
 Cada colectivo genera como maximo 3 pasajeros por cada parada, esto puede modificarse desde el properties
 
+---
+
 ## Incremento 1
 **Consigna:** Inicialmente, se debe cargar la información correspondiente a las líneas y paradas que modelan la red de colectivos. Los mismos son cargados desde archivos de texto. Para correr la simulación se deben generar los pasajeros distribuidos en las distintas paradas y un colectivo por línea que realiza un solo recorrido por la misma. Para cada colectivo mostrar las paradas por la que va pasando y los pasajeros que suben y bajan en cada parada.
 
-## Condiciones de Presentacion
-    • Introducción 
-    • Planteo del problema
-    • Análisis de las estructuras seleccionadas 
-    • Diagrama de clases
-    • Implementación de la solución
-    • Manual de funcionamiento (ingreso de datos, pruebas, resultados de salida)
-    • Errores detectados (si existe algún error y bajo qué condiciones se produce)
-    • Lotes de prueba
-    • Posibles mejoras y extensiones
-    • Conclusiones
+## Incremento 2
+**Consigna:** Agregar a la simulación la posibilidad de que cada colectivo haga más de un recorrido dentro de su línea. Cada colectivo tiene una capacidad máxima de pasajeros que puede transportar. Puede darse el caso que queden pasajeros esperando en la parada al próximo colectivo, si el que llega a la parada completa antes su capacidad. También agregar a la simulación el cálculo del índice de satisfacción del cliente y de ocupación promedio de los colectivos (ver anexos). Junto con la aplicación entregar toda la documentación solicitada.
 
 
-
+# Notas de posibles mejoras 
+   - Datos.java: 
+     - Deberia mejorar las validaciones a la hora de hacer ParseInt 
+     - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
+     - Evitar crear líneas vacías (sin paradas)

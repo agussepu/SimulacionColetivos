@@ -7,7 +7,6 @@ package domain;
 public class Pasajero {
     private final int id;
     private final Parada destino;
-    // Para indice de satisfaccion:
     private int colectivosEsperados = 0;
     private int calificacion = 1; // Por defecto, 1 (muy malo)
 
@@ -19,6 +18,37 @@ public class Pasajero {
     public Pasajero(int id, Parada destino) {
         this.id = id;
         this.destino = destino;
+    }
+
+    /**
+     * Incrementa en uno la cantidad de colectivos que el pasajero ha esperado.
+     */
+    public void incrementarEspera() { 
+        colectivosEsperados++; 
+    }
+    
+    /**
+     * Devuelve la cantidad de colectivos que el pasajero ha esperado antes de subir.
+     * @return Cantidad de colectivos esperados.
+     */
+    public int getColectivosEsperados() { 
+        return colectivosEsperados; 
+    }
+    
+    /**
+     * Asigna la calificación de satisfacción al pasajero.
+     * @param calificacion Valor de calificación (1 a 5).
+     */
+    public void setCalificacion(int calificacion) { 
+        this.calificacion = calificacion; 
+    }
+    
+    /**
+     * Devuelve la calificación de satisfacción del pasajero.
+     * @return Calificación asignada.
+     */
+    public int getCalificacion() { 
+        return calificacion; 
     }
 
     /**
@@ -36,10 +66,4 @@ public class Pasajero {
     public Parada getDestino() {
         return destino;
     }
-
-    // Satisfaccion 
-    public void incrementarEspera() { colectivosEsperados++; }
-    public int getColectivosEsperados() { return colectivosEsperados; }
-    public void setCalificacion(int calificacion) { this.calificacion = calificacion; }
-    public int getCalificacion() { return calificacion; }
 }
