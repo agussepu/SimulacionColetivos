@@ -1,5 +1,7 @@
 package domain;
 
+import config.Configuracion;
+
 /**
  * Representa un pasajero que viaja en un colectivo.
  * Cada pasajero tiene un identificador único y una parada de destino.
@@ -20,15 +22,11 @@ public class Pasajero {
         this.destino = destino;
     }
 
-    /**
-     * Asigna la calificación de satisfacción al pasajero al subir al colectivo.
-     * @param posicion Posición en la lista de pasajeros al subir (para saber si viaja sentado o parado).
-     * @param maxCapacidad Capacidad máxima del colectivo.
-     */
     public void calificarAlSubir(int posicion, int maxCapacidad) {
+        int cantidadAsientos = Configuracion.getCantidadAsientos();
         switch (colectivosEsperados) {
             case 0 -> {
-                if (posicion < maxCapacidad / 2) {
+                if (posicion < cantidadAsientos) {
                     setCalificacion(5); // Consiguió asiento
                 } else {
                     setCalificacion(4); // Viajó parado
@@ -36,9 +34,19 @@ public class Pasajero {
             }
             case 1 -> setCalificacion(3); // Esperó un colectivo para subir
             default -> setCalificacion(2); // Esperó más de dos colectivos para subir
-            // Si nunca sube, queda con 1 por defecto
         }
     }
+
+    /**
+     * Decide si el pasajero quiere subir al colectivo.
+     * Simplificado - la lógica de verificación del recorrido se maneja en Colectivo.
+     */
+    public boolean quiereSubirA(Colectivo colectivo, Parada parada) {
+        // Lógica simple: siempre quiere subir si la línea va a su destino
+        // La verificación de si el destino está en el recorrido futuro se hace en Colectivo
+        return colectivo.getLinea().getParadas().contains(destino);
+    }
+   
 
     /**
      * Incrementa en uno la cantidad de colectivos que el pasajero ha esperado.

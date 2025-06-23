@@ -18,6 +18,7 @@ public class Configuracion {
     private static final String MAX_PASAJEROS_POR_PARADA_KEY = "maxPasajerosPorParada";
     private static final String MAX_VUELTAS_KEY = "maxVueltas"; 
     private static final String ARCHIVO_SALIDA_SIMULACION_KEY = "archivoSalidaSimulacion";
+    private static final String CANTIDAD_ASIENTOS_KEY = "cantidadAsientos";
 
     // Bloque estático para cargar la configuración al iniciar la clase
     static {
@@ -114,5 +115,13 @@ public class Configuracion {
             throw new IllegalStateException("Propiedad 'archivoSalidaSimulacion' no encontrada en el archivo de configuración.");
         }
         return value;
-    }   
+    }
+    
+    public static int getCantidadAsientos() {
+        String value = properties.getProperty(CANTIDAD_ASIENTOS_KEY);
+        if (value == null) {
+            throw new IllegalStateException("Propiedad 'cantidadAsientos' no encontrada en el archivo de configuración.");
+        }
+        return Integer.parseInt(value);
+    }
 }

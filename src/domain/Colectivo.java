@@ -3,7 +3,7 @@ package domain;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
+import java.util.Map;
 
 /**
  * Representa un colectivo que realiza el recorrido de una línea determinada.
@@ -26,24 +26,44 @@ public class Colectivo {
     }
 
     /**
-     * Permite que los pasajeros suban al colectivo desde una parada, según los destinos disponibles y la capacidad máxima.
-     * @param parada Parada actual.
-     * @param destinosDisponibles Conjunto de paradas válidas como destino.
-     * @param maxCapacidad Capacidad máxima del colectivo.
-     * @return Lista de pasajeros que subieron.
+     * Permite que los pasajeros suban al colectivo desde una parada,
+     * verificando que su destino esté en el recorrido futuro.
+     * 
+     * @param parada Parada actual donde está el colectivo
+     * @param posicionActual Posición actual en el recorrido de la línea
+     * @param maxCapacidad Capacidad máxima del colectivo
+     * @return Lista de pasajeros que subieron
      */
-    public List<Pasajero> subirPasajerosDesdeParada(Parada parada, Set<Parada> destinosDisponibles, int maxCapacidad) {
+    public List<Pasajero> subirPasajerosDesdeParada(Parada parada, int posicionActual, int maxCapacidad) {
         int espacioDisponible = maxCapacidad - pasajeros.size();
-        List<Pasajero> subieron = parada.seleccionarPasajerosParaSubir(destinosDisponibles, espacioDisponible);
-
-        for (int i = 0; i < subieron.size(); i++) {
-            Pasajero p = subieron.get(i);
-            p.calificarAlSubir(pasajeros.size() + i, maxCapacidad);
+        List<Pasajero> subieron = new ArrayList<>();
+        Iterator<Pasajero> it = parada.getPasajerosEsperando().iterator();
+        
+        while (it.hasNext() && subieron.size() < espacioDisponible) {
+            Pasajero p = it.next();
+            
+            // Verificar si el destino está en el recorrido futuro
+            if (destinoEstaEnRecorridoFuturo(p.getDestino(), posicionActual) && p.quiereSubirA(this, parada)) {
+                subieron.add(p);
+                it.remove();
+                p.calificarAlSubir(pasajeros.size() + subieron.size() - 1, maxCapacidad);
+            }
         }
-
+        
         pasajeros.addAll(subieron);
         return subieron;
     }
+
+    private boolean destinoEstaEnRecorridoFuturo(Parada destino, int posicionActual) {
+        // Si no tienes un mapa de índices, puedes crearlo una vez y reutilizarlo
+        Map<Parada, Integer> indiceParadas = linea.getMapaIndicesParadas(); // Método que deberías agregar a Linea
+        
+        Integer indiceDestino = indiceParadas.get(destino);
+        
+        // Si el destino no está en la línea o ya pasamos por él, no puede subir
+        return indiceDestino != null && indiceDestino > posicionActual;
+    }
+
 
     /**
      * Permite que los pasajeros cuyo destino es la parada actual bajen del colectivo.
@@ -71,8 +91,6 @@ public class Colectivo {
         ocupacionPorTramo.add(pasajeros.size());
     }
 
-    
-    // Getters
 
     /**
      * Devuelve la lista de ocupación registrada por tramo durante el recorrido del colectivo.

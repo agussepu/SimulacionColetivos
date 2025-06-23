@@ -7,6 +7,12 @@ import presentacion.VistaPorConsola;
 
 public class EstadisticasSimulacion {
 
+    public static void mostrarEstadisticasFinales(List<Colectivo> colectivos, int maxCapacidad, VistaPorConsola vista) {
+        vista.mostrarFinSimulacion();
+        mostrarIndiceSatisfaccion(util.AdministracionPasajeros.getTodosLosPasajeros(), vista);
+        mostrarOcupacionPromedioPorColectivo(colectivos, maxCapacidad, vista);
+    }
+
     /**
      * Calcula y muestra el índice de satisfacción promedio de los pasajeros.
      * El índice se calcula como la suma de las calificaciones dividida por el máximo posible.

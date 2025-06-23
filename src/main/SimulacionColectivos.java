@@ -33,6 +33,8 @@ public class SimulacionColectivos {
         // Crear el simulador y ejecutar la simulación
         Simulador simulador = new Simulador(colectivos, vista);
         simulador.ejecutar();
+        
+        // cerrar el archivo de salida si se está utilizando
         vista.cerrarArchivo();
     }
 }

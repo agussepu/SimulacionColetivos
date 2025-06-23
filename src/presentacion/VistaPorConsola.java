@@ -5,6 +5,7 @@ import domain.Parada;
 import domain.Pasajero;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
+import java.util.List;
 
 /**
  * Clase encargada de mostrar los eventos y estados de la simulación por consola.
@@ -167,6 +168,21 @@ public class VistaPorConsola {
         } catch (FileNotFoundException e) {
             System.err.println("No se pudo crear el archivo de salida en " + rutaArchivo + ", solo se mostrará por consola.");
             return new VistaPorConsola();
+        }
+    }
+
+    public void mostrarEventosPasajeros(List<Pasajero> bajaron, List<Pasajero> subieron) {
+        for (Pasajero p : bajaron) {
+            mostrarPasajeroBajo(p);
+        }
+        for (Pasajero p : subieron) {
+            mostrarPasajeroSubio(p);
+        }
+    }
+
+    public void mostrarAdvertenciaColectivoLleno(Colectivo colectivo, Parada actual, int esperando) {
+        if (esperando > 0) {
+            mostrarColectivoLlenoYPasajerosEsperando(colectivo, actual, esperando);
         }
     }
 }
