@@ -21,6 +21,26 @@ public class Pasajero {
     }
 
     /**
+     * Asigna la calificación de satisfacción al pasajero al subir al colectivo.
+     * @param posicion Posición en la lista de pasajeros al subir (para saber si viaja sentado o parado).
+     * @param maxCapacidad Capacidad máxima del colectivo.
+     */
+    public void calificarAlSubir(int posicion, int maxCapacidad) {
+        switch (colectivosEsperados) {
+            case 0 -> {
+                if (posicion < maxCapacidad / 2) {
+                    setCalificacion(5); // Consiguió asiento
+                } else {
+                    setCalificacion(4); // Viajó parado
+                }
+            }
+            case 1 -> setCalificacion(3); // Esperó un colectivo para subir
+            default -> setCalificacion(2); // Esperó más de dos colectivos para subir
+            // Si nunca sube, queda con 1 por defecto
+        }
+    }
+
+    /**
      * Incrementa en uno la cantidad de colectivos que el pasajero ha esperado.
      */
     public void incrementarEspera() { 

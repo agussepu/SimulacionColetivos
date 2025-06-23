@@ -38,18 +38,7 @@ public class Colectivo {
 
         for (int i = 0; i < subieron.size(); i++) {
             Pasajero p = subieron.get(i);
-            switch (p.getColectivosEsperados()) {
-                case 0 -> { // Subio en el primer coletivo que paso
-                    if (pasajeros.size() + i < maxCapacidad / 2) {
-                        p.setCalificacion(5); // Consiguió asiento
-                    } else {
-                        p.setCalificacion(4); // Viajó parado
-                    }
-                }
-                case 1 -> p.setCalificacion(3); // Espero un colectivo para subir 
-                default -> p.setCalificacion(2); // Esperó más de dos colectivos para subir
-                // en caso de no subir a ningun colectivo ya tienen asignado por defecto 1
-            }
+            p.calificarAlSubir(pasajeros.size() + i, maxCapacidad);
         }
 
         pasajeros.addAll(subieron);

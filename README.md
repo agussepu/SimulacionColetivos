@@ -55,3 +55,7 @@
     • Lotes de prueba
     • Posibles mejoras y extensiones
     • Conclusiones
+
+Complejidad 
+TADs
+Grafos?
