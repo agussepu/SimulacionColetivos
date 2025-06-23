@@ -81,6 +81,11 @@ public class AdministracionPasajeros {
         return paradas.get(destinoIndex);
     }
 
+    /**
+     * Devuelve la lista de todos los pasajeros generados en la simulación.
+     *
+     * @return Lista de todos los pasajeros.
+     */
     public static List<Pasajero> getTodosLosPasajeros() {
         return todosLosPasajeros;
     }

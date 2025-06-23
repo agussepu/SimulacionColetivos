@@ -48,6 +48,15 @@ public class Parada {
         return seleccionados;
     }
 
+    // Incremento el tiempo de espera de los pasajeros que no subierona un colectivo
+    public void incrementarEsperaPasajeros(Set<Parada> destinosValidos) {
+        for (Pasajero p : pasajerosEsperando) {
+            if (destinosValidos.contains(p.getDestino())) {
+                p.incrementarEspera();
+            }
+        }
+    }
+
     // Getters
 
     /**
@@ -80,14 +89,5 @@ public class Parada {
      */
     public int getId(){
         return id;
-    }
-
-    // Incremento el tiempo de espera de los pasajeros que no subierona un colectivo
-    public void incrementarEsperaPasajeros(Set<Parada> destinosValidos) {
-        for (Pasajero p : pasajerosEsperando) {
-            if (destinosValidos.contains(p.getDestino())) {
-                p.incrementarEspera();
-            }
-        }
     }
 }

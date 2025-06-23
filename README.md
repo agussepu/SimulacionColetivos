@@ -54,3 +54,15 @@ Cada colectivo genera como maximo 3 pasajeros por cada parada, esto puede modifi
      - Deberia mejorar las validaciones a la hora de hacer ParseInt 
      - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
      - Evitar crear líneas vacías (sin paradas)
+
+# Condiciones de la presentación:
+    • Introducción 
+    • Planteo del problema
+    • Análisis de las estructuras seleccionadas 
+    • Diagrama de clases
+    • Implementación de la solución
+    • Manual de funcionamiento (ingreso de datos, pruebas, resultados de salida)
+    • Errores detectados (si existe algún error y bajo qué condiciones se produce)
+    • Lotes de prueba
+    • Posibles mejoras y extensiones
+    • Conclusiones
