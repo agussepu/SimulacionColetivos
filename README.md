@@ -2,19 +2,10 @@
 **Autor:** *Matias Agustin Sepulveda*
 
 ---
-## Tareas
-
-- [ ] Ver si es correcta la logica de los sets con las paradas
-- [ ] Modularizar y mejorar Simulador.java
-
-- [ ] **Extra**: Java Swing para IU (rama aparte)
-  
-- [ ] Crear la documentacion solicitada
----
 # Flujo General
 
 1. **Carga de configuración:**  
-   Se lee el archivo `config.properties` para obtener los nombres y ubicaciones de los archivos de datos y parámetros de la simulación.
+   Se lee el archivo `config.properties` para obtener las rutas de los archivos de datos y los parámetros necesarios para la simulación.
 
 2. **Carga de datos de líneas y paradas:**  
    Se leen los archivos de texto especificados en la configuración para crear los objetos `Linea` y `Parada` que representan la red de colectivos.
@@ -32,13 +23,10 @@
    El simulador (`Simulador`) recorre las paradas de cada línea. En cada parada:
    - Los pasajeros cuyo destino es la parada actual bajan del colectivo.
    - Suben nuevos pasajeros que esperan en la parada y cuyo destino está más adelante en el recorrido.
-   - Se muestra por consola el estado de cada colectivo, indicando cuántos pasajeros suben, bajan y quedan a bordo.
+   - Se muestra el estado de cada colectivo, indicando cuántos pasajeros suben, bajan y quedan a bordo.
 
 7. **Finalización:**  
-   La simulación termina cuando todos los colectivos han completado su recorrido por sus respectivas líneas.
-
-## Nota a tener en cuenta
-Cada colectivo genera como maximo 3 pasajeros por cada parada, esto puede modificarse desde el properties
+   La simulación concluye cuando todos los colectivos han completado su recorrido por sus respectivas líneas y se muestran los resultados finales.
 
 ---
 
@@ -54,6 +42,7 @@ Cada colectivo genera como maximo 3 pasajeros por cada parada, esto puede modifi
      - Deberia mejorar las validaciones a la hora de hacer ParseInt 
      - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
      - Evitar crear líneas vacías (sin paradas)
+     - Recorrer la lista de pasajeros en la parada O(n)
 
 # Condiciones de la presentación:
     • Introducción 
