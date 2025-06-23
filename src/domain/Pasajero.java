@@ -22,6 +22,18 @@ public class Pasajero {
         this.destino = destino;
     }
 
+    /**
+     * Califica al pasajero al subir al colectivo.
+     * La calificación se basa en la posición del pasajero al subir y la capacidad máxima del colectivo.
+     * - 5: Consiguió asiento
+     * - 4: Viajó parado
+     * - 3: Esperó un colectivo para subir
+     * - 2: Esperó más de dos colectivos para subir
+     * - 1: Muy malo (por defecto si no se califica)
+     *
+     * @param posicion Posición del pasajero al subir (0 es el primer asiento).
+     * @param maxCapacidad Capacidad máxima del colectivo.
+     */
     public void calificarAlSubir(int posicion, int maxCapacidad) {
         int cantidadAsientos = Configuracion.getCantidadAsientos();
         switch (colectivosEsperados) {

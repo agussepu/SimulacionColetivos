@@ -37,8 +37,9 @@ public class Colectivo {
     public List<Pasajero> subirPasajerosDesdeParada(Parada parada, int posicionActual, int maxCapacidad) {
         int espacioDisponible = maxCapacidad - pasajeros.size();
         List<Pasajero> subieron = new ArrayList<>();
-        Iterator<Pasajero> it = parada.getPasajerosEsperando().iterator();
         
+        //FIFO
+        Iterator<Pasajero> it = parada.getPasajerosEsperando().iterator();
         while (it.hasNext() && subieron.size() < espacioDisponible) {
             Pasajero p = it.next();
             
@@ -54,16 +55,19 @@ public class Colectivo {
         return subieron;
     }
 
+    /**
+     * Verifica si el destino de un pasajero está en el recorrido futuro del colectivo.
+     * Esto se hace comparando la posición actual del colectivo con el índice de la parada destino.
+     *
+     * @param destino Parada de destino del pasajero.
+     * @param posicionActual Posición actual del colectivo en el recorrido.
+     * @return true si el destino está en el recorrido futuro, false en caso contrario.
+     */
     private boolean destinoEstaEnRecorridoFuturo(Parada destino, int posicionActual) {
-        // Si no tienes un mapa de índices, puedes crearlo una vez y reutilizarlo
-        Map<Parada, Integer> indiceParadas = linea.getMapaIndicesParadas(); // Método que deberías agregar a Linea
-        
+        Map<Parada, Integer> indiceParadas = linea.getMapaIndicesParadas();
         Integer indiceDestino = indiceParadas.get(destino);
-        
-        // Si el destino no está en la línea o ya pasamos por él, no puede subir
         return indiceDestino != null && indiceDestino > posicionActual;
     }
-
 
     /**
      * Permite que los pasajeros cuyo destino es la parada actual bajen del colectivo.
@@ -90,7 +94,6 @@ public class Colectivo {
     public void registrarOcupacionTramo() {
         ocupacionPorTramo.add(pasajeros.size());
     }
-
 
     /**
      * Devuelve la lista de ocupación registrada por tramo durante el recorrido del colectivo.

@@ -36,14 +36,6 @@
 ## Incremento 2
 **Consigna:** Agregar a la simulación la posibilidad de que cada colectivo haga más de un recorrido dentro de su línea. Cada colectivo tiene una capacidad máxima de pasajeros que puede transportar. Puede darse el caso que queden pasajeros esperando en la parada al próximo colectivo, si el que llega a la parada completa antes su capacidad. También agregar a la simulación el cálculo del índice de satisfacción del cliente y de ocupación promedio de los colectivos (ver anexos). Junto con la aplicación entregar toda la documentación solicitada.
 
-
-# Notas de posibles mejoras 
-   - Datos.java: 
-     - Deberia mejorar las validaciones a la hora de hacer ParseInt 
-     - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
-     - Evitar crear líneas vacías (sin paradas)
-     - Recorrer la lista de pasajeros en la parada O(n)
-
 # Condiciones de la presentación:
     • Introducción 
     • Planteo del problema
@@ -55,6 +47,15 @@
     • Lotes de prueba
     • Posibles mejoras y extensiones
     • Conclusiones
+
+---
+
+# Notas de posibles mejoras 
+   - Datos.java: 
+     - Deberia mejorar las validaciones a la hora de hacer ParseInt 
+     - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
+     - Evitar crear líneas vacías (sin paradas)
+     - Recorrer la lista de pasajeros en la parada O(n)
 
 Complejidad 
 TADs

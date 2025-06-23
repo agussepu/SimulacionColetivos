@@ -30,16 +30,29 @@ public class VistaPorConsola {
         archivoOut = new PrintStream(rutaArchivo);
     }
 
+    /**
+     * Imprime un mensaje en la consola y, si se ha definido un archivo de salida, también lo escribe allí.
+     * @param mensaje Mensaje a imprimir.
+     */
     private void imprimir(String mensaje) {
         System.out.println(mensaje);
         if (archivoOut != null) archivoOut.println(mensaje);
     }
 
+    /**
+     * Imprime un mensaje de error en la consola y en el archivo de salida si está definido.
+     * @param mensaje Mensaje de error a imprimir.
+     */
     private void imprimirError(String mensaje) {
         System.err.println(mensaje);
         if (archivoOut != null) archivoOut.println(mensaje);
     }
 
+    /**
+     * Imprime un mensaje formateado, similar a printf.
+     * @param formato Formato del mensaje.
+     * @param args Argumentos para el formato.
+     */
     private void imprimirf(String formato, Object... args) {
         System.out.printf(formato, args);
         if (archivoOut != null) archivoOut.printf(formato, args);
@@ -171,6 +184,11 @@ public class VistaPorConsola {
         }
     }
 
+    /**
+     * Muestra los eventos de subida y bajada de pasajeros en una parada.
+     * @param bajaron Lista de pasajeros que bajaron del colectivo.
+     * @param subieron Lista de pasajeros que subieron al colectivo.
+     */
     public void mostrarEventosPasajeros(List<Pasajero> bajaron, List<Pasajero> subieron) {
         for (Pasajero p : bajaron) {
             mostrarPasajeroBajo(p);
@@ -180,6 +198,12 @@ public class VistaPorConsola {
         }
     }
 
+    /**
+     * Muestra una advertencia si el colectivo está lleno y hay pasajeros esperando en la parada actual.
+     * @param colectivo Colectivo que está lleno.
+     * @param actual Parada actual donde se encuentra el colectivo.
+     * @param esperando Cantidad de pasajeros esperando con destino válido.
+     */
     public void mostrarAdvertenciaColectivoLleno(Colectivo colectivo, Parada actual, int esperando) {
         if (esperando > 0) {
             mostrarColectivoLlenoYPasajerosEsperando(colectivo, actual, esperando);

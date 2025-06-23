@@ -7,6 +7,14 @@ import presentacion.VistaPorConsola;
 
 public class EstadisticasSimulacion {
 
+    /**
+     * Muestra las estadísticas finales de la simulación, incluyendo el índice de satisfacción
+     * y la ocupación promedio por colectivo.
+     *
+     * @param colectivos Lista de colectivos que participaron en la simulación.
+     * @param maxCapacidad Capacidad máxima de cada colectivo.
+     * @param vista Instancia de VistaPorConsola para mostrar los resultados.
+     */
     public static void mostrarEstadisticasFinales(List<Colectivo> colectivos, int maxCapacidad, VistaPorConsola vista) {
         vista.mostrarFinSimulacion();
         mostrarIndiceSatisfaccion(util.AdministracionPasajeros.getTodosLosPasajeros(), vista);

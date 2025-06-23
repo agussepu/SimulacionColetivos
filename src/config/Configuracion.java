@@ -20,7 +20,10 @@ public class Configuracion {
     private static final String ARCHIVO_SALIDA_SIMULACION_KEY = "archivoSalidaSimulacion";
     private static final String CANTIDAD_ASIENTOS_KEY = "cantidadAsientos";
 
-    // Bloque estático para cargar la configuración al iniciar la clase
+    /**
+     * Carga las propiedades desde el archivo de configuración al iniciar la clase.
+     * Si ocurre un error al cargar el archivo, se imprime un mensaje de error.
+     */
     static {
         try (FileInputStream fis = new FileInputStream(ARCHIVO_CONFIG)) {
             properties.load(fis);
@@ -109,6 +112,13 @@ public class Configuracion {
         }
     }
 
+    /**
+     * Obtiene la ruta del archivo de salida para la simulación.
+     * Este archivo se utiliza para guardar los resultados de la simulación.
+     *
+     * @return Ruta del archivo de salida.
+     * @throws IllegalStateException si la propiedad no está definida en el archivo de configuración.
+     */
     public static String getArchivoSalidaSimulacion() {
         String value = properties.getProperty(ARCHIVO_SALIDA_SIMULACION_KEY);
         if (value == null) {
@@ -117,6 +127,13 @@ public class Configuracion {
         return value;
     }
     
+    /**
+     * Obtiene la cantidad de asientos disponibles en los colectivos.
+     * Este valor se lee desde el archivo de configuración y se espera que sea un número entero.
+     *
+     * @return Cantidad de asientos disponibles.
+     * @throws IllegalStateException si la propiedad no está definida o es inválida.
+     */
     public static int getCantidadAsientos() {
         String value = properties.getProperty(CANTIDAD_ASIENTOS_KEY);
         if (value == null) {
