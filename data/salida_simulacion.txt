@@ -1,0 +1,4318 @@
+
+=== PARADA 1 ===
+🚌 Línea L1I llegó a Rivadavia, 2496
+🔺 Pasajero 0 subió
+🔺 Pasajero 1 subió
+🔺 Pasajero 2 subió
+🔺 Pasajero 3 subió
+🔺 Pasajero 4 subió
+🔺 Pasajero 5 subió
+🔺 Pasajero 6 subió
+🔺 Pasajero 7 subió
+🔺 Pasajero 8 subió
+🔺 Pasajero 9 subió
+🔺 Pasajero 10 subió
+🔺 Pasajero 11 subió
+🔺 Pasajero 12 subió
+🔺 Pasajero 13 subió
+🔺 Pasajero 14 subió
+🔺 Pasajero 15 subió
+🔺 Pasajero 16 subió
+🔺 Pasajero 17 subió
+🔺 Pasajero 18 subió
+🔺 Pasajero 19 subió
+🔺 Pasajero 1124 subió
+🔺 Pasajero 1125 subió
+🔺 Pasajero 1126 subió
+🔺 Pasajero 1127 subió
+🔺 Pasajero 1129 subió
+🔺 Pasajero 1130 subió
+🔺 Pasajero 1131 subió
+🔺 Pasajero 1132 subió
+🔺 Pasajero 1133 subió
+🔺 Pasajero 1135 subió
+🔺 Pasajero 1136 subió
+🔺 Pasajero 1137 subió
+🔺 Pasajero 1139 subió
+🔺 Pasajero 1141 subió
+🔺 Pasajero 1142 subió
+🔺 Pasajero 1143 subió
+👥 Bajaron: 0 | Subieron: 36 | A bordo: 36
+🚌 Línea L1R llegó a Roberto G�mez, 1017
+🔺 Pasajero 220 subió
+🔺 Pasajero 221 subió
+🔺 Pasajero 222 subió
+🔺 Pasajero 223 subió
+🔺 Pasajero 224 subió
+🔺 Pasajero 225 subió
+👥 Bajaron: 0 | Subieron: 6 | A bordo: 6
+🚌 Línea L2I llegó a Esquel, 1352
+🔺 Pasajero 419 subió
+🔺 Pasajero 420 subió
+🔺 Pasajero 421 subió
+🔺 Pasajero 422 subió
+🔺 Pasajero 423 subió
+🔺 Pasajero 424 subió
+🔺 Pasajero 1230 subió
+🔺 Pasajero 1231 subió
+🔺 Pasajero 1233 subió
+🔺 Pasajero 1235 subió
+🔺 Pasajero 1238 subió
+🔺 Pasajero 1239 subió
+🔺 Pasajero 1240 subió
+🔺 Pasajero 1246 subió
+🔺 Pasajero 1247 subió
+🔺 Pasajero 1248 subió
+👥 Bajaron: 0 | Subieron: 16 | A bordo: 16
+🚌 Línea L2R llegó a Bv. Almirante Brown, 3053
+🔺 Pasajero 600 subió
+🔺 Pasajero 601 subió
+🔺 Pasajero 602 subió
+🔺 Pasajero 603 subió
+🔺 Pasajero 604 subió
+🔺 Pasajero 605 subió
+🔺 Pasajero 606 subió
+🔺 Pasajero 607 subió
+🔺 Pasajero 608 subió
+🔺 Pasajero 609 subió
+🔺 Pasajero 610 subió
+🔺 Pasajero 611 subió
+🔺 Pasajero 612 subió
+🔺 Pasajero 613 subió
+🔺 Pasajero 614 subió
+👥 Bajaron: 0 | Subieron: 15 | A bordo: 15
+🚌 Línea L3I llegó a Ruta Provincial 1
+🔺 Pasajero 773 subió
+🔺 Pasajero 774 subió
+🔺 Pasajero 775 subió
+🔺 Pasajero 776 subió
+🔺 Pasajero 777 subió
+🔺 Pasajero 778 subió
+🔺 Pasajero 779 subió
+🔺 Pasajero 780 subió
+🔺 Pasajero 781 subió
+🔺 Pasajero 782 subió
+🔺 Pasajero 783 subió
+🔺 Pasajero 784 subió
+🔺 Pasajero 785 subió
+🔺 Pasajero 786 subió
+🔺 Pasajero 787 subió
+🔺 Pasajero 788 subió
+🔺 Pasajero 789 subió
+👥 Bajaron: 0 | Subieron: 17 | A bordo: 17
+🚌 Línea L3R llegó a Ruperto Gimenez, 678
+🔺 Pasajero 888 subió
+🔺 Pasajero 889 subió
+🔺 Pasajero 890 subió
+🔺 Pasajero 891 subió
+👥 Bajaron: 0 | Subieron: 4 | A bordo: 4
+🚌 Línea L4I llegó a 1 De Marzo, 405
+🔺 Pasajero 807 subió
+🔺 Pasajero 808 subió
+🔺 Pasajero 1011 subió
+🔺 Pasajero 1012 subió
+🔺 Pasajero 1013 subió
+🔺 Pasajero 1014 subió
+🔺 Pasajero 1015 subió
+🔺 Pasajero 1016 subió
+🔺 Pasajero 1017 subió
+🔺 Pasajero 1018 subió
+🔺 Pasajero 1019 subió
+🔺 Pasajero 1020 subió
+🔺 Pasajero 1021 subió
+🔺 Pasajero 1022 subió
+🔺 Pasajero 1023 subió
+🔺 Pasajero 1024 subió
+🔺 Pasajero 1025 subió
+🔺 Pasajero 1026 subió
+🔺 Pasajero 1027 subió
+🔺 Pasajero 1028 subió
+🔺 Pasajero 1583 subió
+🔺 Pasajero 1584 subió
+👥 Bajaron: 0 | Subieron: 22 | A bordo: 22
+🚌 Línea L4R llegó a Juan Jose Meangolarra Y Moreno, 1005
+🔺 Pasajero 1102 subió
+🔺 Pasajero 1103 subió
+🔺 Pasajero 1104 subió
+🔺 Pasajero 1105 subió
+🔺 Pasajero 1106 subió
+🔺 Pasajero 1107 subió
+🔺 Pasajero 1108 subió
+🔺 Pasajero 1109 subió
+🔺 Pasajero 1110 subió
+🔺 Pasajero 1111 subió
+🔺 Pasajero 1112 subió
+🔺 Pasajero 1113 subió
+🔺 Pasajero 1114 subió
+🔺 Pasajero 1115 subió
+🔺 Pasajero 1116 subió
+🔺 Pasajero 1117 subió
+👥 Bajaron: 0 | Subieron: 16 | A bordo: 16
+🚌 Línea L5I llegó a Esquel, 1352
+🔺 Pasajero 1229 subió
+🔺 Pasajero 1232 subió
+🔺 Pasajero 1234 subió
+🔺 Pasajero 1236 subió
+🔺 Pasajero 1237 subió
+🔺 Pasajero 1241 subió
+🔺 Pasajero 1242 subió
+🔺 Pasajero 1243 subió
+🔺 Pasajero 1244 subió
+🔺 Pasajero 1245 subió
+👥 Bajaron: 0 | Subieron: 10 | A bordo: 10
+🚌 Línea L5R llegó a Luis Urtazun, 1005
+🔺 Pasajero 1363 subió
+🔺 Pasajero 1364 subió
+🔺 Pasajero 1365 subió
+🔺 Pasajero 1366 subió
+🔺 Pasajero 1367 subió
+👥 Bajaron: 0 | Subieron: 5 | A bordo: 5
+🚌 Línea L6I llegó a 1 De Marzo, 405
+🔺 Pasajero 1581 subió
+🔺 Pasajero 1582 subió
+🔺 Pasajero 1585 subió
+🔺 Pasajero 1586 subió
+🔺 Pasajero 1587 subió
+🔺 Pasajero 1588 subió
+🔺 Pasajero 1589 subió
+🔺 Pasajero 1590 subió
+👥 Bajaron: 0 | Subieron: 8 | A bordo: 8
+🚌 Línea L6R llegó a Los Alamos, 3900
+🔺 Pasajero 1640 subió
+🔺 Pasajero 1641 subió
+🔺 Pasajero 1642 subió
+🔺 Pasajero 1643 subió
+🔺 Pasajero 1644 subió
+🔺 Pasajero 1645 subió
+🔺 Pasajero 1646 subió
+🔺 Pasajero 1647 subió
+🔺 Pasajero 1648 subió
+🔺 Pasajero 1649 subió
+🔺 Pasajero 1650 subió
+🔺 Pasajero 1651 subió
+🔺 Pasajero 1652 subió
+🔺 Pasajero 1653 subió
+🔺 Pasajero 1654 subió
+👥 Bajaron: 0 | Subieron: 15 | A bordo: 15
+
+=== PARADA 2 ===
+🚌 Línea L1I llegó a Santa Fe, 795
+🔻 Pasajero 12 bajó
+🔺 Pasajero 20 subió
+🔺 Pasajero 21 subió
+🔺 Pasajero 22 subió
+🔺 Pasajero 23 subió
+🔺 Pasajero 24 subió
+🔺 Pasajero 25 subió
+🔺 Pasajero 26 subió
+🔺 Pasajero 27 subió
+🔺 Pasajero 28 subió
+🔺 Pasajero 29 subió
+🔺 Pasajero 30 subió
+🔺 Pasajero 31 subió
+🔺 Pasajero 32 subió
+🔺 Pasajero 33 subió
+🔺 Pasajero 34 subió
+🔺 Pasajero 35 subió
+🔺 Pasajero 36 subió
+🔺 Pasajero 37 subió
+🔺 Pasajero 38 subió
+🔺 Pasajero 39 subió
+👥 Bajaron: 1 | Subieron: 20 | A bordo: 55
+🚌 Línea L1R llegó a Pedro Derbes, 816
+🔺 Pasajero 226 subió
+🔺 Pasajero 227 subió
+🔺 Pasajero 228 subió
+🔺 Pasajero 229 subió
+🔺 Pasajero 230 subió
+🔺 Pasajero 456 subió
+🔺 Pasajero 457 subió
+🔺 Pasajero 459 subió
+🔺 Pasajero 460 subió
+🔺 Pasajero 462 subió
+🔺 Pasajero 464 subió
+🔺 Pasajero 465 subió
+🔺 Pasajero 466 subió
+👥 Bajaron: 0 | Subieron: 13 | A bordo: 19
+🚌 Línea L2I llegó a Alto R�o Senguer, 1311
+🔻 Pasajero 419 bajó
+🔺 Pasajero 425 subió
+👥 Bajaron: 1 | Subieron: 1 | A bordo: 16
+🚌 Línea L2R llegó a Aar�n Jenkins, 219
+🔻 Pasajero 614 bajó
+🔺 Pasajero 615 subió
+🔺 Pasajero 616 subió
+🔺 Pasajero 617 subió
+🔺 Pasajero 618 subió
+🔺 Pasajero 619 subió
+🔺 Pasajero 620 subió
+🔺 Pasajero 621 subió
+🔺 Pasajero 622 subió
+🔺 Pasajero 623 subió
+🔺 Pasajero 624 subió
+🔺 Pasajero 625 subió
+🔺 Pasajero 626 subió
+🔺 Pasajero 627 subió
+🔺 Pasajero 628 subió
+🔺 Pasajero 629 subió
+🔺 Pasajero 630 subió
+🔺 Pasajero 631 subió
+🔺 Pasajero 632 subió
+🔺 Pasajero 633 subió
+👥 Bajaron: 1 | Subieron: 19 | A bordo: 33
+🚌 Línea L3I llegó a Manuel Carrera, 1534
+🔻 Pasajero 785 bajó
+🔺 Pasajero 790 subió
+🔺 Pasajero 791 subió
+🔺 Pasajero 792 subió
+🔺 Pasajero 793 subió
+🔺 Pasajero 794 subió
+🔺 Pasajero 795 subió
+🔺 Pasajero 796 subió
+🔺 Pasajero 797 subió
+🔺 Pasajero 798 subió
+🔺 Pasajero 799 subió
+🔺 Pasajero 800 subió
+👥 Bajaron: 1 | Subieron: 11 | A bordo: 27
+🚌 Línea L3R llegó a Periodistas Chubutenses, 500
+🔺 Pasajero 892 subió
+🔺 Pasajero 893 subió
+🔺 Pasajero 894 subió
+🔺 Pasajero 895 subió
+🔺 Pasajero 896 subió
+🔺 Pasajero 897 subió
+🔺 Pasajero 898 subió
+🔺 Pasajero 899 subió
+🔺 Pasajero 900 subió
+🔺 Pasajero 1405 subió
+👥 Bajaron: 0 | Subieron: 10 | A bordo: 14
+🚌 Línea L4I llegó a 28 De Julio, 311
+🔻 Pasajero 807 bajó
+🔻 Pasajero 1012 bajó
+🔻 Pasajero 1024 bajó
+🔻 Pasajero 1025 bajó
+🔻 Pasajero 1028 bajó
+🔻 Pasajero 1583 bajó
+🔺 Pasajero 1029 subió
+🔺 Pasajero 1030 subió
+🔺 Pasajero 1031 subió
+🔺 Pasajero 1032 subió
+🔺 Pasajero 1033 subió
+🔺 Pasajero 1034 subió
+🔺 Pasajero 1035 subió
+🔺 Pasajero 1036 subió
+🔺 Pasajero 1592 subió
+🔺 Pasajero 1593 subió
+🔺 Pasajero 1594 subió
+👥 Bajaron: 6 | Subieron: 11 | A bordo: 27
+🚌 Línea L4R llegó a Manuel Alsua, 1086
+🔻 Pasajero 1102 bajó
+🔺 Pasajero 1118 subió
+🔺 Pasajero 1119 subió
+🔺 Pasajero 1120 subió
+🔺 Pasajero 1121 subió
+🔺 Pasajero 1122 subió
+🔺 Pasajero 1123 subió
+👥 Bajaron: 1 | Subieron: 6 | A bordo: 21
+🚌 Línea L5I llegó a Magallanes, 883
+🔺 Pasajero 1249 subió
+🔺 Pasajero 1250 subió
+👥 Bajaron: 0 | Subieron: 2 | A bordo: 12
+🚌 Línea L5R llegó a Ruperto Gimenez, 678
+🔺 Pasajero 1368 subió
+🔺 Pasajero 1369 subió
+🔺 Pasajero 1370 subió
+🔺 Pasajero 1371 subió
+🔺 Pasajero 1372 subió
+🔺 Pasajero 1373 subió
+🔺 Pasajero 1374 subió
+🔺 Pasajero 1375 subió
+👥 Bajaron: 0 | Subieron: 8 | A bordo: 13
+🚌 Línea L6I llegó a 28 De Julio, 311
+🔺 Pasajero 1591 subió
+👥 Bajaron: 0 | Subieron: 1 | A bordo: 9
+🚌 Línea L6R llegó a Ca�a Colihue, 1184
+🔻 Pasajero 1640 bajó
+🔻 Pasajero 1642 bajó
+🔻 Pasajero 1652 bajó
+🔺 Pasajero 1655 subió
+🔺 Pasajero 1656 subió
+🔺 Pasajero 1657 subió
+🔺 Pasajero 1658 subió
+🔺 Pasajero 1659 subió
+🔺 Pasajero 1660 subió
+🔺 Pasajero 1661 subió
+🔺 Pasajero 1662 subió
+🔺 Pasajero 1663 subió
+🔺 Pasajero 1664 subió
+🔺 Pasajero 1665 subió
+🔺 Pasajero 1666 subió
+🔺 Pasajero 1667 subió
+🔺 Pasajero 1668 subió
+🔺 Pasajero 1669 subió
+🔺 Pasajero 1670 subió
+🔺 Pasajero 1671 subió
+👥 Bajaron: 3 | Subieron: 17 | A bordo: 29
+
+=== PARADA 3 ===
+🚌 Línea L1I llegó a Espa�a, 1660
+🔻 Pasajero 25 bajó
+🔻 Pasajero 33 bajó
+🔺 Pasajero 40 subió
+🔺 Pasajero 41 subió
+🔺 Pasajero 42 subió
+🔺 Pasajero 43 subió
+🔺 Pasajero 44 subió
+🔺 Pasajero 45 subió
+🔺 Pasajero 46 subió
+🔺 Pasajero 47 subió
+🔺 Pasajero 48 subió
+🔺 Pasajero 49 subió
+🔺 Pasajero 50 subió
+🔺 Pasajero 51 subió
+🔺 Pasajero 52 subió
+🔺 Pasajero 53 subió
+🔺 Pasajero 54 subió
+🔺 Pasajero 55 subió
+🔺 Pasajero 56 subió
+🔺 Pasajero 1458 subió
+🔺 Pasajero 1459 subió
+🔺 Pasajero 1460 subió
+🔺 Pasajero 1461 subió
+🔺 Pasajero 1465 subió
+🔺 Pasajero 1467 subió
+👥 Bajaron: 2 | Subieron: 23 | A bordo: 76
+🚌 Línea L1R llegó a Pedro Derbes, 660
+🔻 Pasajero 460 bajó
+🔻 Pasajero 462 bajó
+🔺 Pasajero 231 subió
+🔺 Pasajero 232 subió
+🔺 Pasajero 233 subió
+🔺 Pasajero 234 subió
+🔺 Pasajero 235 subió
+🔺 Pasajero 236 subió
+🔺 Pasajero 237 subió
+🔺 Pasajero 238 subió
+🔺 Pasajero 239 subió
+🔺 Pasajero 240 subió
+🔺 Pasajero 241 subió
+🔺 Pasajero 242 subió
+🔺 Pasajero 243 subió
+🔺 Pasajero 468 subió
+👥 Bajaron: 2 | Subieron: 14 | A bordo: 31
+🚌 Línea L2I llegó a Pasaje 22 De Abril, 167
+🔺 Pasajero 426 subió
+🔺 Pasajero 427 subió
+🔺 Pasajero 428 subió
+🔺 Pasajero 429 subió
+🔺 Pasajero 430 subió
+🔺 Pasajero 431 subió
+🔺 Pasajero 432 subió
+🔺 Pasajero 433 subió
+🔺 Pasajero 434 subió
+🔺 Pasajero 435 subió
+🔺 Pasajero 436 subió
+🔺 Pasajero 437 subió
+👥 Bajaron: 0 | Subieron: 12 | A bordo: 28
+🚌 Línea L2R llegó a Chiquichan, 22
+🔺 Pasajero 634 subió
+🔺 Pasajero 635 subió
+🔺 Pasajero 636 subió
+🔺 Pasajero 637 subió
+🔺 Pasajero 638 subió
+🔺 Pasajero 639 subió
+🔺 Pasajero 640 subió
+🔺 Pasajero 641 subió
+🔺 Pasajero 642 subió
+🔺 Pasajero 643 subió
+🔺 Pasajero 644 subió
+🔺 Pasajero 645 subió
+🔺 Pasajero 646 subió
+🔺 Pasajero 1717 subió
+👥 Bajaron: 0 | Subieron: 14 | A bordo: 47
+🚌 Línea L3I llegó a Agust�n Pujol, 374
+🔺 Pasajero 801 subió
+🔺 Pasajero 802 subió
+🔺 Pasajero 803 subió
+🔺 Pasajero 804 subió
+🔺 Pasajero 805 subió
+🔺 Pasajero 806 subió
+👥 Bajaron: 0 | Subieron: 6 | A bordo: 33
+🚌 Línea L3R llegó a Santiago Del Estero, 727
+🔻 Pasajero 1405 bajó
+🔺 Pasajero 901 subió
+🔺 Pasajero 902 subió
+🔺 Pasajero 903 subió
+👥 Bajaron: 1 | Subieron: 3 | A bordo: 16
+🚌 Línea L4I llegó a Marcos A. Zar, 461
+🔻 Pasajero 1021 bajó
+🔻 Pasajero 1034 bajó
+🔻 Pasajero 1592 bajó
+🔻 Pasajero 1593 bajó
+🔺 Pasajero 1037 subió
+🔺 Pasajero 1038 subió
+🔺 Pasajero 1039 subió
+🔺 Pasajero 1040 subió
+🔺 Pasajero 1041 subió
+🔺 Pasajero 1042 subió
+🔺 Pasajero 1598 subió
+🔺 Pasajero 1604 subió
+👥 Bajaron: 4 | Subieron: 8 | A bordo: 31
+🚌 Línea L4R llegó a Rivadavia, 2496
+🔻 Pasajero 1110 bajó
+🔺 Pasajero 1128 subió
+🔺 Pasajero 1134 subió
+🔺 Pasajero 1138 subió
+🔺 Pasajero 1140 subió
+👥 Bajaron: 1 | Subieron: 4 | A bordo: 24
+🚌 Línea L5I llegó a Juan Bautista Alberdi, 1240
+🔻 Pasajero 1236 bajó
+🔻 Pasajero 1242 bajó
+🔺 Pasajero 1251 subió
+🔺 Pasajero 1252 subió
+🔺 Pasajero 1253 subió
+🔺 Pasajero 1254 subió
+🔺 Pasajero 1255 subió
+🔺 Pasajero 1256 subió
+🔺 Pasajero 1257 subió
+🔺 Pasajero 1258 subió
+🔺 Pasajero 1259 subió
+👥 Bajaron: 2 | Subieron: 9 | A bordo: 19
+🚌 Línea L5R llegó a Vito Roca 705
+🔺 Pasajero 1376 subió
+🔺 Pasajero 1377 subió
+🔺 Pasajero 1378 subió
+🔺 Pasajero 1379 subió
+🔺 Pasajero 1380 subió
+🔺 Pasajero 1381 subió
+🔺 Pasajero 1382 subió
+🔺 Pasajero 1383 subió
+🔺 Pasajero 1384 subió
+🔺 Pasajero 1385 subió
+🔺 Pasajero 1386 subió
+🔺 Pasajero 1387 subió
+🔺 Pasajero 1388 subió
+🔺 Pasajero 1389 subió
+🔺 Pasajero 1390 subió
+🔺 Pasajero 1391 subió
+🔺 Pasajero 1392 subió
+🔺 Pasajero 1393 subió
+👥 Bajaron: 0 | Subieron: 18 | A bordo: 31
+🚌 Línea L6I llegó a Marcos A. Zar, 461
+🔺 Pasajero 1595 subió
+🔺 Pasajero 1596 subió
+🔺 Pasajero 1597 subió
+🔺 Pasajero 1599 subió
+🔺 Pasajero 1600 subió
+🔺 Pasajero 1601 subió
+🔺 Pasajero 1602 subió
+🔺 Pasajero 1603 subió
+👥 Bajaron: 0 | Subieron: 8 | A bordo: 17
+🚌 Línea L6R llegó a Dorrego, 700
+🔻 Pasajero 1643 bajó
+🔻 Pasajero 1649 bajó
+🔻 Pasajero 1656 bajó
+🔻 Pasajero 1661 bajó
+🔻 Pasajero 1667 bajó
+🔺 Pasajero 936 subió
+🔺 Pasajero 937 subió
+🔺 Pasajero 941 subió
+🔺 Pasajero 945 subió
+🔺 Pasajero 1672 subió
+🔺 Pasajero 1673 subió
+🔺 Pasajero 1674 subió
+🔺 Pasajero 1675 subió
+🔺 Pasajero 1676 subió
+🔺 Pasajero 1677 subió
+🔺 Pasajero 1678 subió
+🔺 Pasajero 1679 subió
+🔺 Pasajero 1680 subió
+🔺 Pasajero 1681 subió
+🔺 Pasajero 1682 subió
+🔺 Pasajero 1683 subió
+🔺 Pasajero 1684 subió
+🔺 Pasajero 1685 subió
+🔺 Pasajero 1686 subió
+🔺 Pasajero 1687 subió
+🔺 Pasajero 1688 subió
+🔺 Pasajero 1689 subió
+👥 Bajaron: 5 | Subieron: 22 | A bordo: 46
+
+=== PARADA 4 ===
+🚌 Línea L1I llegó a Espa�a, 1450
+🔻 Pasajero 24 bajó
+🔻 Pasajero 30 bajó
+🔻 Pasajero 1459 bajó
+🔻 Pasajero 1461 bajó
+🔺 Pasajero 57 subió
+🔺 Pasajero 58 subió
+🔺 Pasajero 59 subió
+🔺 Pasajero 60 subió
+🔺 Pasajero 61 subió
+🔺 Pasajero 62 subió
+🔺 Pasajero 63 subió
+🔺 Pasajero 64 subió
+🔺 Pasajero 65 subió
+🔺 Pasajero 66 subió
+🔺 Pasajero 67 subió
+🔺 Pasajero 68 subió
+🔺 Pasajero 69 subió
+🔺 Pasajero 70 subió
+🔺 Pasajero 71 subió
+🔺 Pasajero 72 subió
+🔺 Pasajero 73 subió
+🔺 Pasajero 74 subió
+🔺 Pasajero 1475 subió
+🔺 Pasajero 1477 subió
+🔺 Pasajero 1478 subió
+🔺 Pasajero 1479 subió
+🔺 Pasajero 1480 subió
+👥 Bajaron: 4 | Subieron: 23 | A bordo: 95
+🚌 Línea L1R llegó a Roberto G�mez, 550
+🔻 Pasajero 456 bajó
+🔻 Pasajero 457 bajó
+🔻 Pasajero 466 bajó
+🔻 Pasajero 468 bajó
+🔺 Pasajero 244 subió
+🔺 Pasajero 245 subió
+🔺 Pasajero 246 subió
+🔺 Pasajero 247 subió
+🔺 Pasajero 248 subió
+🔺 Pasajero 249 subió
+🔺 Pasajero 250 subió
+🔺 Pasajero 251 subió
+🔺 Pasajero 252 subió
+🔺 Pasajero 253 subió
+🔺 Pasajero 254 subió
+🔺 Pasajero 255 subió
+🔺 Pasajero 256 subió
+🔺 Pasajero 257 subió
+🔺 Pasajero 258 subió
+🔺 Pasajero 259 subió
+🔺 Pasajero 260 subió
+🔺 Pasajero 261 subió
+🔺 Pasajero 470 subió
+🔺 Pasajero 472 subió
+🔺 Pasajero 473 subió
+🔺 Pasajero 474 subió
+🔺 Pasajero 476 subió
+🔺 Pasajero 479 subió
+🔺 Pasajero 480 subió
+🔺 Pasajero 481 subió
+🔺 Pasajero 484 subió
+🔺 Pasajero 485 subió
+🔺 Pasajero 488 subió
+👥 Bajaron: 4 | Subieron: 29 | A bordo: 56
+🚌 Línea L2I llegó a 8 De Marzo, 385
+🔻 Pasajero 431 bajó
+🔻 Pasajero 433 bajó
+🔺 Pasajero 438 subió
+🔺 Pasajero 439 subió
+🔺 Pasajero 440 subió
+🔺 Pasajero 441 subió
+🔺 Pasajero 442 subió
+🔺 Pasajero 443 subió
+🔺 Pasajero 444 subió
+🔺 Pasajero 445 subió
+🔺 Pasajero 446 subió
+🔺 Pasajero 447 subió
+🔺 Pasajero 448 subió
+🔺 Pasajero 449 subió
+🔺 Pasajero 450 subió
+🔺 Pasajero 451 subió
+🔺 Pasajero 452 subió
+🔺 Pasajero 453 subió
+🔺 Pasajero 454 subió
+🔺 Pasajero 455 subió
+👥 Bajaron: 2 | Subieron: 18 | A bordo: 44
+🚌 Línea L2R llegó a Avenida Julio Argentino Roca, 1615
+🔻 Pasajero 636 bajó
+🔻 Pasajero 637 bajó
+🔻 Pasajero 640 bajó
+🔻 Pasajero 644 bajó
+🔺 Pasajero 647 subió
+🔺 Pasajero 648 subió
+🔺 Pasajero 649 subió
+🔺 Pasajero 650 subió
+🔺 Pasajero 651 subió
+🔺 Pasajero 652 subió
+🔺 Pasajero 653 subió
+🔺 Pasajero 654 subió
+🔺 Pasajero 655 subió
+🔺 Pasajero 656 subió
+🔺 Pasajero 657 subió
+🔺 Pasajero 658 subió
+🔺 Pasajero 659 subió
+🔺 Pasajero 660 subió
+🔺 Pasajero 661 subió
+🔺 Pasajero 662 subió
+🔺 Pasajero 663 subió
+🔺 Pasajero 664 subió
+🔺 Pasajero 665 subió
+🔺 Pasajero 666 subió
+🔺 Pasajero 1719 subió
+🔺 Pasajero 1721 subió
+🔺 Pasajero 1722 subió
+🔺 Pasajero 1723 subió
+🔺 Pasajero 1724 subió
+🔺 Pasajero 1725 subió
+🔺 Pasajero 1726 subió
+🔺 Pasajero 1727 subió
+🔺 Pasajero 1731 subió
+🔺 Pasajero 1732 subió
+👥 Bajaron: 4 | Subieron: 30 | A bordo: 73
+🚌 Línea L3I llegó a 1 De Marzo, 405
+🔻 Pasajero 775 bajó
+🔻 Pasajero 798 bajó
+🔺 Pasajero 809 subió
+🔺 Pasajero 810 subió
+🔺 Pasajero 811 subió
+👥 Bajaron: 2 | Subieron: 3 | A bordo: 34
+🚌 Línea L3R llegó a San Juan, 891
+🔺 Pasajero 904 subió
+🔺 Pasajero 905 subió
+🔺 Pasajero 906 subió
+🔺 Pasajero 907 subió
+🔺 Pasajero 908 subió
+🔺 Pasajero 909 subió
+🔺 Pasajero 910 subió
+🔺 Pasajero 911 subió
+🔺 Pasajero 912 subió
+🔺 Pasajero 913 subió
+🔺 Pasajero 914 subió
+🔺 Pasajero 915 subió
+👥 Bajaron: 0 | Subieron: 12 | A bordo: 28
+🚌 Línea L4I llegó a Marcos A. Zar, 691
+🔻 Pasajero 808 bajó
+🔻 Pasajero 1013 bajó
+🔻 Pasajero 1584 bajó
+🔻 Pasajero 1594 bajó
+🔻 Pasajero 1598 bajó
+🔻 Pasajero 1604 bajó
+🔺 Pasajero 1043 subió
+🔺 Pasajero 1044 subió
+🔺 Pasajero 1045 subió
+🔺 Pasajero 1046 subió
+🔺 Pasajero 1047 subió
+🔺 Pasajero 1048 subió
+🔺 Pasajero 1049 subió
+🔺 Pasajero 1050 subió
+🔺 Pasajero 1051 subió
+🔺 Pasajero 1052 subió
+👥 Bajaron: 6 | Subieron: 10 | A bordo: 35
+🚌 Línea L4R llegó a Lewis Jones, 1336
+🔻 Pasajero 1105 bajó
+🔻 Pasajero 1109 bajó
+🔻 Pasajero 1113 bajó
+🔻 Pasajero 1114 bajó
+🔻 Pasajero 1120 bajó
+🔻 Pasajero 1134 bajó
+🔺 Pasajero 1144 subió
+🔺 Pasajero 1145 subió
+🔺 Pasajero 1146 subió
+🔺 Pasajero 1147 subió
+🔺 Pasajero 1148 subió
+👥 Bajaron: 6 | Subieron: 5 | A bordo: 23
+🚌 Línea L5I llegó a Hip�lito Yrigoyen, 802
+🔺 Pasajero 507 subió
+🔺 Pasajero 509 subió
+🔺 Pasajero 511 subió
+🔺 Pasajero 513 subió
+🔺 Pasajero 518 subió
+🔺 Pasajero 519 subió
+🔺 Pasajero 521 subió
+🔺 Pasajero 523 subió
+🔺 Pasajero 524 subió
+🔺 Pasajero 1260 subió
+🔺 Pasajero 1261 subió
+🔺 Pasajero 1262 subió
+🔺 Pasajero 1263 subió
+🔺 Pasajero 1264 subió
+🔺 Pasajero 1265 subió
+🔺 Pasajero 1266 subió
+🔺 Pasajero 1267 subió
+🔺 Pasajero 1268 subió
+🔺 Pasajero 1269 subió
+🔺 Pasajero 1270 subió
+🔺 Pasajero 1271 subió
+👥 Bajaron: 0 | Subieron: 21 | A bordo: 40
+🚌 Línea L5R llegó a Manuel Garc�a 705
+🔻 Pasajero 1365 bajó
+🔻 Pasajero 1372 bajó
+🔻 Pasajero 1393 bajó
+🔺 Pasajero 1394 subió
+🔺 Pasajero 1395 subió
+🔺 Pasajero 1396 subió
+🔺 Pasajero 1397 subió
+🔺 Pasajero 1398 subió
+👥 Bajaron: 3 | Subieron: 5 | A bordo: 33
+🚌 Línea L6I llegó a Marcos A. Zar, 691
+🔺 Pasajero 1605 subió
+🔺 Pasajero 1606 subió
+🔺 Pasajero 1607 subió
+🔺 Pasajero 1608 subió
+🔺 Pasajero 1609 subió
+🔺 Pasajero 1610 subió
+🔺 Pasajero 1611 subió
+🔺 Pasajero 1612 subió
+🔺 Pasajero 1613 subió
+🔺 Pasajero 1614 subió
+🔺 Pasajero 1615 subió
+🔺 Pasajero 1616 subió
+🔺 Pasajero 1617 subió
+🔺 Pasajero 1618 subió
+🔺 Pasajero 1619 subió
+🔺 Pasajero 1620 subió
+👥 Bajaron: 0 | Subieron: 16 | A bordo: 33
+🚌 Línea L6R llegó a Alsua De Corbetto, 638
+🔻 Pasajero 1641 bajó
+🔻 Pasajero 1644 bajó
+🔻 Pasajero 1659 bajó
+🔻 Pasajero 1660 bajó
+🔻 Pasajero 1683 bajó
+🔻 Pasajero 1688 bajó
+🔺 Pasajero 1690 subió
+🔺 Pasajero 1691 subió
+🔺 Pasajero 1692 subió
+🔺 Pasajero 1693 subió
+🔺 Pasajero 1694 subió
+🔺 Pasajero 1695 subió
+🔺 Pasajero 1696 subió
+🔺 Pasajero 1697 subió
+🔺 Pasajero 1698 subió
+🔺 Pasajero 1699 subió
+🔺 Pasajero 1700 subió
+🔺 Pasajero 1701 subió
+🔺 Pasajero 1702 subió
+🔺 Pasajero 1703 subió
+🔺 Pasajero 1704 subió
+🔺 Pasajero 1705 subió
+🔺 Pasajero 1706 subió
+🔺 Pasajero 1707 subió
+👥 Bajaron: 6 | Subieron: 18 | A bordo: 58
+
+=== PARADA 5 ===
+🚌 Línea L1I llegó a Espa�a, 928
+🔻 Pasajero 18 bajó
+🔻 Pasajero 38 bajó
+🔻 Pasajero 56 bajó
+🔻 Pasajero 1458 bajó
+🔻 Pasajero 65 bajó
+🔻 Pasajero 74 bajó
+🔻 Pasajero 1479 bajó
+🔺 Pasajero 75 subió
+🔺 Pasajero 76 subió
+🔺 Pasajero 77 subió
+🔺 Pasajero 78 subió
+🔺 Pasajero 79 subió
+🔺 Pasajero 80 subió
+🔺 Pasajero 81 subió
+🔺 Pasajero 82 subió
+🔺 Pasajero 83 subió
+🔺 Pasajero 84 subió
+🔺 Pasajero 85 subió
+🔺 Pasajero 1484 subió
+👥 Bajaron: 7 | Subieron: 12 | A bordo: 100
+⚠️ Colectivo de línea L1I está lleno en Espa�a, 928. Quedaron 1 pasajeros esperando.
+🚌 Línea L1R llegó a Avenida Juan Muzzio, 258
+🔻 Pasajero 223 bajó
+🔻 Pasajero 258 bajó
+🔻 Pasajero 261 bajó
+🔻 Pasajero 473 bajó
+🔻 Pasajero 474 bajó
+🔻 Pasajero 481 bajó
+🔺 Pasajero 262 subió
+🔺 Pasajero 263 subió
+🔺 Pasajero 490 subió
+🔺 Pasajero 492 subió
+🔺 Pasajero 493 subió
+👥 Bajaron: 6 | Subieron: 5 | A bordo: 55
+🚌 Línea L2I llegó a Pedro Derbes, 816
+🔻 Pasajero 429 bajó
+🔺 Pasajero 458 subió
+🔺 Pasajero 461 subió
+🔺 Pasajero 463 subió
+🔺 Pasajero 467 subió
+👥 Bajaron: 1 | Subieron: 4 | A bordo: 47
+🚌 Línea L2R llegó a Bartolom� Mitre, 610
+🔻 Pasajero 610 bajó
+🔻 Pasajero 612 bajó
+🔻 Pasajero 617 bajó
+🔻 Pasajero 618 bajó
+🔻 Pasajero 629 bajó
+🔻 Pasajero 1717 bajó
+🔻 Pasajero 654 bajó
+🔻 Pasajero 1722 bajó
+🔺 Pasajero 119 subió
+🔺 Pasajero 121 subió
+🔺 Pasajero 122 subió
+🔺 Pasajero 123 subió
+🔺 Pasajero 125 subió
+🔺 Pasajero 131 subió
+🔺 Pasajero 132 subió
+🔺 Pasajero 137 subió
+🔺 Pasajero 667 subió
+🔺 Pasajero 668 subió
+🔺 Pasajero 669 subió
+🔺 Pasajero 670 subió
+🔺 Pasajero 671 subió
+🔺 Pasajero 672 subió
+🔺 Pasajero 673 subió
+🔺 Pasajero 674 subió
+🔺 Pasajero 675 subió
+🔺 Pasajero 676 subió
+🔺 Pasajero 677 subió
+🔺 Pasajero 678 subió
+🔺 Pasajero 679 subió
+🔺 Pasajero 680 subió
+🔺 Pasajero 681 subió
+🔺 Pasajero 682 subió
+🔺 Pasajero 683 subió
+🔺 Pasajero 684 subió
+🔺 Pasajero 1195 subió
+🔺 Pasajero 1198 subió
+🔺 Pasajero 1199 subió
+🔺 Pasajero 1201 subió
+🔺 Pasajero 1202 subió
+🔺 Pasajero 1203 subió
+🔺 Pasajero 1204 subió
+🔺 Pasajero 1210 subió
+🔺 Pasajero 1735 subió
+👥 Bajaron: 8 | Subieron: 35 | A bordo: 100
+⚠️ Colectivo de línea L2R está lleno en Bartolom� Mitre, 610. Quedaron 3 pasajeros esperando.
+🚌 Línea L3I llegó a 28 De Julio, 311
+🔻 Pasajero 774 bajó
+🔻 Pasajero 780 bajó
+🔻 Pasajero 783 bajó
+🔻 Pasajero 784 bajó
+🔻 Pasajero 787 bajó
+🔻 Pasajero 791 bajó
+🔻 Pasajero 795 bajó
+🔻 Pasajero 801 bajó
+🔺 Pasajero 812 subió
+🔺 Pasajero 813 subió
+🔺 Pasajero 814 subió
+🔺 Pasajero 815 subió
+🔺 Pasajero 816 subió
+🔺 Pasajero 817 subió
+🔺 Pasajero 818 subió
+🔺 Pasajero 819 subió
+👥 Bajaron: 8 | Subieron: 8 | A bordo: 34
+🚌 Línea L3R llegó a Fournier, 1187
+🔻 Pasajero 895 bajó
+🔻 Pasajero 897 bajó
+🔻 Pasajero 913 bajó
+🔺 Pasajero 916 subió
+🔺 Pasajero 917 subió
+🔺 Pasajero 918 subió
+🔺 Pasajero 919 subió
+🔺 Pasajero 920 subió
+🔺 Pasajero 921 subió
+🔺 Pasajero 922 subió
+🔺 Pasajero 923 subió
+🔺 Pasajero 924 subió
+🔺 Pasajero 925 subió
+🔺 Pasajero 926 subió
+🔺 Pasajero 927 subió
+🔺 Pasajero 928 subió
+🔺 Pasajero 929 subió
+🔺 Pasajero 930 subió
+🔺 Pasajero 931 subió
+🔺 Pasajero 932 subió
+🔺 Pasajero 933 subió
+🔺 Pasajero 934 subió
+👥 Bajaron: 3 | Subieron: 19 | A bordo: 44
+🚌 Línea L4I llegó a Bouchard, 880
+🔻 Pasajero 1018 bajó
+🔻 Pasajero 1026 bajó
+🔻 Pasajero 1031 bajó
+🔻 Pasajero 1037 bajó
+🔻 Pasajero 1046 bajó
+🔻 Pasajero 1048 bajó
+🔻 Pasajero 1052 bajó
+🔺 Pasajero 1053 subió
+🔺 Pasajero 1054 subió
+🔺 Pasajero 1055 subió
+🔺 Pasajero 1056 subió
+🔺 Pasajero 1057 subió
+🔺 Pasajero 1058 subió
+🔺 Pasajero 1059 subió
+🔺 Pasajero 1060 subió
+🔺 Pasajero 1061 subió
+🔺 Pasajero 1062 subió
+🔺 Pasajero 1063 subió
+🔺 Pasajero 1064 subió
+👥 Bajaron: 7 | Subieron: 12 | A bordo: 40
+🚌 Línea L4R llegó a Lewis Jones, 919
+🔻 Pasajero 1104 bajó
+🔻 Pasajero 1118 bajó
+🔻 Pasajero 1138 bajó
+🔺 Pasajero 1149 subió
+🔺 Pasajero 1150 subió
+🔺 Pasajero 1151 subió
+🔺 Pasajero 1152 subió
+🔺 Pasajero 1153 subió
+🔺 Pasajero 1154 subió
+🔺 Pasajero 1155 subió
+🔺 Pasajero 1156 subió
+🔺 Pasajero 1157 subió
+🔺 Pasajero 1158 subió
+🔺 Pasajero 1159 subió
+🔺 Pasajero 1160 subió
+🔺 Pasajero 1161 subió
+🔺 Pasajero 1162 subió
+🔺 Pasajero 1163 subió
+🔺 Pasajero 1164 subió
+👥 Bajaron: 3 | Subieron: 16 | A bordo: 36
+🚌 Línea L5I llegó a Gobernador Alejandro Maiz, 315
+🔻 Pasajero 1250 bajó
+🔻 Pasajero 1255 bajó
+🔻 Pasajero 1270 bajó
+🔺 Pasajero 280 subió
+🔺 Pasajero 281 subió
+🔺 Pasajero 282 subió
+🔺 Pasajero 525 subió
+🔺 Pasajero 1272 subió
+🔺 Pasajero 1273 subió
+🔺 Pasajero 1274 subió
+🔺 Pasajero 1275 subió
+🔺 Pasajero 1276 subió
+🔺 Pasajero 1277 subió
+🔺 Pasajero 1278 subió
+🔺 Pasajero 1279 subió
+🔺 Pasajero 1280 subió
+🔺 Pasajero 1281 subió
+🔺 Pasajero 1282 subió
+🔺 Pasajero 1283 subió
+👥 Bajaron: 3 | Subieron: 16 | A bordo: 53
+🚌 Línea L5R llegó a Periodistas Chubutenses, 500
+🔺 Pasajero 1399 subió
+🔺 Pasajero 1400 subió
+🔺 Pasajero 1401 subió
+🔺 Pasajero 1402 subió
+🔺 Pasajero 1403 subió
+🔺 Pasajero 1404 subió
+🔺 Pasajero 1406 subió
+🔺 Pasajero 1407 subió
+👥 Bajaron: 0 | Subieron: 8 | A bordo: 41
+🚌 Línea L6I llegó a Dorrego, 669
+🔻 Pasajero 1582 bajó
+🔻 Pasajero 1585 bajó
+🔻 Pasajero 1586 bajó
+🔻 Pasajero 1587 bajó
+🔻 Pasajero 1590 bajó
+🔻 Pasajero 1591 bajó
+🔻 Pasajero 1596 bajó
+🔻 Pasajero 1601 bajó
+🔻 Pasajero 1602 bajó
+🔻 Pasajero 1609 bajó
+🔻 Pasajero 1611 bajó
+🔻 Pasajero 1615 bajó
+🔻 Pasajero 1616 bajó
+🔻 Pasajero 1619 bajó
+🔻 Pasajero 1620 bajó
+🔺 Pasajero 1621 subió
+🔺 Pasajero 1622 subió
+🔺 Pasajero 1623 subió
+🔺 Pasajero 1624 subió
+🔺 Pasajero 1625 subió
+🔺 Pasajero 1626 subió
+🔺 Pasajero 1627 subió
+🔺 Pasajero 1628 subió
+🔺 Pasajero 1629 subió
+👥 Bajaron: 15 | Subieron: 9 | A bordo: 27
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 2599
+🔻 Pasajero 1679 bajó
+🔻 Pasajero 1693 bajó
+🔻 Pasajero 1701 bajó
+🔻 Pasajero 1704 bajó
+🔺 Pasajero 1708 subió
+🔺 Pasajero 1709 subió
+🔺 Pasajero 1710 subió
+🔺 Pasajero 1711 subió
+🔺 Pasajero 1712 subió
+🔺 Pasajero 1713 subió
+🔺 Pasajero 1714 subió
+🔺 Pasajero 1715 subió
+🔺 Pasajero 1716 subió
+👥 Bajaron: 4 | Subieron: 9 | A bordo: 63
+
+=== PARADA 6 ===
+🚌 Línea L1I llegó a Juan B. Justo, 1172
+🔻 Pasajero 8 bajó
+🔻 Pasajero 36 bajó
+🔻 Pasajero 40 bajó
+🔻 Pasajero 64 bajó
+🔻 Pasajero 83 bajó
+🔻 Pasajero 84 bajó
+🔺 Pasajero 86 subió
+🔺 Pasajero 87 subió
+🔺 Pasajero 88 subió
+🔺 Pasajero 89 subió
+🔺 Pasajero 90 subió
+🔺 Pasajero 91 subió
+👥 Bajaron: 6 | Subieron: 6 | A bordo: 100
+⚠️ Colectivo de línea L1I está lleno en Juan B. Justo, 1172. Quedaron 5 pasajeros esperando.
+🚌 Línea L1R llegó a Avenida Juan Muzzio, 482
+🔻 Pasajero 237 bajó
+🔻 Pasajero 244 bajó
+🔻 Pasajero 480 bajó
+🔻 Pasajero 493 bajó
+🔺 Pasajero 264 subió
+🔺 Pasajero 265 subió
+🔺 Pasajero 266 subió
+🔺 Pasajero 267 subió
+🔺 Pasajero 268 subió
+🔺 Pasajero 269 subió
+🔺 Pasajero 270 subió
+🔺 Pasajero 271 subió
+🔺 Pasajero 272 subió
+🔺 Pasajero 273 subió
+🔺 Pasajero 274 subió
+🔺 Pasajero 275 subió
+🔺 Pasajero 276 subió
+🔺 Pasajero 277 subió
+🔺 Pasajero 278 subió
+🔺 Pasajero 279 subió
+🔺 Pasajero 497 subió
+🔺 Pasajero 498 subió
+🔺 Pasajero 503 subió
+🔺 Pasajero 504 subió
+🔺 Pasajero 505 subió
+🔺 Pasajero 506 subió
+👥 Bajaron: 4 | Subieron: 22 | A bordo: 73
+🚌 Línea L2I llegó a Pedro Derbes, 660
+🔻 Pasajero 454 bajó
+👥 Bajaron: 1 | Subieron: 0 | A bordo: 46
+🚌 Línea L2R llegó a Bartolom� Mitre, 401
+🔻 Pasajero 604 bajó
+🔻 Pasajero 627 bajó
+🔻 Pasajero 628 bajó
+🔻 Pasajero 638 bajó
+🔻 Pasajero 647 bajó
+🔻 Pasajero 651 bajó
+🔻 Pasajero 659 bajó
+🔻 Pasajero 1719 bajó
+🔻 Pasajero 1721 bajó
+🔻 Pasajero 1723 bajó
+🔻 Pasajero 1725 bajó
+🔻 Pasajero 119 bajó
+🔻 Pasajero 121 bajó
+🔻 Pasajero 122 bajó
+🔻 Pasajero 123 bajó
+🔻 Pasajero 125 bajó
+🔻 Pasajero 137 bajó
+🔻 Pasajero 669 bajó
+🔻 Pasajero 675 bajó
+🔻 Pasajero 680 bajó
+🔻 Pasajero 682 bajó
+🔺 Pasajero 139 subió
+🔺 Pasajero 685 subió
+🔺 Pasajero 686 subió
+🔺 Pasajero 687 subió
+🔺 Pasajero 688 subió
+🔺 Pasajero 689 subió
+🔺 Pasajero 1513 subió
+🔺 Pasajero 1517 subió
+🔺 Pasajero 1746 subió
+🔺 Pasajero 1747 subió
+🔺 Pasajero 1748 subió
+👥 Bajaron: 21 | Subieron: 11 | A bordo: 90
+🚌 Línea L3I llegó a Marcos A. Zar, 461
+🔻 Pasajero 776 bajó
+🔻 Pasajero 779 bajó
+🔻 Pasajero 788 bajó
+🔻 Pasajero 789 bajó
+🔻 Pasajero 792 bajó
+🔻 Pasajero 799 bajó
+🔻 Pasajero 802 bajó
+🔺 Pasajero 820 subió
+🔺 Pasajero 821 subió
+🔺 Pasajero 822 subió
+🔺 Pasajero 823 subió
+🔺 Pasajero 824 subió
+🔺 Pasajero 825 subió
+👥 Bajaron: 7 | Subieron: 6 | A bordo: 33
+🚌 Línea L3R llegó a Dorrego, 700
+🔻 Pasajero 889 bajó
+🔻 Pasajero 892 bajó
+🔻 Pasajero 906 bajó
+🔻 Pasajero 909 bajó
+🔻 Pasajero 917 bajó
+🔻 Pasajero 923 bajó
+🔻 Pasajero 934 bajó
+🔺 Pasajero 935 subió
+🔺 Pasajero 938 subió
+🔺 Pasajero 939 subió
+🔺 Pasajero 940 subió
+🔺 Pasajero 942 subió
+🔺 Pasajero 943 subió
+🔺 Pasajero 944 subió
+🔺 Pasajero 946 subió
+🔺 Pasajero 947 subió
+🔺 Pasajero 948 subió
+🔺 Pasajero 949 subió
+👥 Bajaron: 7 | Subieron: 11 | A bordo: 48
+🚌 Línea L4I llegó a Bouchard, 1285
+🔻 Pasajero 1017 bajó
+🔻 Pasajero 1023 bajó
+🔻 Pasajero 1030 bajó
+🔻 Pasajero 1040 bajó
+🔻 Pasajero 1044 bajó
+🔻 Pasajero 1050 bajó
+🔻 Pasajero 1053 bajó
+🔻 Pasajero 1056 bajó
+🔻 Pasajero 1062 bajó
+🔻 Pasajero 1064 bajó
+🔺 Pasajero 1065 subió
+🔺 Pasajero 1066 subió
+🔺 Pasajero 1067 subió
+🔺 Pasajero 1068 subió
+🔺 Pasajero 1069 subió
+🔺 Pasajero 1070 subió
+👥 Bajaron: 10 | Subieron: 6 | A bordo: 36
+🚌 Línea L4R llegó a Lewis Jones, 200
+🔻 Pasajero 1111 bajó
+🔻 Pasajero 1119 bajó
+🔻 Pasajero 1121 bajó
+🔻 Pasajero 1128 bajó
+🔻 Pasajero 1145 bajó
+🔻 Pasajero 1151 bajó
+🔻 Pasajero 1152 bajó
+🔻 Pasajero 1155 bajó
+🔻 Pasajero 1159 bajó
+🔺 Pasajero 1165 subió
+🔺 Pasajero 1166 subió
+🔺 Pasajero 1167 subió
+🔺 Pasajero 1168 subió
+🔺 Pasajero 1169 subió
+🔺 Pasajero 1170 subió
+🔺 Pasajero 1171 subió
+🔺 Pasajero 1172 subió
+🔺 Pasajero 1173 subió
+🔺 Pasajero 1174 subió
+🔺 Pasajero 1175 subió
+🔺 Pasajero 1176 subió
+🔺 Pasajero 1177 subió
+🔺 Pasajero 1178 subió
+🔺 Pasajero 1179 subió
+🔺 Pasajero 1180 subió
+🔺 Pasajero 1181 subió
+👥 Bajaron: 9 | Subieron: 17 | A bordo: 44
+🚌 Línea L5I llegó a Belgrano, 314
+🔻 Pasajero 507 bajó
+🔻 Pasajero 524 bajó
+🔻 Pasajero 1276 bajó
+🔻 Pasajero 1278 bajó
+🔻 Pasajero 1281 bajó
+🔺 Pasajero 286 subió
+🔺 Pasajero 297 subió
+🔺 Pasajero 298 subió
+🔺 Pasajero 537 subió
+🔺 Pasajero 539 subió
+🔺 Pasajero 1284 subió
+🔺 Pasajero 1285 subió
+🔺 Pasajero 1286 subió
+🔺 Pasajero 1287 subió
+🔺 Pasajero 1288 subió
+🔺 Pasajero 1289 subió
+👥 Bajaron: 5 | Subieron: 11 | A bordo: 59
+🚌 Línea L5R llegó a Jos� Contin 712
+🔻 Pasajero 1368 bajó
+🔻 Pasajero 1371 bajó
+🔻 Pasajero 1378 bajó
+🔻 Pasajero 1389 bajó
+🔻 Pasajero 1406 bajó
+🔺 Pasajero 1408 subió
+🔺 Pasajero 1409 subió
+🔺 Pasajero 1410 subió
+🔺 Pasajero 1411 subió
+🔺 Pasajero 1412 subió
+🔺 Pasajero 1413 subió
+🔺 Pasajero 1414 subió
+🔺 Pasajero 1415 subió
+🔺 Pasajero 1416 subió
+🔺 Pasajero 1417 subió
+🔺 Pasajero 1418 subió
+🔺 Pasajero 1419 subió
+🔺 Pasajero 1420 subió
+🔺 Pasajero 1421 subió
+🔺 Pasajero 1422 subió
+🔺 Pasajero 1423 subió
+🔺 Pasajero 1424 subió
+🔺 Pasajero 1425 subió
+🔺 Pasajero 1426 subió
+👥 Bajaron: 5 | Subieron: 19 | A bordo: 55
+🚌 Línea L6I llegó a El Jariyal, 1725
+🔻 Pasajero 1589 bajó
+🔻 Pasajero 1595 bajó
+🔻 Pasajero 1597 bajó
+🔻 Pasajero 1599 bajó
+🔻 Pasajero 1607 bajó
+🔻 Pasajero 1610 bajó
+🔻 Pasajero 1613 bajó
+🔻 Pasajero 1617 bajó
+🔻 Pasajero 1618 bajó
+🔻 Pasajero 1624 bajó
+🔻 Pasajero 1628 bajó
+🔺 Pasajero 1630 subió
+🔺 Pasajero 1631 subió
+🔺 Pasajero 1632 subió
+🔺 Pasajero 1633 subió
+🔺 Pasajero 1634 subió
+🔺 Pasajero 1635 subió
+🔺 Pasajero 1636 subió
+🔺 Pasajero 1637 subió
+🔺 Pasajero 1638 subió
+🔺 Pasajero 1639 subió
+👥 Bajaron: 11 | Subieron: 10 | A bordo: 26
+🚌 Línea L6R llegó a Chiquichan, 22
+🔻 Pasajero 1648 bajó
+🔻 Pasajero 1651 bajó
+🔻 Pasajero 1655 bajó
+🔻 Pasajero 1673 bajó
+🔻 Pasajero 1686 bajó
+🔻 Pasajero 1689 bajó
+🔻 Pasajero 1706 bajó
+🔻 Pasajero 1707 bajó
+🔻 Pasajero 1708 bajó
+🔻 Pasajero 1711 bajó
+🔻 Pasajero 1714 bajó
+👥 Bajaron: 11 | Subieron: 0 | A bordo: 52
+
+=== PARADA 7 ===
+🚌 Línea L1I llegó a Dorrego, 416
+🔻 Pasajero 3 bajó
+🔻 Pasajero 34 bajó
+🔻 Pasajero 70 bajó
+🔻 Pasajero 72 bajó
+🔻 Pasajero 82 bajó
+🔻 Pasajero 87 bajó
+🔻 Pasajero 89 bajó
+🔺 Pasajero 97 subió
+🔺 Pasajero 98 subió
+🔺 Pasajero 99 subió
+🔺 Pasajero 100 subió
+🔺 Pasajero 101 subió
+🔺 Pasajero 102 subió
+🔺 Pasajero 103 subió
+👥 Bajaron: 7 | Subieron: 7 | A bordo: 100
+⚠️ Colectivo de línea L1I está lleno en Dorrego, 416. Quedaron 5 pasajeros esperando.
+🚌 Línea L1R llegó a Gobernador Alejandro Maiz, 315
+🔻 Pasajero 230 bajó
+🔻 Pasajero 459 bajó
+🔻 Pasajero 246 bajó
+🔻 Pasajero 472 bajó
+🔻 Pasajero 479 bajó
+🔻 Pasajero 265 bajó
+🔻 Pasajero 503 bajó
+🔻 Pasajero 506 bajó
+🔺 Pasajero 283 subió
+🔺 Pasajero 284 subió
+👥 Bajaron: 8 | Subieron: 2 | A bordo: 67
+🚌 Línea L2I llegó a Roberto G�mez, 550
+🔻 Pasajero 428 bajó
+🔻 Pasajero 440 bajó
+🔺 Pasajero 469 subió
+🔺 Pasajero 471 subió
+🔺 Pasajero 475 subió
+🔺 Pasajero 477 subió
+🔺 Pasajero 478 subió
+🔺 Pasajero 482 subió
+🔺 Pasajero 483 subió
+🔺 Pasajero 486 subió
+🔺 Pasajero 487 subió
+👥 Bajaron: 2 | Subieron: 9 | A bordo: 53
+🚌 Línea L2R llegó a 28 De Julio, 200
+🔻 Pasajero 600 bajó
+🔻 Pasajero 603 bajó
+🔻 Pasajero 606 bajó
+🔻 Pasajero 609 bajó
+🔻 Pasajero 622 bajó
+🔻 Pasajero 625 bajó
+🔻 Pasajero 641 bajó
+🔻 Pasajero 1724 bajó
+🔻 Pasajero 1726 bajó
+🔻 Pasajero 1727 bajó
+🔻 Pasajero 1731 bajó
+🔻 Pasajero 1732 bajó
+🔻 Pasajero 131 bajó
+🔻 Pasajero 132 bajó
+🔻 Pasajero 678 bajó
+🔻 Pasajero 681 bajó
+🔻 Pasajero 1195 bajó
+🔻 Pasajero 1198 bajó
+🔻 Pasajero 1199 bajó
+🔻 Pasajero 1201 bajó
+🔻 Pasajero 1202 bajó
+🔻 Pasajero 1203 bajó
+🔻 Pasajero 1204 bajó
+🔻 Pasajero 1210 bajó
+🔻 Pasajero 1735 bajó
+🔻 Pasajero 139 bajó
+🔻 Pasajero 1746 bajó
+🔻 Pasajero 1747 bajó
+🔻 Pasajero 1748 bajó
+🔺 Pasajero 690 subió
+🔺 Pasajero 691 subió
+🔺 Pasajero 692 subió
+🔺 Pasajero 693 subió
+🔺 Pasajero 694 subió
+🔺 Pasajero 695 subió
+🔺 Pasajero 696 subió
+🔺 Pasajero 697 subió
+🔺 Pasajero 698 subió
+🔺 Pasajero 699 subió
+🔺 Pasajero 700 subió
+🔺 Pasajero 701 subió
+🔺 Pasajero 702 subió
+🔺 Pasajero 703 subió
+🔺 Pasajero 704 subió
+🔺 Pasajero 950 subió
+🔺 Pasajero 951 subió
+🔺 Pasajero 955 subió
+🔺 Pasajero 1520 subió
+👥 Bajaron: 29 | Subieron: 19 | A bordo: 80
+🚌 Línea L3I llegó a Marcos A. Zar, 691
+🔻 Pasajero 793 bajó
+🔻 Pasajero 796 bajó
+🔺 Pasajero 826 subió
+🔺 Pasajero 827 subió
+🔺 Pasajero 828 subió
+🔺 Pasajero 829 subió
+🔺 Pasajero 830 subió
+🔺 Pasajero 831 subió
+🔺 Pasajero 832 subió
+🔺 Pasajero 833 subió
+🔺 Pasajero 834 subió
+🔺 Pasajero 835 subió
+🔺 Pasajero 836 subió
+🔺 Pasajero 837 subió
+👥 Bajaron: 2 | Subieron: 12 | A bordo: 43
+🚌 Línea L3R llegó a 28 De Julio, 200
+🔻 Pasajero 896 bajó
+🔻 Pasajero 898 bajó
+🔻 Pasajero 904 bajó
+🔻 Pasajero 907 bajó
+🔻 Pasajero 908 bajó
+🔻 Pasajero 911 bajó
+🔻 Pasajero 915 bajó
+🔻 Pasajero 916 bajó
+🔻 Pasajero 920 bajó
+🔻 Pasajero 922 bajó
+🔻 Pasajero 926 bajó
+🔻 Pasajero 928 bajó
+🔻 Pasajero 933 bajó
+🔺 Pasajero 952 subió
+🔺 Pasajero 953 subió
+🔺 Pasajero 954 subió
+🔺 Pasajero 956 subió
+🔺 Pasajero 957 subió
+🔺 Pasajero 958 subió
+🔺 Pasajero 959 subió
+🔺 Pasajero 960 subió
+🔺 Pasajero 961 subió
+🔺 Pasajero 962 subió
+🔺 Pasajero 963 subió
+👥 Bajaron: 13 | Subieron: 11 | A bordo: 46
+🚌 Línea L4I llegó a Rivadavia, 2476
+🔻 Pasajero 1019 bajó
+🔻 Pasajero 1043 bajó
+🔻 Pasajero 1045 bajó
+🔻 Pasajero 1047 bajó
+🔻 Pasajero 1057 bajó
+🔻 Pasajero 1066 bajó
+🔻 Pasajero 1067 bajó
+🔻 Pasajero 1068 bajó
+🔺 Pasajero 1071 subió
+👥 Bajaron: 8 | Subieron: 1 | A bordo: 29
+🚌 Línea L4R llegó a Mariano Moreno, 193
+🔻 Pasajero 1106 bajó
+🔻 Pasajero 1116 bajó
+🔻 Pasajero 1144 bajó
+🔻 Pasajero 1148 bajó
+🔻 Pasajero 1153 bajó
+🔻 Pasajero 1154 bajó
+🔻 Pasajero 1161 bajó
+🔻 Pasajero 1165 bajó
+🔻 Pasajero 1173 bajó
+🔻 Pasajero 1177 bajó
+🔻 Pasajero 1178 bajó
+🔻 Pasajero 1179 bajó
+🔺 Pasajero 1182 subió
+🔺 Pasajero 1183 subió
+🔺 Pasajero 1184 subió
+🔺 Pasajero 1185 subió
+🔺 Pasajero 1186 subió
+🔺 Pasajero 1187 subió
+🔺 Pasajero 1188 subió
+🔺 Pasajero 1189 subió
+🔺 Pasajero 1190 subió
+🔺 Pasajero 1191 subió
+🔺 Pasajero 1192 subió
+🔺 Pasajero 1193 subió
+🔺 Pasajero 1194 subió
+👥 Bajaron: 12 | Subieron: 13 | A bordo: 45
+🚌 Línea L5I llegó a 25 De Mayo, 299
+🔻 Pasajero 509 bajó
+🔻 Pasajero 511 bajó
+🔻 Pasajero 518 bajó
+🔻 Pasajero 521 bajó
+🔻 Pasajero 1261 bajó
+🔻 Pasajero 1263 bajó
+🔻 Pasajero 1264 bajó
+🔻 Pasajero 1275 bajó
+🔻 Pasajero 537 bajó
+🔻 Pasajero 1288 bajó
+🔺 Pasajero 299 subió
+🔺 Pasajero 300 subió
+🔺 Pasajero 301 subió
+🔺 Pasajero 302 subió
+🔺 Pasajero 1290 subió
+🔺 Pasajero 1291 subió
+🔺 Pasajero 1292 subió
+🔺 Pasajero 1293 subió
+🔺 Pasajero 1294 subió
+🔺 Pasajero 1295 subió
+🔺 Pasajero 1296 subió
+🔺 Pasajero 1297 subió
+🔺 Pasajero 1298 subió
+🔺 Pasajero 1299 subió
+🔺 Pasajero 1300 subió
+🔺 Pasajero 1301 subió
+🔺 Pasajero 1302 subió
+👥 Bajaron: 10 | Subieron: 17 | A bordo: 66
+🚌 Línea L5R llegó a Jos� Alberdi 720
+🔻 Pasajero 1388 bajó
+🔻 Pasajero 1398 bajó
+🔻 Pasajero 1409 bajó
+🔻 Pasajero 1424 bajó
+🔺 Pasajero 1427 subió
+🔺 Pasajero 1428 subió
+🔺 Pasajero 1429 subió
+🔺 Pasajero 1430 subió
+🔺 Pasajero 1431 subió
+🔺 Pasajero 1432 subió
+🔺 Pasajero 1433 subió
+🔺 Pasajero 1434 subió
+🔺 Pasajero 1435 subió
+👥 Bajaron: 4 | Subieron: 9 | A bordo: 60
+🚌 Línea L6I llegó a Los Alamos, 3900
+🔻 Pasajero 1581 bajó
+🔻 Pasajero 1588 bajó
+🔻 Pasajero 1600 bajó
+🔻 Pasajero 1603 bajó
+🔻 Pasajero 1605 bajó
+🔻 Pasajero 1606 bajó
+🔻 Pasajero 1608 bajó
+🔻 Pasajero 1612 bajó
+🔻 Pasajero 1614 bajó
+🔻 Pasajero 1621 bajó
+🔻 Pasajero 1622 bajó
+🔻 Pasajero 1623 bajó
+🔻 Pasajero 1625 bajó
+🔻 Pasajero 1626 bajó
+🔻 Pasajero 1627 bajó
+🔻 Pasajero 1629 bajó
+🔻 Pasajero 1630 bajó
+🔻 Pasajero 1631 bajó
+🔻 Pasajero 1632 bajó
+🔻 Pasajero 1633 bajó
+🔻 Pasajero 1634 bajó
+🔻 Pasajero 1635 bajó
+🔻 Pasajero 1636 bajó
+🔻 Pasajero 1637 bajó
+🔻 Pasajero 1638 bajó
+🔻 Pasajero 1639 bajó
+👥 Bajaron: 26 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 1615
+🔻 Pasajero 1646 bajó
+🔻 Pasajero 1653 bajó
+🔻 Pasajero 1657 bajó
+🔻 Pasajero 1662 bajó
+🔻 Pasajero 1664 bajó
+🔻 Pasajero 1665 bajó
+🔻 Pasajero 1666 bajó
+🔻 Pasajero 1681 bajó
+🔻 Pasajero 1682 bajó
+🔻 Pasajero 1694 bajó
+🔻 Pasajero 1696 bajó
+🔻 Pasajero 1712 bajó
+🔺 Pasajero 1718 subió
+🔺 Pasajero 1720 subió
+🔺 Pasajero 1728 subió
+🔺 Pasajero 1729 subió
+🔺 Pasajero 1730 subió
+👥 Bajaron: 12 | Subieron: 5 | A bordo: 45
+
+=== PARADA 8 ===
+🚌 Línea L1I llegó a Marcos A. Zar, 1998
+🔻 Pasajero 7 bajó
+🔻 Pasajero 21 bajó
+🔻 Pasajero 52 bajó
+🔻 Pasajero 97 bajó
+🔺 Pasajero 109 subió
+🔺 Pasajero 110 subió
+🔺 Pasajero 111 subió
+🔺 Pasajero 112 subió
+👥 Bajaron: 4 | Subieron: 4 | A bordo: 100
+⚠️ Colectivo de línea L1I está lleno en Marcos A. Zar, 1998. Quedaron 4 pasajeros esperando.
+🚌 Línea L1R llegó a Belgrano, 314
+🔻 Pasajero 221 bajó
+🔻 Pasajero 222 bajó
+🔻 Pasajero 226 bajó
+🔻 Pasajero 231 bajó
+🔻 Pasajero 252 bajó
+🔻 Pasajero 257 bajó
+🔻 Pasajero 470 bajó
+🔻 Pasajero 476 bajó
+🔻 Pasajero 485 bajó
+🔻 Pasajero 263 bajó
+🔻 Pasajero 492 bajó
+🔻 Pasajero 275 bajó
+🔻 Pasajero 277 bajó
+🔻 Pasajero 497 bajó
+🔻 Pasajero 505 bajó
+🔺 Pasajero 285 subió
+🔺 Pasajero 287 subió
+🔺 Pasajero 288 subió
+🔺 Pasajero 289 subió
+🔺 Pasajero 290 subió
+🔺 Pasajero 291 subió
+🔺 Pasajero 292 subió
+🔺 Pasajero 293 subió
+🔺 Pasajero 294 subió
+🔺 Pasajero 295 subió
+🔺 Pasajero 296 subió
+👥 Bajaron: 15 | Subieron: 11 | A bordo: 63
+🚌 Línea L2I llegó a Avenida Juan Muzzio, 258
+🔻 Pasajero 432 bajó
+🔻 Pasajero 435 bajó
+🔺 Pasajero 489 subió
+🔺 Pasajero 491 subió
+👥 Bajaron: 2 | Subieron: 2 | A bordo: 53
+🚌 Línea L2R llegó a Hip�lito Yrigoyen, 457
+🔻 Pasajero 602 bajó
+🔻 Pasajero 605 bajó
+🔻 Pasajero 619 bajó
+🔻 Pasajero 634 bajó
+🔻 Pasajero 639 bajó
+🔻 Pasajero 645 bajó
+🔻 Pasajero 652 bajó
+🔻 Pasajero 653 bajó
+🔻 Pasajero 674 bajó
+🔻 Pasajero 679 bajó
+🔻 Pasajero 687 bajó
+🔻 Pasajero 1513 bajó
+🔻 Pasajero 1517 bajó
+🔻 Pasajero 692 bajó
+🔻 Pasajero 1520 bajó
+🔺 Pasajero 705 subió
+🔺 Pasajero 706 subió
+🔺 Pasajero 707 subió
+🔺 Pasajero 708 subió
+🔺 Pasajero 709 subió
+🔺 Pasajero 710 subió
+🔺 Pasajero 711 subió
+🔺 Pasajero 712 subió
+🔺 Pasajero 713 subió
+🔺 Pasajero 714 subió
+🔺 Pasajero 715 subió
+🔺 Pasajero 716 subió
+🔺 Pasajero 717 subió
+🔺 Pasajero 718 subió
+🔺 Pasajero 719 subió
+🔺 Pasajero 720 subió
+🔺 Pasajero 721 subió
+👥 Bajaron: 15 | Subieron: 17 | A bordo: 82
+🚌 Línea L3I llegó a Espa�a, 485
+🔻 Pasajero 777 bajó
+🔻 Pasajero 782 bajó
+🔻 Pasajero 800 bajó
+🔻 Pasajero 803 bajó
+🔻 Pasajero 805 bajó
+🔻 Pasajero 809 bajó
+🔻 Pasajero 815 bajó
+🔻 Pasajero 823 bajó
+🔻 Pasajero 825 bajó
+🔻 Pasajero 828 bajó
+🔻 Pasajero 835 bajó
+🔻 Pasajero 837 bajó
+🔺 Pasajero 838 subió
+🔺 Pasajero 839 subió
+🔺 Pasajero 840 subió
+🔺 Pasajero 841 subió
+🔺 Pasajero 842 subió
+🔺 Pasajero 843 subió
+🔺 Pasajero 844 subió
+🔺 Pasajero 845 subió
+🔺 Pasajero 846 subió
+🔺 Pasajero 847 subió
+🔺 Pasajero 848 subió
+🔺 Pasajero 849 subió
+👥 Bajaron: 12 | Subieron: 12 | A bordo: 43
+🚌 Línea L3R llegó a 1 De Marzo, 499
+🔻 Pasajero 931 bajó
+🔻 Pasajero 938 bajó
+🔻 Pasajero 946 bajó
+🔻 Pasajero 949 bajó
+🔺 Pasajero 964 subió
+🔺 Pasajero 965 subió
+🔺 Pasajero 966 subió
+🔺 Pasajero 967 subió
+🔺 Pasajero 968 subió
+🔺 Pasajero 969 subió
+🔺 Pasajero 970 subió
+🔺 Pasajero 971 subió
+🔺 Pasajero 972 subió
+🔺 Pasajero 973 subió
+🔺 Pasajero 974 subió
+🔺 Pasajero 975 subió
+🔺 Pasajero 976 subió
+🔺 Pasajero 977 subió
+🔺 Pasajero 978 subió
+🔺 Pasajero 979 subió
+🔺 Pasajero 980 subió
+🔺 Pasajero 981 subió
+🔺 Pasajero 982 subió
+🔺 Pasajero 983 subió
+👥 Bajaron: 4 | Subieron: 20 | A bordo: 62
+🚌 Línea L4I llegó a Rivadavia 2950
+🔻 Pasajero 1016 bajó
+🔻 Pasajero 1029 bajó
+🔻 Pasajero 1039 bajó
+🔻 Pasajero 1061 bajó
+🔻 Pasajero 1071 bajó
+🔺 Pasajero 1072 subió
+🔺 Pasajero 1073 subió
+🔺 Pasajero 1074 subió
+🔺 Pasajero 1075 subió
+🔺 Pasajero 1076 subió
+🔺 Pasajero 1077 subió
+🔺 Pasajero 1078 subió
+🔺 Pasajero 1079 subió
+🔺 Pasajero 1080 subió
+🔺 Pasajero 1081 subió
+🔺 Pasajero 1082 subió
+🔺 Pasajero 1083 subió
+🔺 Pasajero 1084 subió
+🔺 Pasajero 1085 subió
+🔺 Pasajero 1086 subió
+👥 Bajaron: 5 | Subieron: 15 | A bordo: 39
+🚌 Línea L4R llegó a Bartolom� Mitre, 610
+🔻 Pasajero 1112 bajó
+🔻 Pasajero 1147 bajó
+🔻 Pasajero 1156 bajó
+🔻 Pasajero 1162 bajó
+🔻 Pasajero 1168 bajó
+🔻 Pasajero 1181 bajó
+🔻 Pasajero 1183 bajó
+🔻 Pasajero 1185 bajó
+🔻 Pasajero 1187 bajó
+🔻 Pasajero 1188 bajó
+🔻 Pasajero 1189 bajó
+🔺 Pasajero 1196 subió
+🔺 Pasajero 1197 subió
+🔺 Pasajero 1200 subió
+🔺 Pasajero 1205 subió
+🔺 Pasajero 1206 subió
+🔺 Pasajero 1207 subió
+🔺 Pasajero 1208 subió
+🔺 Pasajero 1209 subió
+🔺 Pasajero 1211 subió
+🔺 Pasajero 1212 subió
+🔺 Pasajero 1737 subió
+👥 Bajaron: 11 | Subieron: 11 | A bordo: 45
+🚌 Línea L5I llegó a 25 De Mayo, 693
+🔻 Pasajero 513 bajó
+🔻 Pasajero 519 bajó
+🔻 Pasajero 523 bajó
+🔻 Pasajero 1267 bajó
+🔻 Pasajero 1268 bajó
+🔻 Pasajero 282 bajó
+🔻 Pasajero 525 bajó
+🔻 Pasajero 1279 bajó
+🔻 Pasajero 286 bajó
+🔻 Pasajero 539 bajó
+🔻 Pasajero 1285 bajó
+🔻 Pasajero 1300 bajó
+🔺 Pasajero 306 subió
+🔺 Pasajero 308 subió
+🔺 Pasajero 309 subió
+🔺 Pasajero 311 subió
+🔺 Pasajero 313 subió
+🔺 Pasajero 314 subió
+🔺 Pasajero 319 subió
+🔺 Pasajero 1303 subió
+🔺 Pasajero 1304 subió
+🔺 Pasajero 1305 subió
+🔺 Pasajero 1306 subió
+👥 Bajaron: 12 | Subieron: 11 | A bordo: 65
+🚌 Línea L5R llegó a Santiago Del Estero, 727
+🔻 Pasajero 1384 bajó
+🔻 Pasajero 1391 bajó
+🔻 Pasajero 1420 bajó
+🔻 Pasajero 1431 bajó
+🔺 Pasajero 1436 subió
+🔺 Pasajero 1437 subió
+🔺 Pasajero 1438 subió
+🔺 Pasajero 1439 subió
+🔺 Pasajero 1440 subió
+🔺 Pasajero 1441 subió
+🔺 Pasajero 1442 subió
+🔺 Pasajero 1443 subió
+🔺 Pasajero 1444 subió
+👥 Bajaron: 4 | Subieron: 9 | A bordo: 65
+✅ Colectivo de línea L6I finalizó su recorrido.
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 936
+🔻 Pasajero 1647 bajó
+🔻 Pasajero 1650 bajó
+🔻 Pasajero 1658 bajó
+🔻 Pasajero 1674 bajó
+🔻 Pasajero 1676 bajó
+🔻 Pasajero 1677 bajó
+🔻 Pasajero 1697 bajó
+🔻 Pasajero 1703 bajó
+🔻 Pasajero 1705 bajó
+🔻 Pasajero 1715 bajó
+🔻 Pasajero 1720 bajó
+🔺 Pasajero 1733 subió
+🔺 Pasajero 1734 subió
+👥 Bajaron: 11 | Subieron: 2 | A bordo: 36
+
+=== PARADA 9 ===
+🚌 Línea L1I llegó a Mariano Moreno, 193
+🔻 Pasajero 17 bajó
+🔻 Pasajero 1126 bajó
+🔻 Pasajero 1127 bajó
+🔻 Pasajero 1131 bajó
+🔻 Pasajero 1141 bajó
+🔻 Pasajero 54 bajó
+🔻 Pasajero 68 bajó
+🔻 Pasajero 111 bajó
+🔺 Pasajero 117 subió
+🔺 Pasajero 118 subió
+👥 Bajaron: 8 | Subieron: 2 | A bordo: 94
+🚌 Línea L1R llegó a 25 De Mayo, 299
+🔻 Pasajero 233 bajó
+🔻 Pasajero 239 bajó
+🔻 Pasajero 240 bajó
+🔻 Pasajero 242 bajó
+🔻 Pasajero 488 bajó
+👥 Bajaron: 5 | Subieron: 0 | A bordo: 58
+🚌 Línea L2I llegó a Avenida Juan Muzzio, 482
+🔻 Pasajero 427 bajó
+🔻 Pasajero 437 bajó
+🔻 Pasajero 446 bajó
+🔺 Pasajero 494 subió
+🔺 Pasajero 495 subió
+🔺 Pasajero 496 subió
+🔺 Pasajero 499 subió
+🔺 Pasajero 500 subió
+🔺 Pasajero 501 subió
+🔺 Pasajero 502 subió
+👥 Bajaron: 3 | Subieron: 7 | A bordo: 57
+🚌 Línea L2R llegó a 1 De Marzo, 499
+🔻 Pasajero 601 bajó
+🔻 Pasajero 607 bajó
+🔻 Pasajero 624 bajó
+🔻 Pasajero 633 bajó
+🔻 Pasajero 642 bajó
+🔻 Pasajero 643 bajó
+🔻 Pasajero 648 bajó
+🔻 Pasajero 671 bajó
+🔻 Pasajero 676 bajó
+🔻 Pasajero 685 bajó
+🔻 Pasajero 689 bajó
+🔻 Pasajero 697 bajó
+🔻 Pasajero 950 bajó
+🔻 Pasajero 951 bajó
+🔻 Pasajero 955 bajó
+🔻 Pasajero 719 bajó
+🔺 Pasajero 722 subió
+🔺 Pasajero 723 subió
+🔺 Pasajero 724 subió
+👥 Bajaron: 16 | Subieron: 3 | A bordo: 69
+🚌 Línea L3I llegó a Dorrego, 700
+🔻 Pasajero 816 bajó
+🔻 Pasajero 829 bajó
+🔻 Pasajero 831 bajó
+🔻 Pasajero 834 bajó
+🔻 Pasajero 841 bajó
+🔻 Pasajero 845 bajó
+🔺 Pasajero 850 subió
+🔺 Pasajero 851 subió
+🔺 Pasajero 852 subió
+🔺 Pasajero 853 subió
+🔺 Pasajero 854 subió
+🔺 Pasajero 855 subió
+🔺 Pasajero 856 subió
+🔺 Pasajero 857 subió
+🔺 Pasajero 858 subió
+🔺 Pasajero 859 subió
+🔺 Pasajero 860 subió
+🔺 Pasajero 861 subió
+🔺 Pasajero 862 subió
+🔺 Pasajero 863 subió
+🔺 Pasajero 864 subió
+👥 Bajaron: 6 | Subieron: 15 | A bordo: 52
+🚌 Línea L3R llegó a Agust�n Pujol, 284
+🔻 Pasajero 888 bajó
+🔻 Pasajero 890 bajó
+🔻 Pasajero 899 bajó
+🔻 Pasajero 905 bajó
+🔻 Pasajero 910 bajó
+🔻 Pasajero 930 bajó
+🔻 Pasajero 935 bajó
+🔻 Pasajero 947 bajó
+🔻 Pasajero 956 bajó
+🔻 Pasajero 957 bajó
+🔻 Pasajero 959 bajó
+🔻 Pasajero 963 bajó
+🔻 Pasajero 965 bajó
+🔻 Pasajero 966 bajó
+🔻 Pasajero 967 bajó
+🔻 Pasajero 976 bajó
+🔻 Pasajero 977 bajó
+🔻 Pasajero 978 bajó
+🔻 Pasajero 979 bajó
+🔻 Pasajero 982 bajó
+🔺 Pasajero 984 subió
+🔺 Pasajero 985 subió
+🔺 Pasajero 986 subió
+🔺 Pasajero 987 subió
+🔺 Pasajero 988 subió
+🔺 Pasajero 989 subió
+🔺 Pasajero 990 subió
+🔺 Pasajero 991 subió
+🔺 Pasajero 992 subió
+👥 Bajaron: 20 | Subieron: 9 | A bordo: 51
+🚌 Línea L4I llegó a Vito Roca 1106
+🔻 Pasajero 1022 bajó
+🔻 Pasajero 1027 bajó
+🔻 Pasajero 1032 bajó
+🔻 Pasajero 1054 bajó
+🔻 Pasajero 1055 bajó
+🔻 Pasajero 1058 bajó
+🔻 Pasajero 1070 bajó
+🔻 Pasajero 1073 bajó
+🔻 Pasajero 1074 bajó
+🔻 Pasajero 1078 bajó
+🔻 Pasajero 1079 bajó
+🔻 Pasajero 1085 bajó
+🔺 Pasajero 1087 subió
+🔺 Pasajero 1088 subió
+🔺 Pasajero 1089 subió
+🔺 Pasajero 1090 subió
+🔺 Pasajero 1091 subió
+🔺 Pasajero 1092 subió
+🔺 Pasajero 1093 subió
+🔺 Pasajero 1094 subió
+🔺 Pasajero 1095 subió
+🔺 Pasajero 1096 subió
+🔺 Pasajero 1097 subió
+🔺 Pasajero 1098 subió
+👥 Bajaron: 12 | Subieron: 12 | A bordo: 39
+🚌 Línea L4R llegó a 28 De Julio, 200
+🔻 Pasajero 1103 bajó
+🔻 Pasajero 1107 bajó
+🔻 Pasajero 1108 bajó
+🔻 Pasajero 1149 bajó
+🔻 Pasajero 1163 bajó
+🔻 Pasajero 1166 bajó
+🔻 Pasajero 1167 bajó
+🔻 Pasajero 1174 bajó
+🔻 Pasajero 1182 bajó
+🔻 Pasajero 1184 bajó
+🔻 Pasajero 1186 bajó
+🔻 Pasajero 1192 bajó
+🔻 Pasajero 1193 bajó
+🔻 Pasajero 1737 bajó
+🔺 Pasajero 1213 subió
+🔺 Pasajero 1214 subió
+🔺 Pasajero 1215 subió
+🔺 Pasajero 1216 subió
+🔺 Pasajero 1217 subió
+🔺 Pasajero 1218 subió
+🔺 Pasajero 1219 subió
+🔺 Pasajero 1220 subió
+🔺 Pasajero 1221 subió
+🔺 Pasajero 1222 subió
+🔺 Pasajero 1223 subió
+🔺 Pasajero 1224 subió
+🔺 Pasajero 1225 subió
+🔺 Pasajero 1226 subió
+🔺 Pasajero 1227 subió
+🔺 Pasajero 1228 subió
+🔺 Pasajero 1752 subió
+🔺 Pasajero 1753 subió
+🔺 Pasajero 1754 subió
+👥 Bajaron: 14 | Subieron: 19 | A bordo: 50
+🚌 Línea L5I llegó a Espa�a, 485
+🔻 Pasajero 1244 bajó
+🔻 Pasajero 1245 bajó
+🔻 Pasajero 1251 bajó
+🔻 Pasajero 1252 bajó
+🔻 Pasajero 1265 bajó
+🔻 Pasajero 1269 bajó
+🔻 Pasajero 1283 bajó
+🔻 Pasajero 1284 bajó
+🔻 Pasajero 302 bajó
+🔻 Pasajero 1292 bajó
+🔻 Pasajero 1298 bajó
+🔻 Pasajero 306 bajó
+🔻 Pasajero 313 bajó
+🔻 Pasajero 314 bajó
+🔺 Pasajero 357 subió
+🔺 Pasajero 358 subió
+🔺 Pasajero 360 subió
+🔺 Pasajero 361 subió
+🔺 Pasajero 362 subió
+🔺 Pasajero 363 subió
+🔺 Pasajero 365 subió
+🔺 Pasajero 366 subió
+🔺 Pasajero 367 subió
+🔺 Pasajero 368 subió
+🔺 Pasajero 369 subió
+🔺 Pasajero 370 subió
+🔺 Pasajero 371 subió
+🔺 Pasajero 373 subió
+🔺 Pasajero 1307 subió
+🔺 Pasajero 1308 subió
+🔺 Pasajero 1309 subió
+🔺 Pasajero 1310 subió
+🔺 Pasajero 1311 subió
+🔺 Pasajero 1312 subió
+🔺 Pasajero 1313 subió
+🔺 Pasajero 1314 subió
+🔺 Pasajero 1315 subió
+🔺 Pasajero 1316 subió
+🔺 Pasajero 1317 subió
+🔺 Pasajero 1318 subió
+🔺 Pasajero 1319 subió
+🔺 Pasajero 1320 subió
+🔺 Pasajero 1321 subió
+🔺 Pasajero 1322 subió
+🔺 Pasajero 1323 subió
+🔺 Pasajero 1324 subió
+🔺 Pasajero 1325 subió
+👥 Bajaron: 14 | Subieron: 33 | A bordo: 84
+🚌 Línea L5R llegó a Espa�a 2451
+🔻 Pasajero 1367 bajó
+🔻 Pasajero 1382 bajó
+🔻 Pasajero 1408 bajó
+🔻 Pasajero 1419 bajó
+🔺 Pasajero 1445 subió
+🔺 Pasajero 1446 subió
+🔺 Pasajero 1447 subió
+🔺 Pasajero 1448 subió
+🔺 Pasajero 1449 subió
+🔺 Pasajero 1450 subió
+🔺 Pasajero 1451 subió
+🔺 Pasajero 1452 subió
+🔺 Pasajero 1453 subió
+🔺 Pasajero 1454 subió
+🔺 Pasajero 1455 subió
+🔺 Pasajero 1456 subió
+🔺 Pasajero 1457 subió
+👥 Bajaron: 4 | Subieron: 13 | A bordo: 74
+🚌 Línea L6I llegó a 1 De Marzo, 405
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Bartolom� Mitre, 610
+🔻 Pasajero 1672 bajó
+🔻 Pasajero 1695 bajó
+🔻 Pasajero 1702 bajó
+🔻 Pasajero 1713 bajó
+🔻 Pasajero 1716 bajó
+🔺 Pasajero 1736 subió
+🔺 Pasajero 1738 subió
+👥 Bajaron: 5 | Subieron: 2 | A bordo: 33
+
+=== PARADA 10 ===
+🚌 Línea L1I llegó a Bartolom� Mitre, 610
+🔻 Pasajero 1 bajó
+🔻 Pasajero 13 bajó
+🔻 Pasajero 1129 bajó
+🔻 Pasajero 1133 bajó
+🔻 Pasajero 1135 bajó
+🔻 Pasajero 1137 bajó
+🔻 Pasajero 1142 bajó
+🔻 Pasajero 29 bajó
+🔻 Pasajero 41 bajó
+🔻 Pasajero 42 bajó
+🔻 Pasajero 47 bajó
+🔻 Pasajero 48 bajó
+🔻 Pasajero 80 bajó
+🔻 Pasajero 100 bajó
+🔺 Pasajero 120 subió
+🔺 Pasajero 124 subió
+🔺 Pasajero 126 subió
+🔺 Pasajero 127 subió
+🔺 Pasajero 128 subió
+🔺 Pasajero 129 subió
+🔺 Pasajero 130 subió
+🔺 Pasajero 133 subió
+🔺 Pasajero 134 subió
+🔺 Pasajero 135 subió
+🔺 Pasajero 136 subió
+🔺 Pasajero 138 subió
+👥 Bajaron: 14 | Subieron: 12 | A bordo: 92
+🚌 Línea L1R llegó a 25 De Mayo, 693
+🔻 Pasajero 464 bajó
+🔻 Pasajero 465 bajó
+🔻 Pasajero 243 bajó
+🔻 Pasajero 259 bajó
+🔻 Pasajero 484 bajó
+🔻 Pasajero 490 bajó
+🔻 Pasajero 268 bajó
+🔻 Pasajero 498 bajó
+🔻 Pasajero 504 bajó
+🔺 Pasajero 303 subió
+🔺 Pasajero 304 subió
+🔺 Pasajero 305 subió
+🔺 Pasajero 307 subió
+🔺 Pasajero 310 subió
+🔺 Pasajero 312 subió
+🔺 Pasajero 315 subió
+🔺 Pasajero 316 subió
+🔺 Pasajero 317 subió
+🔺 Pasajero 318 subió
+👥 Bajaron: 9 | Subieron: 10 | A bordo: 59
+🚌 Línea L2I llegó a Hip�lito Yrigoyen, 802
+🔻 Pasajero 422 bajó
+🔻 Pasajero 1230 bajó
+🔻 Pasajero 1235 bajó
+🔻 Pasajero 439 bajó
+🔻 Pasajero 450 bajó
+🔻 Pasajero 455 bajó
+🔻 Pasajero 458 bajó
+🔻 Pasajero 477 bajó
+🔻 Pasajero 486 bajó
+🔻 Pasajero 487 bajó
+🔺 Pasajero 508 subió
+🔺 Pasajero 510 subió
+🔺 Pasajero 512 subió
+🔺 Pasajero 514 subió
+🔺 Pasajero 515 subió
+🔺 Pasajero 516 subió
+🔺 Pasajero 517 subió
+🔺 Pasajero 520 subió
+🔺 Pasajero 522 subió
+👥 Bajaron: 10 | Subieron: 9 | A bordo: 56
+🚌 Línea L2R llegó a Fuerte San Jos�, 742
+🔻 Pasajero 623 bajó
+🔻 Pasajero 632 bajó
+🔻 Pasajero 649 bajó
+🔻 Pasajero 667 bajó
+🔻 Pasajero 673 bajó
+🔻 Pasajero 684 bajó
+🔻 Pasajero 699 bajó
+🔻 Pasajero 700 bajó
+🔻 Pasajero 702 bajó
+🔻 Pasajero 714 bajó
+🔻 Pasajero 717 bajó
+🔺 Pasajero 725 subió
+🔺 Pasajero 726 subió
+🔺 Pasajero 727 subió
+🔺 Pasajero 728 subió
+👥 Bajaron: 11 | Subieron: 4 | A bordo: 62
+🚌 Línea L3I llegó a Fournier, 1090
+🔻 Pasajero 773 bajó
+🔻 Pasajero 778 bajó
+🔻 Pasajero 786 bajó
+🔻 Pasajero 790 bajó
+🔻 Pasajero 804 bajó
+🔻 Pasajero 810 bajó
+🔻 Pasajero 814 bajó
+🔻 Pasajero 817 bajó
+🔻 Pasajero 818 bajó
+🔻 Pasajero 819 bajó
+🔻 Pasajero 820 bajó
+🔻 Pasajero 826 bajó
+🔻 Pasajero 832 bajó
+🔻 Pasajero 838 bajó
+🔻 Pasajero 839 bajó
+🔻 Pasajero 847 bajó
+🔻 Pasajero 848 bajó
+🔻 Pasajero 852 bajó
+🔻 Pasajero 856 bajó
+🔻 Pasajero 859 bajó
+🔻 Pasajero 860 bajó
+🔻 Pasajero 863 bajó
+🔺 Pasajero 865 subió
+🔺 Pasajero 866 subió
+🔺 Pasajero 867 subió
+🔺 Pasajero 868 subió
+🔺 Pasajero 869 subió
+👥 Bajaron: 22 | Subieron: 5 | A bordo: 35
+🚌 Línea L3R llegó a Manuel Carrera, 1534
+🔻 Pasajero 891 bajó
+🔻 Pasajero 900 bajó
+🔻 Pasajero 902 bajó
+🔻 Pasajero 912 bajó
+🔻 Pasajero 918 bajó
+🔻 Pasajero 919 bajó
+🔻 Pasajero 921 bajó
+🔻 Pasajero 924 bajó
+🔻 Pasajero 927 bajó
+🔻 Pasajero 929 bajó
+🔻 Pasajero 942 bajó
+🔻 Pasajero 943 bajó
+🔻 Pasajero 944 bajó
+🔻 Pasajero 961 bajó
+🔻 Pasajero 970 bajó
+🔻 Pasajero 971 bajó
+🔻 Pasajero 973 bajó
+🔻 Pasajero 975 bajó
+🔻 Pasajero 981 bajó
+🔻 Pasajero 984 bajó
+🔻 Pasajero 985 bajó
+🔻 Pasajero 988 bajó
+🔻 Pasajero 989 bajó
+🔻 Pasajero 990 bajó
+🔺 Pasajero 993 subió
+🔺 Pasajero 994 subió
+🔺 Pasajero 995 subió
+🔺 Pasajero 996 subió
+🔺 Pasajero 997 subió
+🔺 Pasajero 998 subió
+🔺 Pasajero 999 subió
+🔺 Pasajero 1000 subió
+🔺 Pasajero 1001 subió
+🔺 Pasajero 1002 subió
+🔺 Pasajero 1003 subió
+🔺 Pasajero 1004 subió
+🔺 Pasajero 1005 subió
+🔺 Pasajero 1006 subió
+🔺 Pasajero 1007 subió
+🔺 Pasajero 1008 subió
+🔺 Pasajero 1009 subió
+🔺 Pasajero 1010 subió
+👥 Bajaron: 24 | Subieron: 18 | A bordo: 45
+🚌 Línea L4I llegó a Manuel Alsua, 1086
+🔻 Pasajero 1014 bajó
+🔻 Pasajero 1033 bajó
+🔻 Pasajero 1035 bajó
+🔻 Pasajero 1041 bajó
+🔻 Pasajero 1042 bajó
+🔻 Pasajero 1051 bajó
+🔻 Pasajero 1059 bajó
+🔻 Pasajero 1060 bajó
+🔻 Pasajero 1063 bajó
+🔻 Pasajero 1072 bajó
+🔻 Pasajero 1076 bajó
+🔻 Pasajero 1077 bajó
+🔻 Pasajero 1082 bajó
+🔻 Pasajero 1083 bajó
+🔻 Pasajero 1088 bajó
+🔻 Pasajero 1092 bajó
+🔻 Pasajero 1094 bajó
+🔺 Pasajero 1099 subió
+🔺 Pasajero 1100 subió
+🔺 Pasajero 1101 subió
+👥 Bajaron: 17 | Subieron: 3 | A bordo: 25
+🚌 Línea L4R llegó a 1 De Marzo, 405
+🔻 Pasajero 1115 bajó
+🔻 Pasajero 1117 bajó
+🔻 Pasajero 1122 bajó
+🔻 Pasajero 1123 bajó
+🔻 Pasajero 1140 bajó
+🔻 Pasajero 1146 bajó
+🔻 Pasajero 1150 bajó
+🔻 Pasajero 1157 bajó
+🔻 Pasajero 1158 bajó
+🔻 Pasajero 1160 bajó
+🔻 Pasajero 1164 bajó
+🔻 Pasajero 1169 bajó
+🔻 Pasajero 1170 bajó
+🔻 Pasajero 1171 bajó
+🔻 Pasajero 1172 bajó
+🔻 Pasajero 1175 bajó
+🔻 Pasajero 1176 bajó
+🔻 Pasajero 1180 bajó
+🔻 Pasajero 1190 bajó
+🔻 Pasajero 1191 bajó
+🔻 Pasajero 1194 bajó
+🔻 Pasajero 1196 bajó
+🔻 Pasajero 1197 bajó
+🔻 Pasajero 1200 bajó
+🔻 Pasajero 1205 bajó
+🔻 Pasajero 1206 bajó
+🔻 Pasajero 1207 bajó
+🔻 Pasajero 1208 bajó
+🔻 Pasajero 1209 bajó
+🔻 Pasajero 1211 bajó
+🔻 Pasajero 1212 bajó
+🔻 Pasajero 1213 bajó
+🔻 Pasajero 1214 bajó
+🔻 Pasajero 1215 bajó
+🔻 Pasajero 1216 bajó
+🔻 Pasajero 1217 bajó
+🔻 Pasajero 1218 bajó
+🔻 Pasajero 1219 bajó
+🔻 Pasajero 1220 bajó
+🔻 Pasajero 1221 bajó
+🔻 Pasajero 1222 bajó
+🔻 Pasajero 1223 bajó
+🔻 Pasajero 1224 bajó
+🔻 Pasajero 1225 bajó
+🔻 Pasajero 1226 bajó
+🔻 Pasajero 1227 bajó
+🔻 Pasajero 1228 bajó
+🔻 Pasajero 1752 bajó
+🔻 Pasajero 1753 bajó
+🔻 Pasajero 1754 bajó
+👥 Bajaron: 50 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Villegas, 700
+🔻 Pasajero 1256 bajó
+🔻 Pasajero 1257 bajó
+🔻 Pasajero 1260 bajó
+🔻 Pasajero 1273 bajó
+🔻 Pasajero 1274 bajó
+🔻 Pasajero 297 bajó
+🔻 Pasajero 1286 bajó
+🔻 Pasajero 299 bajó
+🔻 Pasajero 300 bajó
+🔻 Pasajero 1290 bajó
+🔻 Pasajero 1291 bajó
+🔻 Pasajero 1301 bajó
+🔻 Pasajero 308 bajó
+🔻 Pasajero 319 bajó
+🔻 Pasajero 1303 bajó
+🔻 Pasajero 1305 bajó
+🔻 Pasajero 361 bajó
+🔻 Pasajero 365 bajó
+🔻 Pasajero 368 bajó
+🔻 Pasajero 371 bajó
+🔻 Pasajero 373 bajó
+🔻 Pasajero 1308 bajó
+🔻 Pasajero 1309 bajó
+🔻 Pasajero 1313 bajó
+🔻 Pasajero 1316 bajó
+🔻 Pasajero 1318 bajó
+🔻 Pasajero 1319 bajó
+🔻 Pasajero 1322 bajó
+🔻 Pasajero 1323 bajó
+🔺 Pasajero 375 subió
+🔺 Pasajero 377 subió
+🔺 Pasajero 380 subió
+🔺 Pasajero 381 subió
+🔺 Pasajero 384 subió
+🔺 Pasajero 388 subió
+🔺 Pasajero 1326 subió
+🔺 Pasajero 1327 subió
+🔺 Pasajero 1328 subió
+🔺 Pasajero 1329 subió
+🔺 Pasajero 1330 subió
+🔺 Pasajero 1331 subió
+👥 Bajaron: 29 | Subieron: 12 | A bordo: 67
+🚌 Línea L5R llegó a Espa�a, 1660
+🔻 Pasajero 1386 bajó
+🔻 Pasajero 1403 bajó
+🔻 Pasajero 1411 bajó
+🔻 Pasajero 1448 bajó
+🔻 Pasajero 1450 bajó
+🔻 Pasajero 1455 bajó
+🔺 Pasajero 1462 subió
+🔺 Pasajero 1463 subió
+🔺 Pasajero 1464 subió
+🔺 Pasajero 1466 subió
+🔺 Pasajero 1468 subió
+👥 Bajaron: 6 | Subieron: 5 | A bordo: 73
+🚌 Línea L6I llegó a 28 De Julio, 311
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Bartolom� Mitre, 401
+🔻 Pasajero 1645 bajó
+🔻 Pasajero 1663 bajó
+🔻 Pasajero 1671 bajó
+🔻 Pasajero 1685 bajó
+🔻 Pasajero 1691 bajó
+🔻 Pasajero 1692 bajó
+🔻 Pasajero 1734 bajó
+🔻 Pasajero 1736 bajó
+🔻 Pasajero 1738 bajó
+🔺 Pasajero 1739 subió
+🔺 Pasajero 1740 subió
+🔺 Pasajero 1741 subió
+🔺 Pasajero 1742 subió
+🔺 Pasajero 1743 subió
+🔺 Pasajero 1744 subió
+🔺 Pasajero 1745 subió
+🔺 Pasajero 1749 subió
+🔺 Pasajero 1750 subió
+🔺 Pasajero 1751 subió
+👥 Bajaron: 9 | Subieron: 10 | A bordo: 34
+
+=== PARADA 11 ===
+🚌 Línea L1I llegó a Bartolom� Mitre, 401
+🔻 Pasajero 32 bajó
+🔻 Pasajero 43 bajó
+🔻 Pasajero 46 bajó
+🔻 Pasajero 1460 bajó
+🔻 Pasajero 1467 bajó
+🔻 Pasajero 1478 bajó
+🔻 Pasajero 1480 bajó
+🔻 Pasajero 103 bajó
+🔻 Pasajero 112 bajó
+🔺 Pasajero 140 subió
+🔺 Pasajero 141 subió
+🔺 Pasajero 142 subió
+🔺 Pasajero 143 subió
+👥 Bajaron: 9 | Subieron: 4 | A bordo: 87
+🚌 Línea L1R llegó a Dorrego, 109
+🔻 Pasajero 225 bajó
+🔻 Pasajero 238 bajó
+🔻 Pasajero 255 bajó
+🔻 Pasajero 278 bajó
+🔻 Pasajero 295 bajó
+🔻 Pasajero 310 bajó
+🔺 Pasajero 320 subió
+🔺 Pasajero 321 subió
+🔺 Pasajero 322 subió
+👥 Bajaron: 6 | Subieron: 3 | A bordo: 56
+🚌 Línea L2I llegó a Gobernador Alejandro Maiz, 315
+🔻 Pasajero 436 bajó
+🔻 Pasajero 444 bajó
+🔻 Pasajero 452 bajó
+👥 Bajaron: 3 | Subieron: 0 | A bordo: 53
+🚌 Línea L2R llegó a Avenida Juan Muzzio, 15-198
+🔻 Pasajero 611 bajó
+🔻 Pasajero 630 bajó
+🔻 Pasajero 635 bajó
+🔻 Pasajero 657 bajó
+🔻 Pasajero 666 bajó
+🔻 Pasajero 668 bajó
+🔻 Pasajero 672 bajó
+🔻 Pasajero 690 bajó
+🔻 Pasajero 691 bajó
+🔻 Pasajero 696 bajó
+🔻 Pasajero 698 bajó
+🔻 Pasajero 705 bajó
+🔻 Pasajero 706 bajó
+🔻 Pasajero 712 bajó
+🔻 Pasajero 716 bajó
+🔻 Pasajero 720 bajó
+🔻 Pasajero 728 bajó
+🔺 Pasajero 729 subió
+🔺 Pasajero 730 subió
+🔺 Pasajero 731 subió
+🔺 Pasajero 732 subió
+🔺 Pasajero 733 subió
+👥 Bajaron: 17 | Subieron: 5 | A bordo: 50
+🚌 Línea L3I llegó a San Juan, 896
+🔻 Pasajero 781 bajó
+🔻 Pasajero 806 bajó
+🔻 Pasajero 812 bajó
+🔻 Pasajero 813 bajó
+🔻 Pasajero 821 bajó
+🔻 Pasajero 824 bajó
+🔻 Pasajero 833 bajó
+🔻 Pasajero 836 bajó
+🔻 Pasajero 840 bajó
+🔻 Pasajero 842 bajó
+🔻 Pasajero 849 bajó
+🔻 Pasajero 853 bajó
+🔻 Pasajero 858 bajó
+🔻 Pasajero 864 bajó
+🔻 Pasajero 865 bajó
+🔻 Pasajero 866 bajó
+🔻 Pasajero 868 bajó
+🔻 Pasajero 869 bajó
+🔺 Pasajero 870 subió
+🔺 Pasajero 871 subió
+🔺 Pasajero 872 subió
+🔺 Pasajero 873 subió
+🔺 Pasajero 874 subió
+🔺 Pasajero 875 subió
+🔺 Pasajero 876 subió
+🔺 Pasajero 877 subió
+🔺 Pasajero 878 subió
+🔺 Pasajero 879 subió
+🔺 Pasajero 880 subió
+🔺 Pasajero 881 subió
+🔺 Pasajero 882 subió
+🔺 Pasajero 883 subió
+🔺 Pasajero 884 subió
+🔺 Pasajero 885 subió
+🔺 Pasajero 886 subió
+🔺 Pasajero 887 subió
+👥 Bajaron: 18 | Subieron: 18 | A bordo: 35
+🚌 Línea L3R llegó a Ruta Provincial 1
+🔻 Pasajero 893 bajó
+🔻 Pasajero 894 bajó
+🔻 Pasajero 901 bajó
+🔻 Pasajero 903 bajó
+🔻 Pasajero 914 bajó
+🔻 Pasajero 925 bajó
+🔻 Pasajero 932 bajó
+🔻 Pasajero 939 bajó
+🔻 Pasajero 940 bajó
+🔻 Pasajero 948 bajó
+🔻 Pasajero 952 bajó
+🔻 Pasajero 953 bajó
+🔻 Pasajero 954 bajó
+🔻 Pasajero 958 bajó
+🔻 Pasajero 960 bajó
+🔻 Pasajero 962 bajó
+🔻 Pasajero 964 bajó
+🔻 Pasajero 968 bajó
+🔻 Pasajero 969 bajó
+🔻 Pasajero 972 bajó
+🔻 Pasajero 974 bajó
+🔻 Pasajero 980 bajó
+🔻 Pasajero 983 bajó
+🔻 Pasajero 986 bajó
+🔻 Pasajero 987 bajó
+🔻 Pasajero 991 bajó
+🔻 Pasajero 992 bajó
+🔻 Pasajero 993 bajó
+🔻 Pasajero 994 bajó
+🔻 Pasajero 995 bajó
+🔻 Pasajero 996 bajó
+🔻 Pasajero 997 bajó
+🔻 Pasajero 998 bajó
+🔻 Pasajero 999 bajó
+🔻 Pasajero 1000 bajó
+🔻 Pasajero 1001 bajó
+🔻 Pasajero 1002 bajó
+🔻 Pasajero 1003 bajó
+🔻 Pasajero 1004 bajó
+🔻 Pasajero 1005 bajó
+🔻 Pasajero 1006 bajó
+🔻 Pasajero 1007 bajó
+🔻 Pasajero 1008 bajó
+🔻 Pasajero 1009 bajó
+🔻 Pasajero 1010 bajó
+👥 Bajaron: 45 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Juan Jose Meangolarra Y Moreno, 1005
+🔻 Pasajero 1011 bajó
+🔻 Pasajero 1015 bajó
+🔻 Pasajero 1020 bajó
+🔻 Pasajero 1036 bajó
+🔻 Pasajero 1038 bajó
+🔻 Pasajero 1049 bajó
+🔻 Pasajero 1065 bajó
+🔻 Pasajero 1069 bajó
+🔻 Pasajero 1075 bajó
+🔻 Pasajero 1080 bajó
+🔻 Pasajero 1081 bajó
+🔻 Pasajero 1084 bajó
+🔻 Pasajero 1086 bajó
+🔻 Pasajero 1087 bajó
+🔻 Pasajero 1089 bajó
+🔻 Pasajero 1090 bajó
+🔻 Pasajero 1091 bajó
+🔻 Pasajero 1093 bajó
+🔻 Pasajero 1095 bajó
+🔻 Pasajero 1096 bajó
+🔻 Pasajero 1097 bajó
+🔻 Pasajero 1098 bajó
+🔻 Pasajero 1099 bajó
+🔻 Pasajero 1100 bajó
+🔻 Pasajero 1101 bajó
+👥 Bajaron: 25 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L4R finalizó su recorrido.
+🚌 Línea L5I llegó a Espa�a, 1431
+🔻 Pasajero 1237 bajó
+🔻 Pasajero 1249 bajó
+🔻 Pasajero 1266 bajó
+🔻 Pasajero 1271 bajó
+🔻 Pasajero 280 bajó
+🔻 Pasajero 1272 bajó
+🔻 Pasajero 1277 bajó
+🔻 Pasajero 298 bajó
+🔻 Pasajero 1289 bajó
+🔻 Pasajero 301 bajó
+🔻 Pasajero 1293 bajó
+🔻 Pasajero 1295 bajó
+🔻 Pasajero 1297 bajó
+🔻 Pasajero 311 bajó
+🔻 Pasajero 362 bajó
+🔻 Pasajero 363 bajó
+🔻 Pasajero 366 bajó
+🔻 Pasajero 1310 bajó
+🔻 Pasajero 1311 bajó
+🔻 Pasajero 1312 bajó
+🔻 Pasajero 1315 bajó
+🔻 Pasajero 1324 bajó
+🔻 Pasajero 375 bajó
+🔻 Pasajero 388 bajó
+🔻 Pasajero 1327 bajó
+🔻 Pasajero 1329 bajó
+🔻 Pasajero 1330 bajó
+🔺 Pasajero 403 subió
+🔺 Pasajero 404 subió
+🔺 Pasajero 1332 subió
+🔺 Pasajero 1333 subió
+🔺 Pasajero 1334 subió
+🔺 Pasajero 1335 subió
+🔺 Pasajero 1336 subió
+🔺 Pasajero 1337 subió
+🔺 Pasajero 1338 subió
+🔺 Pasajero 1339 subió
+🔺 Pasajero 1340 subió
+🔺 Pasajero 1341 subió
+🔺 Pasajero 1342 subió
+🔺 Pasajero 1343 subió
+🔺 Pasajero 1344 subió
+🔺 Pasajero 1345 subió
+👥 Bajaron: 27 | Subieron: 16 | A bordo: 56
+🚌 Línea L5R llegó a Espa�a, 1450
+🔻 Pasajero 1374 bajó
+🔻 Pasajero 1381 bajó
+🔻 Pasajero 1387 bajó
+🔻 Pasajero 1395 bajó
+🔻 Pasajero 1417 bajó
+🔻 Pasajero 1427 bajó
+🔺 Pasajero 1469 subió
+🔺 Pasajero 1470 subió
+🔺 Pasajero 1471 subió
+🔺 Pasajero 1472 subió
+🔺 Pasajero 1473 subió
+🔺 Pasajero 1474 subió
+🔺 Pasajero 1476 subió
+🔺 Pasajero 1481 subió
+🔺 Pasajero 1482 subió
+👥 Bajaron: 6 | Subieron: 9 | A bordo: 76
+🚌 Línea L6I llegó a Marcos A. Zar, 461
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a 28 De Julio, 200
+🔻 Pasajero 1654 bajó
+🔻 Pasajero 1668 bajó
+🔻 Pasajero 1669 bajó
+🔻 Pasajero 1670 bajó
+🔻 Pasajero 936 bajó
+🔻 Pasajero 937 bajó
+🔻 Pasajero 941 bajó
+🔻 Pasajero 945 bajó
+🔻 Pasajero 1675 bajó
+🔻 Pasajero 1680 bajó
+🔻 Pasajero 1690 bajó
+🔻 Pasajero 1700 bajó
+🔻 Pasajero 1709 bajó
+🔻 Pasajero 1710 bajó
+👥 Bajaron: 14 | Subieron: 0 | A bordo: 20
+
+=== PARADA 12 ===
+🚌 Línea L1I llegó a 28 De Julio, 200
+🔻 Pasajero 5 bajó
+🔻 Pasajero 1124 bajó
+🔻 Pasajero 1125 bajó
+🔻 Pasajero 1130 bajó
+🔻 Pasajero 1132 bajó
+🔻 Pasajero 1136 bajó
+🔻 Pasajero 1139 bajó
+🔻 Pasajero 1143 bajó
+🔻 Pasajero 27 bajó
+🔻 Pasajero 31 bajó
+🔻 Pasajero 1465 bajó
+🔻 Pasajero 67 bajó
+🔻 Pasajero 1475 bajó
+🔻 Pasajero 1477 bajó
+🔻 Pasajero 1484 bajó
+🔺 Pasajero 144 subió
+🔺 Pasajero 145 subió
+🔺 Pasajero 146 subió
+🔺 Pasajero 147 subió
+🔺 Pasajero 148 subió
+🔺 Pasajero 149 subió
+🔺 Pasajero 150 subió
+🔺 Pasajero 151 subió
+👥 Bajaron: 15 | Subieron: 8 | A bordo: 80
+🚌 Línea L1R llegó a Marcos A. Zar, 1980
+🔻 Pasajero 228 bajó
+🔻 Pasajero 241 bajó
+🔻 Pasajero 247 bajó
+🔻 Pasajero 269 bajó
+🔻 Pasajero 272 bajó
+🔻 Pasajero 274 bajó
+🔻 Pasajero 276 bajó
+🔻 Pasajero 283 bajó
+🔻 Pasajero 288 bajó
+🔻 Pasajero 289 bajó
+🔻 Pasajero 296 bajó
+🔻 Pasajero 316 bajó
+🔻 Pasajero 317 bajó
+🔺 Pasajero 323 subió
+🔺 Pasajero 324 subió
+🔺 Pasajero 325 subió
+🔺 Pasajero 326 subió
+🔺 Pasajero 327 subió
+🔺 Pasajero 328 subió
+🔺 Pasajero 329 subió
+🔺 Pasajero 330 subió
+🔺 Pasajero 331 subió
+🔺 Pasajero 332 subió
+👥 Bajaron: 13 | Subieron: 10 | A bordo: 53
+🚌 Línea L2I llegó a Belgrano, 314
+🔻 Pasajero 1238 bajó
+🔻 Pasajero 1240 bajó
+🔻 Pasajero 1247 bajó
+🔻 Pasajero 449 bajó
+🔺 Pasajero 526 subió
+🔺 Pasajero 527 subió
+🔺 Pasajero 528 subió
+🔺 Pasajero 529 subió
+🔺 Pasajero 530 subió
+🔺 Pasajero 531 subió
+🔺 Pasajero 532 subió
+🔺 Pasajero 533 subió
+🔺 Pasajero 534 subió
+🔺 Pasajero 535 subió
+🔺 Pasajero 536 subió
+🔺 Pasajero 538 subió
+👥 Bajaron: 4 | Subieron: 12 | A bordo: 61
+🚌 Línea L2R llegó a Pedro Derbes, 1040
+🔻 Pasajero 608 bajó
+🔻 Pasajero 631 bajó
+🔻 Pasajero 658 bajó
+🔻 Pasajero 661 bajó
+🔻 Pasajero 662 bajó
+🔻 Pasajero 663 bajó
+🔻 Pasajero 670 bajó
+🔻 Pasajero 683 bajó
+🔻 Pasajero 701 bajó
+🔻 Pasajero 710 bajó
+🔻 Pasajero 721 bajó
+🔻 Pasajero 726 bajó
+🔺 Pasajero 734 subió
+🔺 Pasajero 735 subió
+🔺 Pasajero 736 subió
+🔺 Pasajero 737 subió
+🔺 Pasajero 738 subió
+🔺 Pasajero 739 subió
+🔺 Pasajero 740 subió
+🔺 Pasajero 741 subió
+🔺 Pasajero 742 subió
+🔺 Pasajero 743 subió
+🔺 Pasajero 744 subió
+🔺 Pasajero 745 subió
+🔺 Pasajero 746 subió
+🔺 Pasajero 747 subió
+👥 Bajaron: 12 | Subieron: 14 | A bordo: 52
+🚌 Línea L3I llegó a Ruperto Gimenez, 678
+🔻 Pasajero 794 bajó
+🔻 Pasajero 797 bajó
+🔻 Pasajero 811 bajó
+🔻 Pasajero 822 bajó
+🔻 Pasajero 827 bajó
+🔻 Pasajero 830 bajó
+🔻 Pasajero 843 bajó
+🔻 Pasajero 844 bajó
+🔻 Pasajero 846 bajó
+🔻 Pasajero 850 bajó
+🔻 Pasajero 851 bajó
+🔻 Pasajero 854 bajó
+🔻 Pasajero 855 bajó
+🔻 Pasajero 857 bajó
+🔻 Pasajero 861 bajó
+🔻 Pasajero 862 bajó
+🔻 Pasajero 867 bajó
+🔻 Pasajero 870 bajó
+🔻 Pasajero 871 bajó
+🔻 Pasajero 872 bajó
+🔻 Pasajero 873 bajó
+🔻 Pasajero 874 bajó
+🔻 Pasajero 875 bajó
+🔻 Pasajero 876 bajó
+🔻 Pasajero 877 bajó
+🔻 Pasajero 878 bajó
+🔻 Pasajero 879 bajó
+🔻 Pasajero 880 bajó
+🔻 Pasajero 881 bajó
+🔻 Pasajero 882 bajó
+🔻 Pasajero 883 bajó
+🔻 Pasajero 884 bajó
+🔻 Pasajero 885 bajó
+🔻 Pasajero 886 bajó
+🔻 Pasajero 887 bajó
+👥 Bajaron: 35 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L3R finalizó su recorrido.
+✅ Colectivo de línea L4I finalizó su recorrido.
+🚌 Línea L4R llegó a Juan Jose Meangolarra Y Moreno, 1005
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a La Pampa, 698
+🔻 Pasajero 1229 bajó
+🔻 Pasajero 1232 bajó
+🔻 Pasajero 1234 bajó
+🔻 Pasajero 1253 bajó
+🔻 Pasajero 1254 bajó
+🔻 Pasajero 1258 bajó
+🔻 Pasajero 1259 bajó
+🔻 Pasajero 281 bajó
+🔻 Pasajero 1287 bajó
+🔻 Pasajero 1296 bajó
+🔻 Pasajero 309 bajó
+🔻 Pasajero 357 bajó
+🔻 Pasajero 358 bajó
+🔻 Pasajero 360 bajó
+🔻 Pasajero 367 bajó
+🔻 Pasajero 369 bajó
+🔻 Pasajero 370 bajó
+🔻 Pasajero 1317 bajó
+🔻 Pasajero 1320 bajó
+🔻 Pasajero 1321 bajó
+🔻 Pasajero 377 bajó
+🔻 Pasajero 380 bajó
+🔻 Pasajero 381 bajó
+🔻 Pasajero 384 bajó
+🔻 Pasajero 1328 bajó
+🔻 Pasajero 403 bajó
+🔻 Pasajero 404 bajó
+🔻 Pasajero 1332 bajó
+🔻 Pasajero 1334 bajó
+🔻 Pasajero 1335 bajó
+🔻 Pasajero 1337 bajó
+🔻 Pasajero 1338 bajó
+🔻 Pasajero 1341 bajó
+🔻 Pasajero 1342 bajó
+🔺 Pasajero 1346 subió
+🔺 Pasajero 1347 subió
+🔺 Pasajero 1348 subió
+🔺 Pasajero 1349 subió
+🔺 Pasajero 1350 subió
+🔺 Pasajero 1351 subió
+🔺 Pasajero 1352 subió
+🔺 Pasajero 1353 subió
+🔺 Pasajero 1354 subió
+🔺 Pasajero 1355 subió
+🔺 Pasajero 1356 subió
+🔺 Pasajero 1357 subió
+🔺 Pasajero 1358 subió
+🔺 Pasajero 1359 subió
+🔺 Pasajero 1360 subió
+🔺 Pasajero 1361 subió
+🔺 Pasajero 1362 subió
+👥 Bajaron: 34 | Subieron: 17 | A bordo: 39
+🚌 Línea L5R llegó a Espa�a, 928
+🔻 Pasajero 1373 bajó
+🔻 Pasajero 1375 bajó
+🔻 Pasajero 1407 bajó
+🔻 Pasajero 1415 bajó
+🔻 Pasajero 1435 bajó
+🔺 Pasajero 1483 subió
+🔺 Pasajero 1485 subió
+🔺 Pasajero 1486 subió
+🔺 Pasajero 1487 subió
+🔺 Pasajero 1488 subió
+🔺 Pasajero 1489 subió
+🔺 Pasajero 1490 subió
+🔺 Pasajero 1491 subió
+🔺 Pasajero 1492 subió
+🔺 Pasajero 1493 subió
+🔺 Pasajero 1494 subió
+👥 Bajaron: 5 | Subieron: 11 | A bordo: 82
+🚌 Línea L6I llegó a Marcos A. Zar, 691
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a 1 De Marzo, 405
+🔻 Pasajero 1678 bajó
+🔻 Pasajero 1684 bajó
+🔻 Pasajero 1687 bajó
+🔻 Pasajero 1698 bajó
+🔻 Pasajero 1699 bajó
+🔻 Pasajero 1718 bajó
+🔻 Pasajero 1728 bajó
+🔻 Pasajero 1729 bajó
+🔻 Pasajero 1730 bajó
+🔻 Pasajero 1733 bajó
+🔻 Pasajero 1739 bajó
+🔻 Pasajero 1740 bajó
+🔻 Pasajero 1741 bajó
+🔻 Pasajero 1742 bajó
+🔻 Pasajero 1743 bajó
+🔻 Pasajero 1744 bajó
+🔻 Pasajero 1745 bajó
+🔻 Pasajero 1749 bajó
+🔻 Pasajero 1750 bajó
+🔻 Pasajero 1751 bajó
+👥 Bajaron: 20 | Subieron: 0 | A bordo: 0
+
+=== PARADA 13 ===
+🚌 Línea L1I llegó a General Mosconi, 100
+🔻 Pasajero 2 bajó
+🔻 Pasajero 14 bajó
+🔻 Pasajero 15 bajó
+🔻 Pasajero 19 bajó
+🔻 Pasajero 44 bajó
+🔻 Pasajero 60 bajó
+🔻 Pasajero 69 bajó
+🔻 Pasajero 88 bajó
+🔻 Pasajero 130 bajó
+🔻 Pasajero 141 bajó
+🔻 Pasajero 143 bajó
+🔻 Pasajero 144 bajó
+🔻 Pasajero 145 bajó
+🔻 Pasajero 150 bajó
+🔺 Pasajero 152 subió
+🔺 Pasajero 153 subió
+🔺 Pasajero 154 subió
+🔺 Pasajero 155 subió
+🔺 Pasajero 156 subió
+👥 Bajaron: 14 | Subieron: 5 | A bordo: 71
+🚌 Línea L1R llegó a San Mart�n, 1400
+🔻 Pasajero 248 bajó
+🔻 Pasajero 285 bajó
+🔻 Pasajero 294 bajó
+🔻 Pasajero 305 bajó
+🔻 Pasajero 328 bajó
+🔺 Pasajero 333 subió
+🔺 Pasajero 334 subió
+🔺 Pasajero 335 subió
+🔺 Pasajero 336 subió
+🔺 Pasajero 337 subió
+🔺 Pasajero 338 subió
+🔺 Pasajero 339 subió
+🔺 Pasajero 340 subió
+🔺 Pasajero 341 subió
+🔺 Pasajero 342 subió
+🔺 Pasajero 343 subió
+🔺 Pasajero 344 subió
+🔺 Pasajero 345 subió
+🔺 Pasajero 346 subió
+🔺 Pasajero 347 subió
+🔺 Pasajero 348 subió
+🔺 Pasajero 349 subió
+🔺 Pasajero 350 subió
+👥 Bajaron: 5 | Subieron: 18 | A bordo: 66
+🚌 Línea L2I llegó a 25 De Mayo, 299
+🔻 Pasajero 1231 bajó
+🔻 Pasajero 1239 bajó
+🔻 Pasajero 1248 bajó
+🔻 Pasajero 447 bajó
+🔺 Pasajero 540 subió
+🔺 Pasajero 541 subió
+🔺 Pasajero 542 subió
+🔺 Pasajero 543 subió
+🔺 Pasajero 544 subió
+🔺 Pasajero 545 subió
+🔺 Pasajero 546 subió
+🔺 Pasajero 547 subió
+🔺 Pasajero 548 subió
+🔺 Pasajero 549 subió
+👥 Bajaron: 4 | Subieron: 10 | A bordo: 67
+🚌 Línea L2R llegó a Pedro Derbes, 1102
+🔻 Pasajero 615 bajó
+🔻 Pasajero 646 bajó
+🔻 Pasajero 686 bajó
+🔻 Pasajero 688 bajó
+🔻 Pasajero 694 bajó
+🔻 Pasajero 703 bajó
+🔻 Pasajero 711 bajó
+🔻 Pasajero 718 bajó
+🔻 Pasajero 730 bajó
+🔻 Pasajero 732 bajó
+🔻 Pasajero 733 bajó
+🔻 Pasajero 738 bajó
+🔻 Pasajero 741 bajó
+🔻 Pasajero 745 bajó
+🔻 Pasajero 746 bajó
+🔺 Pasajero 748 subió
+🔺 Pasajero 749 subió
+🔺 Pasajero 750 subió
+🔺 Pasajero 751 subió
+🔺 Pasajero 752 subió
+🔺 Pasajero 753 subió
+🔺 Pasajero 754 subió
+🔺 Pasajero 755 subió
+🔺 Pasajero 756 subió
+🔺 Pasajero 757 subió
+🔺 Pasajero 758 subió
+🔺 Pasajero 759 subió
+🔺 Pasajero 760 subió
+🔺 Pasajero 761 subió
+🔺 Pasajero 762 subió
+🔺 Pasajero 763 subió
+🔺 Pasajero 764 subió
+🔺 Pasajero 765 subió
+👥 Bajaron: 15 | Subieron: 18 | A bordo: 55
+✅ Colectivo de línea L3I finalizó su recorrido.
+🚌 Línea L3R llegó a Ruperto Gimenez, 678
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a 1 De Marzo, 405
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Manuel Alsua, 1086
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Luis Urtazun, 624
+🔻 Pasajero 1241 bajó
+🔻 Pasajero 1243 bajó
+🔻 Pasajero 1262 bajó
+🔻 Pasajero 1280 bajó
+🔻 Pasajero 1282 bajó
+🔻 Pasajero 1294 bajó
+🔻 Pasajero 1299 bajó
+🔻 Pasajero 1302 bajó
+🔻 Pasajero 1304 bajó
+🔻 Pasajero 1306 bajó
+🔻 Pasajero 1307 bajó
+🔻 Pasajero 1314 bajó
+🔻 Pasajero 1325 bajó
+🔻 Pasajero 1326 bajó
+🔻 Pasajero 1331 bajó
+🔻 Pasajero 1333 bajó
+🔻 Pasajero 1336 bajó
+🔻 Pasajero 1339 bajó
+🔻 Pasajero 1340 bajó
+🔻 Pasajero 1343 bajó
+🔻 Pasajero 1344 bajó
+🔻 Pasajero 1345 bajó
+🔻 Pasajero 1346 bajó
+🔻 Pasajero 1347 bajó
+🔻 Pasajero 1348 bajó
+🔻 Pasajero 1349 bajó
+🔻 Pasajero 1350 bajó
+🔻 Pasajero 1351 bajó
+🔻 Pasajero 1352 bajó
+🔻 Pasajero 1353 bajó
+🔻 Pasajero 1354 bajó
+🔻 Pasajero 1355 bajó
+🔻 Pasajero 1356 bajó
+🔻 Pasajero 1357 bajó
+🔻 Pasajero 1358 bajó
+🔻 Pasajero 1359 bajó
+🔻 Pasajero 1360 bajó
+🔻 Pasajero 1361 bajó
+🔻 Pasajero 1362 bajó
+👥 Bajaron: 39 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Sarmiento, 229
+🔻 Pasajero 1369 bajó
+🔻 Pasajero 1380 bajó
+🔻 Pasajero 1397 bajó
+🔻 Pasajero 1399 bajó
+🔻 Pasajero 1410 bajó
+🔻 Pasajero 1412 bajó
+🔻 Pasajero 1426 bajó
+🔻 Pasajero 1428 bajó
+🔻 Pasajero 1429 bajó
+🔻 Pasajero 1434 bajó
+🔻 Pasajero 1442 bajó
+🔻 Pasajero 1446 bajó
+🔻 Pasajero 1473 bajó
+🔺 Pasajero 1495 subió
+🔺 Pasajero 1496 subió
+🔺 Pasajero 1497 subió
+🔺 Pasajero 1498 subió
+🔺 Pasajero 1499 subió
+🔺 Pasajero 1500 subió
+🔺 Pasajero 1501 subió
+🔺 Pasajero 1502 subió
+🔺 Pasajero 1503 subió
+🔺 Pasajero 1504 subió
+🔺 Pasajero 1505 subió
+🔺 Pasajero 1506 subió
+🔺 Pasajero 1507 subió
+🔺 Pasajero 1508 subió
+🔺 Pasajero 1509 subió
+🔺 Pasajero 1510 subió
+🔺 Pasajero 1511 subió
+🔺 Pasajero 1512 subió
+👥 Bajaron: 13 | Subieron: 18 | A bordo: 87
+🚌 Línea L6I llegó a Dorrego, 669
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L6R finalizó su recorrido.
+
+=== PARADA 14 ===
+🚌 Línea L1I llegó a Avenida Domec Garc�a Norte, 239
+🔻 Pasajero 20 bajó
+🔻 Pasajero 26 bajó
+🔻 Pasajero 55 bajó
+🔻 Pasajero 57 bajó
+🔻 Pasajero 59 bajó
+🔻 Pasajero 61 bajó
+🔻 Pasajero 63 bajó
+🔻 Pasajero 71 bajó
+🔻 Pasajero 77 bajó
+🔻 Pasajero 101 bajó
+🔻 Pasajero 118 bajó
+🔻 Pasajero 133 bajó
+🔻 Pasajero 151 bajó
+🔻 Pasajero 153 bajó
+🔺 Pasajero 157 subió
+🔺 Pasajero 158 subió
+🔺 Pasajero 159 subió
+🔺 Pasajero 160 subió
+🔺 Pasajero 161 subió
+🔺 Pasajero 162 subió
+🔺 Pasajero 163 subió
+🔺 Pasajero 164 subió
+🔺 Pasajero 165 subió
+🔺 Pasajero 166 subió
+🔺 Pasajero 167 subió
+🔺 Pasajero 168 subió
+🔺 Pasajero 169 subió
+🔺 Pasajero 170 subió
+🔺 Pasajero 171 subió
+👥 Bajaron: 14 | Subieron: 15 | A bordo: 72
+🚌 Línea L1R llegó a San Mart�n, 1220
+🔻 Pasajero 232 bajó
+🔻 Pasajero 250 bajó
+🔻 Pasajero 260 bajó
+🔻 Pasajero 287 bajó
+🔻 Pasajero 290 bajó
+🔻 Pasajero 291 bajó
+🔻 Pasajero 293 bajó
+🔻 Pasajero 320 bajó
+🔻 Pasajero 342 bajó
+🔻 Pasajero 343 bajó
+🔺 Pasajero 351 subió
+🔺 Pasajero 352 subió
+🔺 Pasajero 353 subió
+🔺 Pasajero 354 subió
+🔺 Pasajero 355 subió
+👥 Bajaron: 10 | Subieron: 5 | A bordo: 61
+🚌 Línea L2I llegó a 25 De Mayo, 693
+🔻 Pasajero 1233 bajó
+🔻 Pasajero 1246 bajó
+🔻 Pasajero 426 bajó
+🔻 Pasajero 443 bajó
+🔻 Pasajero 448 bajó
+🔻 Pasajero 451 bajó
+🔺 Pasajero 550 subió
+🔺 Pasajero 551 subió
+🔺 Pasajero 552 subió
+🔺 Pasajero 553 subió
+🔺 Pasajero 554 subió
+🔺 Pasajero 555 subió
+🔺 Pasajero 556 subió
+🔺 Pasajero 557 subió
+🔺 Pasajero 558 subió
+🔺 Pasajero 559 subió
+🔺 Pasajero 560 subió
+🔺 Pasajero 561 subió
+🔺 Pasajero 562 subió
+🔺 Pasajero 563 subió
+🔺 Pasajero 564 subió
+🔺 Pasajero 565 subió
+🔺 Pasajero 566 subió
+🔺 Pasajero 567 subió
+🔺 Pasajero 568 subió
+🔺 Pasajero 569 subió
+👥 Bajaron: 6 | Subieron: 20 | A bordo: 81
+🚌 Línea L2R llegó a Pasaje 22 De Abril, 308
+🔻 Pasajero 613 bajó
+🔻 Pasajero 620 bajó
+🔻 Pasajero 650 bajó
+🔻 Pasajero 664 bajó
+🔻 Pasajero 704 bajó
+🔻 Pasajero 707 bajó
+🔻 Pasajero 709 bajó
+🔻 Pasajero 713 bajó
+🔻 Pasajero 715 bajó
+🔻 Pasajero 722 bajó
+🔻 Pasajero 727 bajó
+🔻 Pasajero 729 bajó
+🔻 Pasajero 735 bajó
+🔻 Pasajero 739 bajó
+🔻 Pasajero 743 bajó
+🔻 Pasajero 744 bajó
+🔻 Pasajero 747 bajó
+🔻 Pasajero 749 bajó
+🔻 Pasajero 752 bajó
+🔻 Pasajero 753 bajó
+🔻 Pasajero 754 bajó
+🔻 Pasajero 757 bajó
+🔻 Pasajero 760 bajó
+🔻 Pasajero 761 bajó
+🔻 Pasajero 762 bajó
+🔻 Pasajero 765 bajó
+🔺 Pasajero 766 subió
+🔺 Pasajero 767 subió
+🔺 Pasajero 768 subió
+🔺 Pasajero 769 subió
+🔺 Pasajero 770 subió
+🔺 Pasajero 771 subió
+🔺 Pasajero 772 subió
+👥 Bajaron: 26 | Subieron: 7 | A bordo: 36
+🚌 Línea L3I llegó a Ruta Provincial 1
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Periodistas Chubutenses, 500
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a 28 De Julio, 311
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Rivadavia, 2496
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L5I finalizó su recorrido.
+🚌 Línea L5R llegó a Bartolom� Mitre, 401
+🔻 Pasajero 1366 bajó
+🔻 Pasajero 1379 bajó
+🔻 Pasajero 1402 bajó
+🔻 Pasajero 1432 bajó
+🔻 Pasajero 1433 bajó
+🔻 Pasajero 1441 bajó
+🔻 Pasajero 1443 bajó
+🔻 Pasajero 1494 bajó
+🔻 Pasajero 1498 bajó
+🔻 Pasajero 1500 bajó
+🔻 Pasajero 1508 bajó
+🔻 Pasajero 1509 bajó
+🔺 Pasajero 1514 subió
+🔺 Pasajero 1515 subió
+🔺 Pasajero 1516 subió
+👥 Bajaron: 12 | Subieron: 3 | A bordo: 78
+🚌 Línea L6I llegó a El Jariyal, 1725
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Los Alamos, 3900
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 15 ===
+🚌 Línea L1I llegó a Juli�n Murga, 950
+🔻 Pasajero 4 bajó
+🔻 Pasajero 16 bajó
+🔻 Pasajero 35 bajó
+🔻 Pasajero 85 bajó
+🔻 Pasajero 120 bajó
+🔻 Pasajero 127 bajó
+🔻 Pasajero 136 bajó
+🔻 Pasajero 140 bajó
+🔻 Pasajero 142 bajó
+🔻 Pasajero 147 bajó
+🔻 Pasajero 160 bajó
+🔻 Pasajero 164 bajó
+🔻 Pasajero 166 bajó
+🔻 Pasajero 168 bajó
+🔻 Pasajero 169 bajó
+🔺 Pasajero 172 subió
+🔺 Pasajero 173 subió
+🔺 Pasajero 174 subió
+🔺 Pasajero 175 subió
+🔺 Pasajero 176 subió
+🔺 Pasajero 177 subió
+🔺 Pasajero 178 subió
+🔺 Pasajero 179 subió
+🔺 Pasajero 180 subió
+🔺 Pasajero 181 subió
+🔺 Pasajero 182 subió
+👥 Bajaron: 15 | Subieron: 11 | A bordo: 68
+🚌 Línea L1R llegó a Espa�a, 485
+🔻 Pasajero 227 bajó
+🔻 Pasajero 321 bajó
+🔻 Pasajero 329 bajó
+🔻 Pasajero 333 bajó
+🔻 Pasajero 335 bajó
+🔻 Pasajero 336 bajó
+🔻 Pasajero 339 bajó
+🔻 Pasajero 341 bajó
+🔻 Pasajero 348 bajó
+🔻 Pasajero 352 bajó
+🔻 Pasajero 353 bajó
+🔻 Pasajero 355 bajó
+🔺 Pasajero 356 subió
+🔺 Pasajero 359 subió
+🔺 Pasajero 364 subió
+🔺 Pasajero 372 subió
+🔺 Pasajero 374 subió
+👥 Bajaron: 12 | Subieron: 5 | A bordo: 54
+🚌 Línea L2I llegó a Avenida Julio Argentino Roca, 1567
+🔻 Pasajero 430 bajó
+🔻 Pasajero 445 bajó
+🔻 Pasajero 453 bajó
+🔻 Pasajero 463 bajó
+🔻 Pasajero 471 bajó
+🔻 Pasajero 475 bajó
+🔻 Pasajero 512 bajó
+🔻 Pasajero 515 bajó
+🔻 Pasajero 520 bajó
+🔻 Pasajero 522 bajó
+🔻 Pasajero 528 bajó
+🔻 Pasajero 531 bajó
+🔻 Pasajero 538 bajó
+🔻 Pasajero 549 bajó
+🔻 Pasajero 552 bajó
+🔻 Pasajero 555 bajó
+🔻 Pasajero 558 bajó
+🔻 Pasajero 560 bajó
+🔻 Pasajero 563 bajó
+🔻 Pasajero 568 bajó
+🔻 Pasajero 569 bajó
+🔺 Pasajero 570 subió
+🔺 Pasajero 571 subió
+🔺 Pasajero 572 subió
+🔺 Pasajero 573 subió
+👥 Bajaron: 21 | Subieron: 4 | A bordo: 64
+🚌 Línea L2R llegó a Esquel, 1352
+🔻 Pasajero 616 bajó
+🔻 Pasajero 621 bajó
+🔻 Pasajero 626 bajó
+🔻 Pasajero 655 bajó
+🔻 Pasajero 656 bajó
+🔻 Pasajero 660 bajó
+🔻 Pasajero 665 bajó
+🔻 Pasajero 677 bajó
+🔻 Pasajero 693 bajó
+🔻 Pasajero 695 bajó
+🔻 Pasajero 708 bajó
+🔻 Pasajero 723 bajó
+🔻 Pasajero 724 bajó
+🔻 Pasajero 725 bajó
+🔻 Pasajero 731 bajó
+🔻 Pasajero 734 bajó
+🔻 Pasajero 736 bajó
+🔻 Pasajero 737 bajó
+🔻 Pasajero 740 bajó
+🔻 Pasajero 742 bajó
+🔻 Pasajero 748 bajó
+🔻 Pasajero 750 bajó
+🔻 Pasajero 751 bajó
+🔻 Pasajero 755 bajó
+🔻 Pasajero 756 bajó
+🔻 Pasajero 758 bajó
+🔻 Pasajero 759 bajó
+🔻 Pasajero 763 bajó
+🔻 Pasajero 764 bajó
+🔻 Pasajero 766 bajó
+🔻 Pasajero 767 bajó
+🔻 Pasajero 768 bajó
+🔻 Pasajero 769 bajó
+🔻 Pasajero 770 bajó
+🔻 Pasajero 771 bajó
+🔻 Pasajero 772 bajó
+👥 Bajaron: 36 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Manuel Carrera, 1534
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Santiago Del Estero, 727
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Marcos A. Zar, 461
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Lewis Jones, 1336
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Esquel, 1352
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a 28 De Julio, 200
+🔻 Pasajero 1364 bajó
+🔻 Pasajero 1414 bajó
+🔻 Pasajero 1449 bajó
+🔻 Pasajero 1495 bajó
+🔻 Pasajero 1505 bajó
+🔻 Pasajero 1511 bajó
+🔺 Pasajero 1518 subió
+🔺 Pasajero 1519 subió
+🔺 Pasajero 1521 subió
+🔺 Pasajero 1522 subió
+👥 Bajaron: 6 | Subieron: 4 | A bordo: 76
+🚌 Línea L6I llegó a Los Alamos, 3900
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Ca�a Colihue, 1184
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 16 ===
+🚌 Línea L1I llegó a Comodoro Mart�n Rivadavia, 750
+🔻 Pasajero 0 bajó
+🔻 Pasajero 6 bajó
+🔻 Pasajero 22 bajó
+🔻 Pasajero 58 bajó
+🔻 Pasajero 73 bajó
+🔻 Pasajero 86 bajó
+🔻 Pasajero 90 bajó
+🔻 Pasajero 102 bajó
+🔻 Pasajero 110 bajó
+🔻 Pasajero 124 bajó
+🔻 Pasajero 129 bajó
+🔻 Pasajero 146 bajó
+🔻 Pasajero 157 bajó
+🔻 Pasajero 159 bajó
+🔻 Pasajero 162 bajó
+🔻 Pasajero 163 bajó
+🔻 Pasajero 165 bajó
+🔻 Pasajero 172 bajó
+🔻 Pasajero 173 bajó
+🔻 Pasajero 174 bajó
+🔻 Pasajero 175 bajó
+🔺 Pasajero 183 subió
+🔺 Pasajero 184 subió
+🔺 Pasajero 185 subió
+🔺 Pasajero 186 subió
+🔺 Pasajero 187 subió
+🔺 Pasajero 188 subió
+🔺 Pasajero 189 subió
+🔺 Pasajero 190 subió
+🔺 Pasajero 191 subió
+🔺 Pasajero 192 subió
+🔺 Pasajero 193 subió
+🔺 Pasajero 194 subió
+🔺 Pasajero 195 subió
+🔺 Pasajero 196 subió
+🔺 Pasajero 197 subió
+🔺 Pasajero 198 subió
+🔺 Pasajero 199 subió
+🔺 Pasajero 200 subió
+🔺 Pasajero 201 subió
+👥 Bajaron: 21 | Subieron: 19 | A bordo: 66
+🚌 Línea L1R llegó a Villegas, 700
+🔻 Pasajero 220 bajó
+🔻 Pasajero 224 bajó
+🔻 Pasajero 229 bajó
+🔻 Pasajero 245 bajó
+🔻 Pasajero 249 bajó
+🔻 Pasajero 253 bajó
+🔻 Pasajero 279 bajó
+🔻 Pasajero 337 bajó
+🔻 Pasajero 340 bajó
+🔺 Pasajero 376 subió
+🔺 Pasajero 378 subió
+🔺 Pasajero 379 subió
+🔺 Pasajero 382 subió
+🔺 Pasajero 383 subió
+🔺 Pasajero 385 subió
+🔺 Pasajero 386 subió
+🔺 Pasajero 387 subió
+👥 Bajaron: 9 | Subieron: 8 | A bordo: 53
+🚌 Línea L2I llegó a Avenida Julio Argentino Roca, 2251
+🔻 Pasajero 420 bajó
+🔻 Pasajero 423 bajó
+🔻 Pasajero 425 bajó
+🔻 Pasajero 441 bajó
+🔻 Pasajero 469 bajó
+🔻 Pasajero 483 bajó
+🔻 Pasajero 494 bajó
+🔻 Pasajero 508 bajó
+🔻 Pasajero 510 bajó
+🔻 Pasajero 514 bajó
+🔻 Pasajero 516 bajó
+🔻 Pasajero 517 bajó
+🔻 Pasajero 534 bajó
+🔻 Pasajero 535 bajó
+🔻 Pasajero 536 bajó
+🔻 Pasajero 542 bajó
+🔻 Pasajero 556 bajó
+🔻 Pasajero 572 bajó
+🔺 Pasajero 574 subió
+🔺 Pasajero 575 subió
+🔺 Pasajero 576 subió
+🔺 Pasajero 577 subió
+🔺 Pasajero 578 subió
+🔺 Pasajero 579 subió
+🔺 Pasajero 580 subió
+🔺 Pasajero 581 subió
+🔺 Pasajero 582 subió
+🔺 Pasajero 583 subió
+🔺 Pasajero 584 subió
+🔺 Pasajero 585 subió
+🔺 Pasajero 586 subió
+🔺 Pasajero 587 subió
+🔺 Pasajero 588 subió
+👥 Bajaron: 18 | Subieron: 15 | A bordo: 61
+✅ Colectivo de línea L2R finalizó su recorrido.
+🚌 Línea L3I llegó a Agust�n Pujol, 374
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a San Juan, 891
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Marcos A. Zar, 691
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Lewis Jones, 919
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Magallanes, 883
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Hip�lito Yrigoyen, 457
+🔻 Pasajero 1363 bajó
+🔻 Pasajero 1392 bajó
+🔻 Pasajero 1396 bajó
+🔻 Pasajero 1444 bajó
+🔻 Pasajero 1447 bajó
+🔻 Pasajero 1456 bajó
+🔻 Pasajero 1469 bajó
+🔻 Pasajero 1482 bajó
+🔻 Pasajero 1499 bajó
+🔻 Pasajero 1501 bajó
+🔻 Pasajero 1502 bajó
+🔺 Pasajero 1523 subió
+🔺 Pasajero 1524 subió
+🔺 Pasajero 1525 subió
+🔺 Pasajero 1526 subió
+🔺 Pasajero 1527 subió
+🔺 Pasajero 1528 subió
+🔺 Pasajero 1529 subió
+🔺 Pasajero 1530 subió
+👥 Bajaron: 11 | Subieron: 8 | A bordo: 73
+✅ Colectivo de línea L6I finalizó su recorrido.
+🚌 Línea L6R llegó a Dorrego, 700
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 17 ===
+🚌 Línea L1I llegó a Comodoro Mart�n Rivadavia, 602
+🔻 Pasajero 28 bajó
+🔻 Pasajero 39 bajó
+🔻 Pasajero 45 bajó
+🔻 Pasajero 51 bajó
+🔻 Pasajero 53 bajó
+🔻 Pasajero 62 bajó
+🔻 Pasajero 76 bajó
+🔻 Pasajero 78 bajó
+🔻 Pasajero 79 bajó
+🔻 Pasajero 99 bajó
+🔻 Pasajero 109 bajó
+🔻 Pasajero 134 bajó
+🔻 Pasajero 148 bajó
+🔻 Pasajero 149 bajó
+🔻 Pasajero 152 bajó
+🔻 Pasajero 154 bajó
+🔻 Pasajero 155 bajó
+🔻 Pasajero 156 bajó
+🔻 Pasajero 167 bajó
+🔻 Pasajero 170 bajó
+🔻 Pasajero 171 bajó
+🔻 Pasajero 176 bajó
+🔻 Pasajero 178 bajó
+🔻 Pasajero 181 bajó
+🔻 Pasajero 184 bajó
+🔻 Pasajero 190 bajó
+🔻 Pasajero 192 bajó
+🔻 Pasajero 193 bajó
+🔻 Pasajero 194 bajó
+🔻 Pasajero 196 bajó
+🔻 Pasajero 198 bajó
+🔻 Pasajero 199 bajó
+🔻 Pasajero 200 bajó
+🔺 Pasajero 202 subió
+🔺 Pasajero 203 subió
+🔺 Pasajero 204 subió
+🔺 Pasajero 205 subió
+🔺 Pasajero 206 subió
+🔺 Pasajero 207 subió
+🔺 Pasajero 208 subió
+🔺 Pasajero 209 subió
+🔺 Pasajero 210 subió
+🔺 Pasajero 211 subió
+🔺 Pasajero 212 subió
+🔺 Pasajero 213 subió
+🔺 Pasajero 214 subió
+🔺 Pasajero 215 subió
+🔺 Pasajero 216 subió
+🔺 Pasajero 217 subió
+🔺 Pasajero 218 subió
+🔺 Pasajero 219 subió
+👥 Bajaron: 33 | Subieron: 18 | A bordo: 51
+🚌 Línea L1R llegó a Espa�a, 1431
+🔻 Pasajero 262 bajó
+🔻 Pasajero 266 bajó
+🔻 Pasajero 267 bajó
+🔻 Pasajero 271 bajó
+🔻 Pasajero 273 bajó
+🔻 Pasajero 326 bajó
+🔻 Pasajero 327 bajó
+🔻 Pasajero 330 bajó
+🔻 Pasajero 331 bajó
+🔻 Pasajero 349 bajó
+🔻 Pasajero 350 bajó
+🔺 Pasajero 389 subió
+🔺 Pasajero 390 subió
+🔺 Pasajero 391 subió
+🔺 Pasajero 392 subió
+🔺 Pasajero 393 subió
+🔺 Pasajero 394 subió
+🔺 Pasajero 395 subió
+🔺 Pasajero 396 subió
+🔺 Pasajero 397 subió
+🔺 Pasajero 398 subió
+🔺 Pasajero 399 subió
+🔺 Pasajero 400 subió
+🔺 Pasajero 401 subió
+🔺 Pasajero 402 subió
+🔺 Pasajero 405 subió
+👥 Bajaron: 11 | Subieron: 15 | A bordo: 57
+🚌 Línea L2I llegó a Abraham Mathews, 2525
+🔻 Pasajero 434 bajó
+🔻 Pasajero 461 bajó
+🔻 Pasajero 467 bajó
+🔻 Pasajero 495 bajó
+🔻 Pasajero 502 bajó
+🔻 Pasajero 529 bajó
+🔻 Pasajero 530 bajó
+🔻 Pasajero 532 bajó
+🔻 Pasajero 541 bajó
+🔻 Pasajero 544 bajó
+🔻 Pasajero 547 bajó
+🔻 Pasajero 553 bajó
+🔻 Pasajero 565 bajó
+🔻 Pasajero 566 bajó
+🔻 Pasajero 571 bajó
+🔻 Pasajero 576 bajó
+🔻 Pasajero 577 bajó
+🔻 Pasajero 581 bajó
+🔻 Pasajero 584 bajó
+🔻 Pasajero 585 bajó
+🔻 Pasajero 587 bajó
+🔺 Pasajero 589 subió
+🔺 Pasajero 590 subió
+🔺 Pasajero 591 subió
+👥 Bajaron: 21 | Subieron: 3 | A bordo: 43
+🚌 Línea L2R llegó a Bv. Almirante Brown, 3053
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a 1 De Marzo, 405
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Fournier, 1187
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Bouchard, 880
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Lewis Jones, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Juan Bautista Alberdi, 1240
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Bouchard, 400
+🔻 Pasajero 1385 bajó
+🔻 Pasajero 1418 bajó
+🔻 Pasajero 1422 bajó
+🔻 Pasajero 1439 bajó
+🔻 Pasajero 1453 bajó
+🔻 Pasajero 1462 bajó
+🔻 Pasajero 1485 bajó
+🔻 Pasajero 1490 bajó
+🔻 Pasajero 1491 bajó
+🔻 Pasajero 1493 bajó
+🔻 Pasajero 1519 bajó
+🔻 Pasajero 1521 bajó
+🔻 Pasajero 1522 bajó
+🔻 Pasajero 1523 bajó
+🔻 Pasajero 1525 bajó
+🔻 Pasajero 1526 bajó
+🔻 Pasajero 1527 bajó
+🔺 Pasajero 1531 subió
+🔺 Pasajero 1532 subió
+🔺 Pasajero 1533 subió
+🔺 Pasajero 1534 subió
+🔺 Pasajero 1535 subió
+🔺 Pasajero 1536 subió
+🔺 Pasajero 1537 subió
+🔺 Pasajero 1538 subió
+🔺 Pasajero 1539 subió
+🔺 Pasajero 1540 subió
+👥 Bajaron: 17 | Subieron: 10 | A bordo: 66
+🚌 Línea L6R llegó a Alsua De Corbetto, 638
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 18 ===
+🚌 Línea L1I llegó a Roberto G�mez, 1017
+🔻 Pasajero 9 bajó
+🔻 Pasajero 10 bajó
+🔻 Pasajero 11 bajó
+🔻 Pasajero 23 bajó
+🔻 Pasajero 37 bajó
+🔻 Pasajero 49 bajó
+🔻 Pasajero 50 bajó
+🔻 Pasajero 66 bajó
+🔻 Pasajero 75 bajó
+🔻 Pasajero 81 bajó
+🔻 Pasajero 91 bajó
+🔻 Pasajero 98 bajó
+🔻 Pasajero 117 bajó
+🔻 Pasajero 126 bajó
+🔻 Pasajero 128 bajó
+🔻 Pasajero 135 bajó
+🔻 Pasajero 138 bajó
+🔻 Pasajero 158 bajó
+🔻 Pasajero 161 bajó
+🔻 Pasajero 177 bajó
+🔻 Pasajero 179 bajó
+🔻 Pasajero 180 bajó
+🔻 Pasajero 182 bajó
+🔻 Pasajero 183 bajó
+🔻 Pasajero 185 bajó
+🔻 Pasajero 186 bajó
+🔻 Pasajero 187 bajó
+🔻 Pasajero 188 bajó
+🔻 Pasajero 189 bajó
+🔻 Pasajero 191 bajó
+🔻 Pasajero 195 bajó
+🔻 Pasajero 197 bajó
+🔻 Pasajero 201 bajó
+🔻 Pasajero 202 bajó
+🔻 Pasajero 203 bajó
+🔻 Pasajero 204 bajó
+🔻 Pasajero 205 bajó
+🔻 Pasajero 206 bajó
+🔻 Pasajero 207 bajó
+🔻 Pasajero 208 bajó
+🔻 Pasajero 209 bajó
+🔻 Pasajero 210 bajó
+🔻 Pasajero 211 bajó
+🔻 Pasajero 212 bajó
+🔻 Pasajero 213 bajó
+🔻 Pasajero 214 bajó
+🔻 Pasajero 215 bajó
+🔻 Pasajero 216 bajó
+🔻 Pasajero 217 bajó
+🔻 Pasajero 218 bajó
+🔻 Pasajero 219 bajó
+👥 Bajaron: 51 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a La Pampa, 698
+🔻 Pasajero 251 bajó
+🔻 Pasajero 254 bajó
+🔻 Pasajero 270 bajó
+🔻 Pasajero 324 bajó
+🔻 Pasajero 334 bajó
+🔻 Pasajero 347 bajó
+🔻 Pasajero 351 bajó
+🔺 Pasajero 406 subió
+🔺 Pasajero 407 subió
+🔺 Pasajero 408 subió
+🔺 Pasajero 409 subió
+👥 Bajaron: 7 | Subieron: 4 | A bordo: 54
+🚌 Línea L2I llegó a Bv. Almirante Brown, 2925
+🔻 Pasajero 421 bajó
+🔻 Pasajero 438 bajó
+🔻 Pasajero 442 bajó
+🔻 Pasajero 482 bajó
+🔻 Pasajero 489 bajó
+🔻 Pasajero 499 bajó
+🔻 Pasajero 526 bajó
+🔻 Pasajero 540 bajó
+🔻 Pasajero 543 bajó
+🔻 Pasajero 550 bajó
+🔻 Pasajero 554 bajó
+🔻 Pasajero 559 bajó
+🔻 Pasajero 561 bajó
+🔻 Pasajero 562 bajó
+🔻 Pasajero 573 bajó
+🔻 Pasajero 578 bajó
+🔻 Pasajero 580 bajó
+🔻 Pasajero 582 bajó
+🔻 Pasajero 589 bajó
+🔻 Pasajero 591 bajó
+🔺 Pasajero 592 subió
+🔺 Pasajero 593 subió
+🔺 Pasajero 594 subió
+🔺 Pasajero 595 subió
+🔺 Pasajero 596 subió
+🔺 Pasajero 597 subió
+🔺 Pasajero 598 subió
+🔺 Pasajero 599 subió
+👥 Bajaron: 20 | Subieron: 8 | A bordo: 31
+🚌 Línea L2R llegó a Aar�n Jenkins, 219
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a 28 De Julio, 311
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Dorrego, 700
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Bouchard, 1285
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Mariano Moreno, 193
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Hip�lito Yrigoyen, 802
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Vicente L�pez Y Planes, 315
+🔻 Pasajero 1394 bajó
+🔻 Pasajero 1400 bajó
+🔻 Pasajero 1413 bajó
+🔻 Pasajero 1421 bajó
+🔻 Pasajero 1436 bajó
+🔻 Pasajero 1438 bajó
+🔻 Pasajero 1474 bajó
+🔻 Pasajero 1476 bajó
+🔻 Pasajero 1489 bajó
+🔻 Pasajero 1497 bajó
+🔻 Pasajero 1503 bajó
+🔻 Pasajero 1530 bajó
+🔻 Pasajero 1534 bajó
+🔻 Pasajero 1538 bajó
+🔺 Pasajero 1541 subió
+🔺 Pasajero 1542 subió
+🔺 Pasajero 1543 subió
+🔺 Pasajero 1544 subió
+🔺 Pasajero 1545 subió
+🔺 Pasajero 1546 subió
+🔺 Pasajero 1547 subió
+🔺 Pasajero 1548 subió
+🔺 Pasajero 1549 subió
+🔺 Pasajero 1550 subió
+🔺 Pasajero 1551 subió
+🔺 Pasajero 1552 subió
+🔺 Pasajero 1553 subió
+🔺 Pasajero 1554 subió
+👥 Bajaron: 14 | Subieron: 14 | A bordo: 66
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 2599
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 19 ===
+✅ Colectivo de línea L1I finalizó su recorrido.
+🚌 Línea L1R llegó a Espa�a, 2375
+🔻 Pasajero 234 bajó
+🔻 Pasajero 235 bajó
+🔻 Pasajero 264 bajó
+🔻 Pasajero 292 bajó
+🔻 Pasajero 312 bajó
+🔻 Pasajero 318 bajó
+🔻 Pasajero 322 bajó
+🔻 Pasajero 323 bajó
+🔻 Pasajero 374 bajó
+🔻 Pasajero 376 bajó
+🔻 Pasajero 379 bajó
+🔻 Pasajero 383 bajó
+🔻 Pasajero 386 bajó
+🔻 Pasajero 387 bajó
+🔻 Pasajero 389 bajó
+🔻 Pasajero 394 bajó
+🔻 Pasajero 395 bajó
+🔻 Pasajero 396 bajó
+🔻 Pasajero 401 bajó
+🔻 Pasajero 408 bajó
+🔺 Pasajero 410 subió
+🔺 Pasajero 411 subió
+🔺 Pasajero 412 subió
+🔺 Pasajero 413 subió
+🔺 Pasajero 414 subió
+🔺 Pasajero 415 subió
+🔺 Pasajero 416 subió
+🔺 Pasajero 417 subió
+🔺 Pasajero 418 subió
+👥 Bajaron: 20 | Subieron: 9 | A bordo: 43
+🚌 Línea L2I llegó a Bv. Almirante Brown, 3053
+🔻 Pasajero 424 bajó
+🔻 Pasajero 478 bajó
+🔻 Pasajero 491 bajó
+🔻 Pasajero 496 bajó
+🔻 Pasajero 500 bajó
+🔻 Pasajero 501 bajó
+🔻 Pasajero 527 bajó
+🔻 Pasajero 533 bajó
+🔻 Pasajero 545 bajó
+🔻 Pasajero 546 bajó
+🔻 Pasajero 548 bajó
+🔻 Pasajero 551 bajó
+🔻 Pasajero 557 bajó
+🔻 Pasajero 564 bajó
+🔻 Pasajero 567 bajó
+🔻 Pasajero 570 bajó
+🔻 Pasajero 574 bajó
+🔻 Pasajero 575 bajó
+🔻 Pasajero 579 bajó
+🔻 Pasajero 583 bajó
+🔻 Pasajero 586 bajó
+🔻 Pasajero 588 bajó
+🔻 Pasajero 590 bajó
+🔻 Pasajero 592 bajó
+🔻 Pasajero 593 bajó
+🔻 Pasajero 594 bajó
+🔻 Pasajero 595 bajó
+🔻 Pasajero 596 bajó
+🔻 Pasajero 597 bajó
+🔻 Pasajero 598 bajó
+🔻 Pasajero 599 bajó
+👥 Bajaron: 31 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Chiquichan, 22
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Marcos A. Zar, 461
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a 28 De Julio, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Rivadavia, 2476
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a Bartolom� Mitre, 610
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Gobernador Alejandro Maiz, 315
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Avenida Juan Xxiii, 1708
+🔻 Pasajero 1370 bajó
+🔻 Pasajero 1376 bajó
+🔻 Pasajero 1401 bajó
+🔻 Pasajero 1423 bajó
+🔻 Pasajero 1445 bajó
+🔻 Pasajero 1451 bajó
+🔻 Pasajero 1452 bajó
+🔻 Pasajero 1454 bajó
+🔻 Pasajero 1457 bajó
+🔻 Pasajero 1463 bajó
+🔻 Pasajero 1466 bajó
+🔻 Pasajero 1481 bajó
+🔻 Pasajero 1488 bajó
+🔻 Pasajero 1510 bajó
+🔻 Pasajero 1512 bajó
+🔻 Pasajero 1518 bajó
+🔻 Pasajero 1529 bajó
+🔻 Pasajero 1533 bajó
+🔻 Pasajero 1537 bajó
+🔻 Pasajero 1541 bajó
+🔻 Pasajero 1551 bajó
+🔺 Pasajero 1555 subió
+🔺 Pasajero 1556 subió
+🔺 Pasajero 1557 subió
+🔺 Pasajero 1558 subió
+🔺 Pasajero 1559 subió
+🔺 Pasajero 1560 subió
+🔺 Pasajero 1561 subió
+🔺 Pasajero 1562 subió
+🔺 Pasajero 1563 subió
+🔺 Pasajero 1564 subió
+🔺 Pasajero 1565 subió
+🔺 Pasajero 1566 subió
+👥 Bajaron: 21 | Subieron: 12 | A bordo: 57
+🚌 Línea L6R llegó a Chiquichan, 22
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 20 ===
+🚌 Línea L1I llegó a Rivadavia, 2496
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Soldado Desconocido, 1265
+🔻 Pasajero 236 bajó
+🔻 Pasajero 256 bajó
+🔻 Pasajero 284 bajó
+🔻 Pasajero 303 bajó
+🔻 Pasajero 304 bajó
+🔻 Pasajero 307 bajó
+🔻 Pasajero 315 bajó
+🔻 Pasajero 325 bajó
+🔻 Pasajero 332 bajó
+🔻 Pasajero 338 bajó
+🔻 Pasajero 344 bajó
+🔻 Pasajero 345 bajó
+🔻 Pasajero 346 bajó
+🔻 Pasajero 354 bajó
+🔻 Pasajero 356 bajó
+🔻 Pasajero 359 bajó
+🔻 Pasajero 364 bajó
+🔻 Pasajero 372 bajó
+🔻 Pasajero 378 bajó
+🔻 Pasajero 382 bajó
+🔻 Pasajero 385 bajó
+🔻 Pasajero 390 bajó
+🔻 Pasajero 391 bajó
+🔻 Pasajero 392 bajó
+🔻 Pasajero 393 bajó
+🔻 Pasajero 397 bajó
+🔻 Pasajero 398 bajó
+🔻 Pasajero 399 bajó
+🔻 Pasajero 400 bajó
+🔻 Pasajero 402 bajó
+🔻 Pasajero 405 bajó
+🔻 Pasajero 406 bajó
+🔻 Pasajero 407 bajó
+🔻 Pasajero 409 bajó
+🔻 Pasajero 410 bajó
+🔻 Pasajero 411 bajó
+🔻 Pasajero 412 bajó
+🔻 Pasajero 413 bajó
+🔻 Pasajero 414 bajó
+🔻 Pasajero 415 bajó
+🔻 Pasajero 416 bajó
+🔻 Pasajero 417 bajó
+🔻 Pasajero 418 bajó
+👥 Bajaron: 43 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L2I finalizó su recorrido.
+🚌 Línea L2R llegó a Avenida Julio Argentino Roca, 1615
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Marcos A. Zar, 691
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a 1 De Marzo, 499
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Rivadavia 2950
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a 28 De Julio, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Belgrano, 314
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Necochea, 1022
+🔻 Pasajero 1390 bajó
+🔻 Pasajero 1430 bajó
+🔻 Pasajero 1440 bajó
+🔻 Pasajero 1464 bajó
+🔻 Pasajero 1468 bajó
+🔻 Pasajero 1471 bajó
+🔻 Pasajero 1483 bajó
+🔻 Pasajero 1504 bajó
+🔻 Pasajero 1506 bajó
+🔻 Pasajero 1528 bajó
+🔻 Pasajero 1531 bajó
+🔻 Pasajero 1536 bajó
+🔻 Pasajero 1540 bajó
+🔻 Pasajero 1542 bajó
+🔻 Pasajero 1544 bajó
+🔻 Pasajero 1545 bajó
+🔻 Pasajero 1546 bajó
+🔻 Pasajero 1549 bajó
+🔻 Pasajero 1554 bajó
+🔻 Pasajero 1555 bajó
+🔻 Pasajero 1559 bajó
+🔻 Pasajero 1562 bajó
+🔻 Pasajero 1564 bajó
+🔻 Pasajero 1565 bajó
+🔺 Pasajero 1567 subió
+🔺 Pasajero 1568 subió
+🔺 Pasajero 1569 subió
+🔺 Pasajero 1570 subió
+🔺 Pasajero 1571 subió
+🔺 Pasajero 1572 subió
+🔺 Pasajero 1573 subió
+🔺 Pasajero 1574 subió
+🔺 Pasajero 1575 subió
+🔺 Pasajero 1576 subió
+🔺 Pasajero 1577 subió
+🔺 Pasajero 1578 subió
+🔺 Pasajero 1579 subió
+🔺 Pasajero 1580 subió
+👥 Bajaron: 24 | Subieron: 14 | A bordo: 47
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 1615
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 21 ===
+🚌 Línea L1I llegó a Santa Fe, 795
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L1R finalizó su recorrido.
+🚌 Línea L2I llegó a Esquel, 1352
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Bartolom� Mitre, 610
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Espa�a, 485
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Agust�n Pujol, 284
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Vito Roca 1106
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4R llegó a 1 De Marzo, 405
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a 25 De Mayo, 299
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Alto R�o Senguer, 1311
+🔻 Pasajero 1377 bajó
+🔻 Pasajero 1383 bajó
+🔻 Pasajero 1404 bajó
+🔻 Pasajero 1416 bajó
+🔻 Pasajero 1425 bajó
+🔻 Pasajero 1437 bajó
+🔻 Pasajero 1470 bajó
+🔻 Pasajero 1472 bajó
+🔻 Pasajero 1486 bajó
+🔻 Pasajero 1487 bajó
+🔻 Pasajero 1492 bajó
+🔻 Pasajero 1496 bajó
+🔻 Pasajero 1507 bajó
+🔻 Pasajero 1514 bajó
+🔻 Pasajero 1515 bajó
+🔻 Pasajero 1516 bajó
+🔻 Pasajero 1524 bajó
+🔻 Pasajero 1532 bajó
+🔻 Pasajero 1535 bajó
+🔻 Pasajero 1539 bajó
+🔻 Pasajero 1543 bajó
+🔻 Pasajero 1547 bajó
+🔻 Pasajero 1548 bajó
+🔻 Pasajero 1550 bajó
+🔻 Pasajero 1552 bajó
+🔻 Pasajero 1553 bajó
+🔻 Pasajero 1556 bajó
+🔻 Pasajero 1557 bajó
+🔻 Pasajero 1558 bajó
+🔻 Pasajero 1560 bajó
+🔻 Pasajero 1561 bajó
+🔻 Pasajero 1563 bajó
+🔻 Pasajero 1566 bajó
+🔻 Pasajero 1567 bajó
+🔻 Pasajero 1568 bajó
+🔻 Pasajero 1569 bajó
+🔻 Pasajero 1570 bajó
+🔻 Pasajero 1571 bajó
+🔻 Pasajero 1572 bajó
+🔻 Pasajero 1573 bajó
+🔻 Pasajero 1574 bajó
+🔻 Pasajero 1575 bajó
+🔻 Pasajero 1576 bajó
+🔻 Pasajero 1577 bajó
+🔻 Pasajero 1578 bajó
+🔻 Pasajero 1579 bajó
+🔻 Pasajero 1580 bajó
+👥 Bajaron: 47 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Avenida Julio Argentino Roca, 936
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 22 ===
+🚌 Línea L1I llegó a Espa�a, 1660
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Roberto G�mez, 1017
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Alto R�o Senguer, 1311
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Bartolom� Mitre, 401
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Dorrego, 700
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Manuel Carrera, 1534
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Manuel Alsua, 1086
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L4R finalizó su recorrido.
+🚌 Línea L5I llegó a 25 De Mayo, 693
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L5R finalizó su recorrido.
+🚌 Línea L6R llegó a Bartolom� Mitre, 610
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 23 ===
+🚌 Línea L1I llegó a Espa�a, 1450
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Pedro Derbes, 816
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Pasaje 22 De Abril, 167
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a 28 De Julio, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Fournier, 1090
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3R llegó a Ruta Provincial 1
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L4I llegó a Juan Jose Meangolarra Y Moreno, 1005
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Espa�a, 485
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Luis Urtazun, 1005
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a Bartolom� Mitre, 401
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 24 ===
+🚌 Línea L1I llegó a Espa�a, 928
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Pedro Derbes, 660
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a 8 De Marzo, 385
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Hip�lito Yrigoyen, 457
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a San Juan, 896
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L3R finalizó su recorrido.
+✅ Colectivo de línea L4I finalizó su recorrido.
+🚌 Línea L5I llegó a Villegas, 700
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Ruperto Gimenez, 678
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a 28 De Julio, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 25 ===
+🚌 Línea L1I llegó a Juan B. Justo, 1172
+🔺 Pasajero 92 subió
+🔺 Pasajero 93 subió
+🔺 Pasajero 94 subió
+🔺 Pasajero 95 subió
+🔺 Pasajero 96 subió
+👥 Bajaron: 0 | Subieron: 5 | A bordo: 5
+🚌 Línea L1R llegó a Roberto G�mez, 550
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Pedro Derbes, 816
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a 1 De Marzo, 499
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L3I llegó a Ruperto Gimenez, 678
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Espa�a, 1431
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Vito Roca 705
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L6R llegó a 1 De Marzo, 405
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 26 ===
+🚌 Línea L1I llegó a Dorrego, 416
+🔻 Pasajero 95 bajó
+🔺 Pasajero 104 subió
+🔺 Pasajero 105 subió
+🔺 Pasajero 106 subió
+🔺 Pasajero 107 subió
+🔺 Pasajero 108 subió
+👥 Bajaron: 1 | Subieron: 5 | A bordo: 9
+🚌 Línea L1R llegó a Avenida Juan Muzzio, 258
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Pedro Derbes, 660
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Fuerte San Jos�, 742
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L3I finalizó su recorrido.
+🚌 Línea L5I llegó a La Pampa, 698
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Manuel Garc�a 705
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L6R finalizó su recorrido.
+
+=== PARADA 27 ===
+🚌 Línea L1I llegó a Marcos A. Zar, 1998
+🔻 Pasajero 106 bajó
+🔺 Pasajero 113 subió
+🔺 Pasajero 114 subió
+🔺 Pasajero 115 subió
+🔺 Pasajero 116 subió
+👥 Bajaron: 1 | Subieron: 4 | A bordo: 12
+🚌 Línea L1R llegó a Avenida Juan Muzzio, 482
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Roberto G�mez, 550
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Avenida Juan Muzzio, 15-198
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5I llegó a Luis Urtazun, 624
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Periodistas Chubutenses, 500
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 28 ===
+🚌 Línea L1I llegó a Mariano Moreno, 193
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 12
+🚌 Línea L1R llegó a Gobernador Alejandro Maiz, 315
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Avenida Juan Muzzio, 258
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Pedro Derbes, 1040
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L5I finalizó su recorrido.
+🚌 Línea L5R llegó a Jos� Contin 712
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 29 ===
+🚌 Línea L1I llegó a Bartolom� Mitre, 610
+🔻 Pasajero 94 bajó
+🔻 Pasajero 113 bajó
+👥 Bajaron: 2 | Subieron: 0 | A bordo: 10
+🚌 Línea L1R llegó a Belgrano, 314
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Avenida Juan Muzzio, 482
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Pedro Derbes, 1102
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Jos� Alberdi 720
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 30 ===
+🚌 Línea L1I llegó a Bartolom� Mitre, 401
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 10
+🚌 Línea L1R llegó a 25 De Mayo, 299
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Hip�lito Yrigoyen, 802
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Pasaje 22 De Abril, 308
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Santiago Del Estero, 727
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 31 ===
+🚌 Línea L1I llegó a 28 De Julio, 200
+🔻 Pasajero 108 bajó
+🔻 Pasajero 115 bajó
+👥 Bajaron: 2 | Subieron: 0 | A bordo: 8
+🚌 Línea L1R llegó a 25 De Mayo, 693
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Gobernador Alejandro Maiz, 315
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2R llegó a Esquel, 1352
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Espa�a 2451
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 32 ===
+🚌 Línea L1I llegó a General Mosconi, 100
+🔻 Pasajero 92 bajó
+👥 Bajaron: 1 | Subieron: 0 | A bordo: 7
+🚌 Línea L1R llegó a Dorrego, 109
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Belgrano, 314
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L2R finalizó su recorrido.
+🚌 Línea L5R llegó a Espa�a, 1660
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 33 ===
+🚌 Línea L1I llegó a Avenida Domec Garc�a Norte, 239
+🔻 Pasajero 96 bajó
+🔻 Pasajero 104 bajó
+👥 Bajaron: 2 | Subieron: 0 | A bordo: 5
+🚌 Línea L1R llegó a Marcos A. Zar, 1980
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a 25 De Mayo, 299
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Espa�a, 1450
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 34 ===
+🚌 Línea L1I llegó a Juli�n Murga, 950
+🔻 Pasajero 105 bajó
+🔻 Pasajero 116 bajó
+👥 Bajaron: 2 | Subieron: 0 | A bordo: 3
+🚌 Línea L1R llegó a San Mart�n, 1400
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a 25 De Mayo, 693
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Espa�a, 928
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 35 ===
+🚌 Línea L1I llegó a Comodoro Mart�n Rivadavia, 750
+🔻 Pasajero 107 bajó
+👥 Bajaron: 1 | Subieron: 0 | A bordo: 2
+🚌 Línea L1R llegó a San Mart�n, 1220
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Avenida Julio Argentino Roca, 1567
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Sarmiento, 229
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 36 ===
+🚌 Línea L1I llegó a Comodoro Mart�n Rivadavia, 602
+🔻 Pasajero 93 bajó
+🔻 Pasajero 114 bajó
+👥 Bajaron: 2 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Espa�a, 485
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Avenida Julio Argentino Roca, 2251
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Bartolom� Mitre, 401
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 37 ===
+🚌 Línea L1I llegó a Roberto G�mez, 1017
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L1R llegó a Villegas, 700
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Abraham Mathews, 2525
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a 28 De Julio, 200
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 38 ===
+✅ Colectivo de línea L1I finalizó su recorrido.
+🚌 Línea L1R llegó a Espa�a, 1431
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Bv. Almirante Brown, 2925
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Hip�lito Yrigoyen, 457
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 39 ===
+🚌 Línea L1R llegó a La Pampa, 698
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L2I llegó a Bv. Almirante Brown, 3053
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Bouchard, 400
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 40 ===
+🚌 Línea L1R llegó a Espa�a, 2375
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+✅ Colectivo de línea L2I finalizó su recorrido.
+🚌 Línea L5R llegó a Vicente L�pez Y Planes, 315
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 41 ===
+🚌 Línea L1R llegó a Soldado Desconocido, 1265
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+🚌 Línea L5R llegó a Avenida Juan Xxiii, 1708
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 42 ===
+✅ Colectivo de línea L1R finalizó su recorrido.
+🚌 Línea L5R llegó a Necochea, 1022
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 43 ===
+🚌 Línea L5R llegó a Alto R�o Senguer, 1311
+👥 Bajaron: 0 | Subieron: 0 | A bordo: 0
+
+=== PARADA 44 ===
+✅ Colectivo de línea L5R finalizó su recorrido.
+
+🛑 Simulación finalizada.
+⭐ Índice de satisfacción: 0,92
+🚏 Colectivo 0 (Línea L1I) - Ocupación promedio: 0,40
+🚏 Colectivo 1 (Línea L1R) - Ocupación promedio: 0,25
+🚏 Colectivo 2 (Línea L2I) - Ocupación promedio: 0,23
+🚏 Colectivo 3 (Línea L2R) - Ocupación promedio: 0,28
+🚏 Colectivo 4 (Línea L3I) - Ocupación promedio: 0,16
+🚏 Colectivo 5 (Línea L3R) - Ocupación promedio: 0,16
+🚏 Colectivo 6 (Línea L4I) - Ocupación promedio: 0,15
+🚏 Colectivo 7 (Línea L4R) - Ocupación promedio: 0,15
+🚏 Colectivo 8 (Línea L5I) - Ocupación promedio: 0,22
+🚏 Colectivo 9 (Línea L5R) - Ocupación promedio: 0,28
+🚏 Colectivo 10 (Línea L6I) - Ocupación promedio: 0,09
+🚏 Colectivo 11 (Línea L6R) - Ocupación promedio: 0,18

@@ -3,19 +3,60 @@ package presentacion;
 import domain.Colectivo;
 import domain.Parada;
 import domain.Pasajero;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
 
 /**
  * Clase encargada de mostrar los eventos y estados de la simulación por consola.
  * Centraliza todos los mensajes de salida para separar la lógica de presentación del resto del sistema.
+ * Permite opcionalmente guardar la salida en un archivo.
  */
 public class VistaPorConsola {
+
+    private PrintStream archivoOut = null;
+
+    /**
+     * Constructor por defecto: solo salida por consola.
+     */
+    public VistaPorConsola() {}
+
+    /**
+     * Constructor que permite especificar un archivo para guardar la salida.
+     * @param rutaArchivo Ruta del archivo de salida.
+     * @throws FileNotFoundException Si no se puede crear el archivo.
+     */
+    public VistaPorConsola(String rutaArchivo) throws FileNotFoundException {
+        archivoOut = new PrintStream(rutaArchivo);
+    }
+
+    private void imprimir(String mensaje) {
+        System.out.println(mensaje);
+        if (archivoOut != null) archivoOut.println(mensaje);
+    }
+
+    private void imprimirError(String mensaje) {
+        System.err.println(mensaje);
+        if (archivoOut != null) archivoOut.println(mensaje);
+    }
+
+    private void imprimirf(String formato, Object... args) {
+        System.out.printf(formato, args);
+        if (archivoOut != null) archivoOut.printf(formato, args);
+    }
+
+    /**
+     * Cierra el archivo de salida si está abierto.
+     */
+    public void cerrarArchivo() {
+        if (archivoOut != null) archivoOut.close();
+    }
 
     /**
      * Muestra el inicio de una nueva parada.
      * @param numeroParada Número de la parada actual.
      */
     public void mostrarInicioParada(final int numeroParada) {
-        System.out.println("\n=== PARADA " + numeroParada + " ===");
+        imprimir("\n=== PARADA " + numeroParada + " ===");
     }
 
     /**
@@ -23,7 +64,7 @@ public class VistaPorConsola {
      * @param p Pasajero que sube.
      */
     public void mostrarPasajeroSubio(final Pasajero p) {
-        System.out.println("🔺 Pasajero " + p.getId() + " subió");
+        imprimir("🔺 Pasajero " + p.getId() + " subió");
     }
 
     /**
@@ -31,7 +72,7 @@ public class VistaPorConsola {
      * @param p Pasajero que baja.
      */
     public void mostrarPasajeroBajo(final Pasajero p) {
-        System.out.println("🔻 Pasajero " + p.getId() + " bajó");
+        imprimir("🔻 Pasajero " + p.getId() + " bajó");
     }
 
     /**
@@ -41,7 +82,7 @@ public class VistaPorConsola {
      * @param subieron Cantidad de pasajeros que subieron.
      */
     public void mostrarEstadoColectivo(final Colectivo c, final int bajaron, final int subieron) {
-        System.out.println("👥 Bajaron: " + bajaron + " | Subieron: " + subieron + " | A bordo: " + c.getCantidadPasajeros());
+        imprimir("👥 Bajaron: " + bajaron + " | Subieron: " + subieron + " | A bordo: " + c.getCantidadPasajeros());
     }
 
     /**
@@ -50,7 +91,7 @@ public class VistaPorConsola {
      * @param p Parada a la que llegó el colectivo.
      */
     public void mostrarLlegadaColectivo(final Colectivo c, final Parada p) {
-        System.out.println("🚌 Línea " + c.getLinea().getCodigo() + " llegó a " + p.getDireccion());
+        imprimir("🚌 Línea " + c.getLinea().getCodigo() + " llegó a " + p.getDireccion());
     }
 
     /**
@@ -58,14 +99,14 @@ public class VistaPorConsola {
      * @param c Colectivo que finalizó su recorrido.
      */
     public void mostrarFinRecorrido(final Colectivo c) {
-        System.out.println("✅ Colectivo de línea " + c.getLinea().getCodigo() + " finalizó su recorrido.");
+        imprimir("✅ Colectivo de línea " + c.getLinea().getCodigo() + " finalizó su recorrido.");
     }
 
     /**
      * Muestra el mensaje de finalización de la simulación.
      */
     public void mostrarFinSimulacion() {
-        System.out.println("\n🛑 Simulación finalizada.");
+        imprimir("\n🛑 Simulación finalizada.");
     }
 
     /**
@@ -73,7 +114,7 @@ public class VistaPorConsola {
      * @param idParada ID de la parada no encontrada.
      */
     public void mostrarAdvertenciaParadaNoEncontrada(final int idParada) {
-        System.err.println("⚠️ Parada no encontrada para ID: " + idParada);
+        imprimirError("⚠️ Parada no encontrada para ID: " + idParada);
     }
 
     /**
@@ -83,7 +124,7 @@ public class VistaPorConsola {
      * @param cantidad Cantidad de pasajeros que quedaron esperando.
      */
     public void mostrarColectivoLlenoYPasajerosEsperando(final Colectivo c, final Parada p, final int cantidad) {
-        System.out.println("⚠️ Colectivo de línea " + c.getLinea().getCodigo() +
+        imprimir("⚠️ Colectivo de línea " + c.getLinea().getCodigo() +
             " está lleno en " + p.getDireccion() +
             ". Quedaron " + cantidad + " pasajeros esperando.");
     }
@@ -93,7 +134,7 @@ public class VistaPorConsola {
      * @param indice Valor del índice de satisfacción (entre 0 y 1).
      */
     public void mostrarIndiceSatisfaccion(final double indice) {
-        System.out.printf("⭐ Índice de satisfacción: %.2f%n", indice);
+        imprimirf("⭐ Índice de satisfacción: %.2f%n", indice);
     }
 
     /**
@@ -102,7 +143,7 @@ public class VistaPorConsola {
      * @param promedio Valor promedio de ocupación (entre 0 y 1).
      */
     public void mostrarOcupacionPromedio(final Colectivo colectivo, final double promedio) {
-        System.out.printf("🚏 Colectivo %d (Línea %s) - Ocupación promedio: %.2f%n",
+        imprimirf("🚏 Colectivo %d (Línea %s) - Ocupación promedio: %.2f%n",
             colectivo.getId(), colectivo.getLinea().getCodigo(), promedio);
     }
 
@@ -111,6 +152,21 @@ public class VistaPorConsola {
      * @param idStr ID de parada no válido como string.
      */
     public void mostrarAdvertenciaParadaNoValida(String idStr) {
-        System.err.println("[!] ID de parada no válido en archivo de líneas: " + idStr);
+        imprimirError("[!] ID de parada no válido en archivo de líneas: " + idStr);
+    }
+
+    /**
+     * Crea una instancia de VistaPorConsola que guarda la salida en el archivo indicado.
+     * Si ocurre un error, retorna una instancia que solo muestra por consola.
+     * @param rutaArchivo Ruta del archivo de salida.
+     * @return VistaPorConsola configurada.
+     */
+    public static VistaPorConsola crearConArchivo(String rutaArchivo) {
+        try {
+            return new VistaPorConsola(rutaArchivo);
+        } catch (FileNotFoundException e) {
+            System.err.println("No se pudo crear el archivo de salida en " + rutaArchivo + ", solo se mostrará por consola.");
+            return new VistaPorConsola();
+        }
     }
 }

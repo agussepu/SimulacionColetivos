@@ -11,9 +11,10 @@ import util.*;
 
 public class SimulacionColectivos {
     public static void main(String[] args) {
-        // Crear la vista para mostrar información por consola
-        VistaPorConsola vista = new VistaPorConsola();
-        
+
+        // Configurar la salida de la simulación a un archivo o consola
+        VistaPorConsola vista = VistaPorConsola.crearConArchivo(Configuracion.getArchivoSalidaSimulacion());
+    
         // Cargar archivos de paradas y líneas usando la configuración
         Datos datos = new Datos(Configuracion.getArchivoParadas(), Configuracion.getArchivoLineas(), vista);
         
@@ -32,5 +33,6 @@ public class SimulacionColectivos {
         // Crear el simulador y ejecutar la simulación
         Simulador simulador = new Simulador(colectivos, vista);
         simulador.ejecutar();
+        vista.cerrarArchivo();
     }
 }
