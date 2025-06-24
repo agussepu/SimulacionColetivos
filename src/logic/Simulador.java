@@ -3,7 +3,7 @@ package logic;
 import config.Configuracion;
 import domain.*;
 import java.util.*;
-import presentacion.VistaPorConsola;
+import presentacion.SimulacionOutput;
 import util.EstadisticasSimulacion;
 
 /**
@@ -12,13 +12,13 @@ import util.EstadisticasSimulacion;
  */
 public class Simulador {
     private final int MAX_CAPACIDAD = Configuracion.getCantidadPasajeros();
-    private final VistaPorConsola vista;
+    private final SimulacionOutput vista;
     private final List<Colectivo> colectivos;
     private final Map<Colectivo, Integer> posiciones = new HashMap<>();
     private final Map<Colectivo, Integer> vueltas = new HashMap<>();
     private final int MAX_VUELTAS = Configuracion.getMaxVueltas();
     
-    public Simulador(List<Colectivo> colectivos, VistaPorConsola vista) {
+    public Simulador(List<Colectivo> colectivos, SimulacionOutput vista) {
         this.colectivos = colectivos;
         this.vista = vista;
         inicializarColectivos();

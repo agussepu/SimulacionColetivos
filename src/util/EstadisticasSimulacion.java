@@ -3,7 +3,7 @@ package util;
 import domain.Colectivo;
 import domain.Pasajero;
 import java.util.List;
-import presentacion.VistaPorConsola;
+import presentacion.SimulacionOutput;
 
 public class EstadisticasSimulacion {
 
@@ -15,7 +15,7 @@ public class EstadisticasSimulacion {
      * @param maxCapacidad Capacidad máxima de cada colectivo.
      * @param vista Instancia de VistaPorConsola para mostrar los resultados.
      */
-    public static void mostrarEstadisticasFinales(List<Colectivo> colectivos, int maxCapacidad, VistaPorConsola vista) {
+    public static void mostrarEstadisticasFinales(List<Colectivo> colectivos, int maxCapacidad, SimulacionOutput vista) {
         vista.mostrarFinSimulacion();
         mostrarIndiceSatisfaccion(util.AdministracionPasajeros.getTodosLosPasajeros(), vista);
         mostrarOcupacionPromedioPorColectivo(colectivos, maxCapacidad, vista);
@@ -28,7 +28,7 @@ public class EstadisticasSimulacion {
      * @param todos Lista de todos los pasajeros.
      * @param vista Instancia de VistaPorConsola para mostrar el resultado.
      */
-    public static void mostrarIndiceSatisfaccion(List<Pasajero> todos, VistaPorConsola vista) {
+    public static void mostrarIndiceSatisfaccion(List<Pasajero> todos, SimulacionOutput vista) {
         int suma = 0;
         for (Pasajero p : todos) {
             suma += p.getCalificacion();
@@ -45,7 +45,7 @@ public class EstadisticasSimulacion {
      * @param maxCapacidad Capacidad máxima de cada colectivo.
      * @param vista Instancia de VistaPorConsola para mostrar los resultados.
      */
-    public static void mostrarOcupacionPromedioPorColectivo(List<Colectivo> colectivos, int maxCapacidad, VistaPorConsola vista) {
+    public static void mostrarOcupacionPromedioPorColectivo(List<Colectivo> colectivos, int maxCapacidad, SimulacionOutput vista) {
         for (Colectivo colectivo : colectivos) {
             List<Integer> ocupaciones = colectivo.getOcupacionPorTramo();
             double sumaOcupacion = 0;

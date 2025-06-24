@@ -12,18 +12,18 @@ import java.util.List;
  * Centraliza todos los mensajes de salida para separar la lógica de presentación del resto del sistema.
  * Permite opcionalmente guardar la salida en un archivo.
  */
-public class VistaPorConsola {
+public class SimulacionOutput {
 
     private PrintStream archivoOut = null;
 
-    public VistaPorConsola() {} // Constructor por defecto: solo salida por consola.
+    public SimulacionOutput() {} // Constructor por defecto: solo salida por consola.
 
     /**
      * Constructor que permite especificar un archivo para guardar la salida.
      * @param rutaArchivo Ruta del archivo de salida.
      * @throws FileNotFoundException Si no se puede crear el archivo.
      */
-    public VistaPorConsola(String rutaArchivo) throws FileNotFoundException {
+    public SimulacionOutput(String rutaArchivo) throws FileNotFoundException {
         archivoOut = new PrintStream(rutaArchivo);
     }
 
@@ -76,12 +76,12 @@ public class VistaPorConsola {
      * @param rutaArchivo Ruta del archivo de salida.
      * @return VistaPorConsola configurada.
      */
-    public static VistaPorConsola crearConArchivo(String rutaArchivo) {
+    public static SimulacionOutput crearConArchivo(String rutaArchivo) {
         try {
-            return new VistaPorConsola(rutaArchivo);
+            return new SimulacionOutput(rutaArchivo);
         } catch (FileNotFoundException e) {
             System.err.println("No se pudo crear el archivo de salida en " + rutaArchivo + ", solo se mostrará por consola.");
-            return new VistaPorConsola();
+            return new SimulacionOutput();
         }
     }
 

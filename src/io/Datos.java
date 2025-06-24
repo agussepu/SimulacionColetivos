@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import presentacion.VistaPorConsola;
+import presentacion.SimulacionOutput;
 
 /**
  * Clase encargada de la carga de datos desde archivos de texto para la simulación.
@@ -20,7 +20,7 @@ public class Datos {
     private final String archivoLineas;
     private static final String SEPARADOR = ";";
     private static final String COMENTARIO = "#";
-    private final VistaPorConsola vista;
+    private final SimulacionOutput vista;
 
     /**
      * Crea una instancia de Datos con los archivos de paradas y líneas especificados.
@@ -28,7 +28,7 @@ public class Datos {
      * @param archivoLineas Ruta del archivo de líneas.
      * @param vista Instancia de la vista para mostrar advertencias o mensajes.
      */
-    public Datos(String archivoParadas, String archivoLineas, VistaPorConsola vista) {
+    public Datos(String archivoParadas, String archivoLineas, SimulacionOutput vista) {
         this.archivoParadas = archivoParadas;
         this.archivoLineas = archivoLineas;
         this.vista = vista;

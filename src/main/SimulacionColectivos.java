@@ -6,14 +6,14 @@ import io.Datos;
 import java.util.List;
 import java.util.Map;
 import logic.Simulador;
-import presentacion.VistaPorConsola;
+import presentacion.SimulacionOutput;
 import util.*;
 
 public class SimulacionColectivos {
     public static void main(String[] args) {
 
         // Configurar la salida de la simulación a un archivo o consola
-        VistaPorConsola vista = VistaPorConsola.crearConArchivo(Configuracion.getArchivoSalidaSimulacion());
+        SimulacionOutput vista = SimulacionOutput.crearConArchivo(Configuracion.getArchivoSalidaSimulacion());
     
         // Cargar archivos de paradas y líneas usando la configuración
         Datos datos = new Datos(Configuracion.getArchivoParadas(), Configuracion.getArchivoLineas(), vista);
