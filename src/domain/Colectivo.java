@@ -26,33 +26,33 @@ public class Colectivo {
     }
 
     /**
-     * Permite que los pasajeros suban al colectivo desde una parada,
-     * verificando que su destino esté en el recorrido futuro.
-     * 
-     * @param parada Parada actual donde está el colectivo
-     * @param posicionActual Posición actual en el recorrido de la línea
-     * @param maxCapacidad Capacidad máxima del colectivo
-     * @return Lista de pasajeros que subieron
+     * Permite que los pasajeros esperen en una parada suban al colectivo.
+     * Se verifica si el colectivo tiene espacio y si los pasajeros quieren subir.
+     *
+     * @param parada Parada desde donde se suben los pasajeros.
+     * @param posicionActual Posición actual del colectivo en el recorrido.
+     * @param maxCapacidad Capacidad máxima del colectivo.
+     * @return Lista de pasajeros que subieron al colectivo.
      */
     public List<Pasajero> subirPasajerosDesdeParada(Parada parada, int posicionActual, int maxCapacidad) {
         int espacioDisponible = maxCapacidad - pasajeros.size();
         List<Pasajero> subieron = new ArrayList<>();
-        
-        //FIFO
         Iterator<Pasajero> it = parada.getPasajerosEsperando().iterator();
         while (it.hasNext() && subieron.size() < espacioDisponible) {
             Pasajero p = it.next();
-            
-            // Verificar si el destino está en el recorrido futuro
-            if (destinoEstaEnRecorridoFuturo(p.getDestino(), posicionActual) && p.quiereSubirA(this, parada)) {
+            if (puedeSubir(p, parada, posicionActual)) {
                 subieron.add(p);
                 it.remove();
                 p.calificarAlSubir(pasajeros.size() + subieron.size() - 1, maxCapacidad);
             }
         }
-        
         pasajeros.addAll(subieron);
         return subieron;
+    }
+
+    public boolean puedeSubir(Pasajero pasajero, Parada parada, int posicionActual) {
+        return destinoEstaEnRecorridoFuturo(pasajero.getDestino(), posicionActual)
+            && pasajero.quiereSubirA(this, parada);
     }
 
     /**

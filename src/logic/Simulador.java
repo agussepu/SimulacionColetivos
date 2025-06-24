@@ -11,17 +11,11 @@ import util.EstadisticasSimulacion;
  * la subida y bajada de pasajeros, y la recopilación de estadísticas finales.
  */
 public class Simulador {
-    // Capacidad máxima de pasajeros por colectivo.
     private final int MAX_CAPACIDAD = Configuracion.getCantidadPasajeros();
-    // Vista para mostrar información de la simulación por consola.
     private final VistaPorConsola vista;
-    // Lista de colectivos que participan en la simulación.
     private final List<Colectivo> colectivos;
-    // Mapa que almacena la posición actual de cada colectivo en su recorrido. 
     private final Map<Colectivo, Integer> posiciones = new HashMap<>();
-    // Mapa que almacena la cantidad de vueltas completadas por cada colectivo. 
     private final Map<Colectivo, Integer> vueltas = new HashMap<>();
-    // Cantidad máxima de vueltas que puede realizar cada colectivo. 
     private final int MAX_VUELTAS = Configuracion.getMaxVueltas();
     
     public Simulador(List<Colectivo> colectivos, VistaPorConsola vista) {
@@ -78,7 +72,8 @@ public class Simulador {
 
         if (vueltas.get(colectivo) < MAX_VUELTAS) {
             if (pos < paradas.size()) {
-                procesarParada(colectivo, paradas, pos);
+                Parada actual = paradas.get(pos);
+                procesarParada(colectivo, actual, pos);
                 return true;
             } else {
                 return procesarFinDeRecorrido(colectivo);
@@ -88,16 +83,17 @@ public class Simulador {
     }
 
     /**
-     * Procesa la llegada de un colectivo a una parada específica.
-     * Muestra la llegada del colectivo, gestiona la subida y bajada de pasajeros,
-     * y actualiza el estado del colectivo.
+     * Procesa todas las acciones que ocurren cuando un colectivo llega a una parada.
+     * Esto incluye mostrar la llegada, gestionar la bajada y subida de pasajeros,
+     * mostrar los eventos ocurridos, actualizar el estado del colectivo,
+     * registrar la ocupación del tramo, mostrar advertencias si el colectivo está lleno,
+     * y avanzar la posición del colectivo al siguiente tramo.
      *
-     * @param colectivo El colectivo que llega a la parada.
-     * @param paradas La lista de paradas de la línea del colectivo.
+     * @param colectivo El colectivo que está procesando la parada.
+     * @param actual La parada actual donde se encuentra el colectivo.
      * @param pos La posición actual del colectivo en la lista de paradas.
      */
-    private void procesarParada(Colectivo colectivo, List<Parada> paradas, int pos) {
-        Parada actual = paradas.get(pos);
+    private void procesarParada(Colectivo colectivo, Parada actual, int pos) {
         vista.mostrarLlegadaColectivo(colectivo, actual);
 
         List<Pasajero> bajaron = colectivo.bajarPasajerosEn(actual);
@@ -107,42 +103,33 @@ public class Simulador {
         vista.mostrarEstadoColectivo(colectivo, bajaron.size(), subieron.size());
         colectivo.registrarOcupacionTramo();
 
-        verificarYMostrarAdvertenciaColectivoLleno(colectivo, actual);
+        if (colectivo.getCantidadPasajeros() == MAX_CAPACIDAD) 
+            mostrarAdvertenciaColectivoLleno(colectivo, actual);
 
         posiciones.put(colectivo, pos + 1);
     }
 
     /**
-     * Verifica si el colectivo está lleno y muestra una advertencia si es necesario.
-     * También cuenta cuántos pasajeros están esperando con un destino válido en la parada actual.
+     * Muestra una advertencia cuando el colectivo está lleno y hay pasajeros esperando
+     * en la parada actual que podrían haber subido si hubiera espacio disponible.
      *
-     * @param colectivo El colectivo que se está procesando.
-     * @param actual La parada actual donde se encuentra el colectivo.
-     */
-    private void verificarYMostrarAdvertenciaColectivoLleno(Colectivo colectivo, Parada actual) {
-        if (colectivo.getCantidadPasajeros() == MAX_CAPACIDAD) {
-            int esperando = contarPasajerosConDestinoValido(colectivo, actual);
-            vista.mostrarAdvertenciaColectivoLleno(colectivo, actual, esperando);
-        }
-    }
-
-    /**
-     * Cuenta cuántos pasajeros en la parada actual tienen un destino válido para subir al colectivo.
-     * Un destino válido es aquel que está en el recorrido futuro del colectivo.
+     * Cuenta cuántos pasajeros en la parada actual desean y pueden subir al colectivo,
+     * pero no pueden hacerlo porque el colectivo ya alcanzó su capacidad máxima.
+     * Luego, muestra esta información a través de la vista.
      *
-     * @param colectivo El colectivo que se está procesando.
-     * @param actual La parada actual donde se encuentran los pasajeros.
-     * @return El número de pasajeros que quieren subir al colectivo desde la parada actual.
+     * @param colectivo El colectivo que está lleno.
+     * @param actual La parada actual donde se encuentran los pasajeros esperando.
      */
-    private int contarPasajerosConDestinoValido(Colectivo colectivo, Parada actual) {
-        int count = 0;
+    private void mostrarAdvertenciaColectivoLleno(Colectivo colectivo, Parada actual) {
+        int esperando = 0;
         for (Pasajero p : actual.getPasajerosEsperando()) {
             if (p.quiereSubirA(colectivo, actual)) {
-                count++;
+                esperando++;
             }
         }
-        return count;
+        vista.mostrarAdvertenciaColectivoLleno(colectivo, actual, esperando);
     }
+
 
     /**
      * Procesa el fin del recorrido de un colectivo.
@@ -154,13 +141,17 @@ public class Simulador {
      */
     private boolean procesarFinDeRecorrido(Colectivo colectivo) {
         vista.mostrarFinRecorrido(colectivo);
+
         int vueltasActuales = vueltas.get(colectivo) + 1;
         vueltas.put(colectivo, vueltasActuales);
-        if (vueltasActuales < MAX_VUELTAS) {
-            posiciones.put(colectivo, 0);
-            return true;
-        }
-        return false;
+
+        boolean sigueEnCirculacion = vueltasActuales < MAX_VUELTAS;
+
+        if (sigueEnCirculacion) 
+            posiciones.put(colectivo, 0); // Reinicia el recorrido
+        
+        return sigueEnCirculacion;
     }
+
 
 }

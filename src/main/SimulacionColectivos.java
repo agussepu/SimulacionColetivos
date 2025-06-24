@@ -34,7 +34,7 @@ public class SimulacionColectivos {
         Simulador simulador = new Simulador(colectivos, vista);
         simulador.ejecutar();
         
-        // cerrar el archivo de salida si se está utilizando
+        // Cerrar el archivo de salida si se está utilizando
         vista.cerrarArchivo();
     }
 }

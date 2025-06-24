@@ -20,8 +20,8 @@ public class AdministracionColectivos {
         List<Colectivo> colectivos = new ArrayList<>();
         int id = 0;
 
-        for(Linea l: lineas) {
-            Colectivo colectivo = new Colectivo(id++, l);
+        for(Linea linea: lineas) {
+            Colectivo colectivo = new Colectivo(id++, linea);
             colectivos.add(colectivo);
         }
 

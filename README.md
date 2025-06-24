@@ -26,7 +26,7 @@
    - Se muestra el estado de cada colectivo, indicando cuántos pasajeros suben, bajan y quedan a bordo.
 
 7. **Finalización:**  
-   La simulación concluye cuando todos los colectivos han completado su recorrido por sus respectivas líneas y se muestran los resultados finales.
+   La simulación concluye cuando todos los colectivos han completado su recorrido por sus respectivas líneas, se muestran los resultados finales por consola y ademas se guardan en data/salida_simulacion.txt.
 
 ---
 

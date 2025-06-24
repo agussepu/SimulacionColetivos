@@ -15,7 +15,7 @@ import java.util.Random;
 public class AdministracionPasajeros {
     private static final Random random = new Random();
     private static final List<Pasajero> todosLosPasajeros = new ArrayList<>();
-
+    private static final int MAX_PASAJEROS_POR_PARADA = Configuracion.getMaxPasajerosPorParada();
 
     /**
      * Genera pasajeros para cada línea proporcionada, asignando IDs únicos y
@@ -42,10 +42,11 @@ public class AdministracionPasajeros {
     private static int generarPasajerosParaLinea(Linea linea, int idInicial) {
         List<Parada> paradas = linea.getParadas();
         int idPasajero = idInicial;
+        int cantidadParadas = paradas.size() - 1;
 
-        for (int i = 0; i < paradas.size() - 1; i++) {
+        for (int i = 0; i < cantidadParadas; i++) {
             Parada origen = paradas.get(i);
-            int cantidad = pasajerosAleatorios();
+            int cantidad = random.nextInt(MAX_PASAJEROS_POR_PARADA) + 1;
 
             for (int j = 0; j < cantidad; j++) {
                 Parada destino = elegirDestinoAleatorio(paradas, i);
@@ -56,16 +57,6 @@ public class AdministracionPasajeros {
         }
 
         return idPasajero;
-    }
-
-    /**
-     * Genera una cantidad aleatoria de pasajeros para una parada,
-     * basada en la configuración máxima permitida.
-     *
-     * @return Cantidad aleatoria de pasajeros (al menos 1).
-     */
-    private static int pasajerosAleatorios() {
-        return random.nextInt(Configuracion.getMaxPasajerosPorParada()) + 1;
     }
 
     /**
