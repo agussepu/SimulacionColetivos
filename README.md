@@ -47,16 +47,3 @@
     • Lotes de prueba
     • Posibles mejoras y extensiones
     • Conclusiones
-
----
-
-# Notas de posibles mejoras 
-   - Datos.java: 
-     - Deberia mejorar las validaciones a la hora de hacer ParseInt 
-     - Validar líneas vacías en parsearParada(...) y controlar errores. Actualmente asumís que partes[0] siempre es un número y partes[1] tiene texto
-     - Evitar crear líneas vacías (sin paradas)
-     - Recorrer la lista de pasajeros en la parada O(n)
-
-Complejidad 
-TADs
-Grafos?
